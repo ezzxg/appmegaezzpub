@@ -1,38 +1,29 @@
 [
     {
-        "category": "Premier League",
-        "title": "Manchester United vs Bournemouth",
+        "category": "Carabao Cup",
+        "title": "Cardiff City vs Chelsea",
         "subtitle": null,
-        "time": "17:01",
+        "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "La Liga de España",
-        "title": "Rayo Vallecano vs Real Betis",
+        "category": "Copa del Rey",
+        "title": "Deportivo de La Coruña vs Mallorca",
+        "subtitle": null,
+        "time": "15:00",
+        "channel_name": "FlowSports 2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "FlowSports 2"
+    },
+    {
+        "category": "Copa del Rey",
+        "title": "Guadalajara vs Barcelona",
         "subtitle": null,
         "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Serie A",
-        "title": "Roma vs Como",
-        "subtitle": null,
-        "time": "16:45",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "NFL (Fútbol Americano)",
-        "title": "Pittsburgh Steelers vs Miami Dolphins",
-        "subtitle": null,
-        "time": "22:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "FlowSports"
     }
 ]
