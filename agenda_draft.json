@@ -7,14 +7,5 @@
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
-    },
-    {
-        "category": "NFL (Fútbol Americano)",
-        "title": "Pittsburgh Steelers vs Miami Dolphins",
-        "subtitle": null,
-        "time": "22:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
     }
 ]
