@@ -25,5 +25,14 @@
         "channel_name": "FlowSports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "FlowSports"
+    },
+    {
+        "category": "Premiación",
+        "title": "Premios The Best",
+        "subtitle": null,
+        "time": "14:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
     }
 ]
