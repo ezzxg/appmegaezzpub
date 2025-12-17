@@ -16,5 +16,14 @@
         "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Eventos1"
+    },
+    {
+        "category": "Carabao Cup",
+        "title": "Newcastle United vs Fulham",
+        "subtitle": null,
+        "time": "17:15",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
