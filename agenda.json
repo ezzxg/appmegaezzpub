@@ -1,38 +1,56 @@
 [
     {
-        "category": "Carabao Cup",
-        "title": "Cardiff City vs Chelsea",
+        "category": "Copa Intercontinental",
+        "title": "Paris Saint-Germain vs Flamengo",
         "subtitle": null,
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "time": "14:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Carabao Cup",
+        "title": "Manchester City vs Brentford",
+        "subtitle": null,
+        "time": "16:30",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    },
+    {
+        "category": "Carabao Cup",
+        "title": "Newcastle United vs Fulham",
+        "subtitle": null,
+        "time": "17:15",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     },
     {
         "category": "Copa del Rey",
-        "title": "Deportivo de La Coruña vs Mallorca",
+        "title": "Atlético Baleares vs Atlético Madrid",
         "subtitle": null,
         "time": "15:00",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "FlowSports"
+    },
+    {
+        "category": "Copa del Rey",
+        "title": "Deportivo Alavés vs Sevilla",
+        "subtitle": null,
+        "time": "17:00",
         "channel_name": "FlowSports 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "FlowSports 2"
     },
     {
         "category": "Copa del Rey",
-        "title": "Guadalajara vs Barcelona",
+        "title": "Talavera vs Real Madrid",
         "subtitle": null,
         "time": "17:00",
         "channel_name": "FlowSports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "FlowSports"
-    },
-    {
-        "category": "NHL (Hockey sobre hielo)",
-        "title": "Pittsburgh Penguins vs Edmonton Oilers",
-        "subtitle": null,
-        "time": "21:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
     }
 ]
