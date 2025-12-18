@@ -7,5 +7,14 @@
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Copa de Portugal",
+        "title": "Porto vs. Famalicão",
+        "subtitle": null,
+        "time": "17:45",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports AR"
     }
 ]
