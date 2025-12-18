@@ -1,56 +1,11 @@
 [
     {
-        "category": "Copa Intercontinental",
-        "title": "Paris Saint-Germain vs Flamengo",
+        "category": "Supercopa de Italia",
+        "title": "Napoli vs AC MIlan",
         "subtitle": null,
-        "time": "14:00",
+        "time": "16:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Carabao Cup",
-        "title": "Manchester City vs Brentford",
-        "subtitle": null,
-        "time": "16:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Carabao Cup",
-        "title": "Newcastle United vs Fulham",
-        "subtitle": null,
-        "time": "17:15",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
-    },
-    {
-        "category": "Copa del Rey",
-        "title": "Atlético Baleares vs Atlético Madrid",
-        "subtitle": null,
-        "time": "15:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "FlowSports"
-    },
-    {
-        "category": "Copa del Rey",
-        "title": "Deportivo Alavés vs Sevilla",
-        "subtitle": null,
-        "time": "17:00",
-        "channel_name": "FlowSports 2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "FlowSports 2"
-    },
-    {
-        "category": "Copa del Rey",
-        "title": "Talavera vs Real Madrid",
-        "subtitle": null,
-        "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "FlowSports"
     }
 ]
