@@ -16,5 +16,14 @@
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
         "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Futbol",
+        "title": "Real Murcia vs Real Betis",
+        "subtitle": "Copa del Rey",
+        "time": "17:00",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "FlowSports"
     }
 ]
