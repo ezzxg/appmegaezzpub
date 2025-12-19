@@ -52,5 +52,14 @@
         "channel_name": "NBA",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "NBA"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Minnesota Timberwolves vs. Oklahoma City Thunder",
+        "subtitle": "NBA",
+        "time": "23:30",
+        "channel_name": "NBA",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "NBA"
     }
 ]
