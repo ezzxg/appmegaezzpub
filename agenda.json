@@ -43,5 +43,14 @@
         "channel_name": "ESPN 4 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR"
+    },
+    {
+        "category": "Futbol",
+        "title": "Osasuna vs Deportivo Alavés",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
     }
 ]
