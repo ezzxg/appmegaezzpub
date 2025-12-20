@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "category": "Futbol",
+        "title": "Estudiantes (LP) vs Platense",
+        "subtitle": "Trofeo de Campeones",
+        "time": "18:00",
+        "channel_name": "TNT Sports AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "TNT Sports AR"
+    }
+]
