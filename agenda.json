@@ -10,15 +10,6 @@
     },
     {
         "category": "Baloncesto",
-        "title": "New York Knicks vs. Philadelphia 76ers",
-        "subtitle": "NBA",
-        "time": "21:00",
-        "channel_name": "NBA",
-        "channel_logo_url": "https://bestleague.world/img/nba.svg",
-        "target_channel_name": "NBA"
-    },
-    {
-        "category": "Baloncesto",
         "title": "Minnesota Timberwolves vs. Oklahoma City Thunder",
         "subtitle": "NBA",
         "time": "23:30",
