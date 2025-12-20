@@ -10,15 +10,6 @@
     },
     {
         "category": "Futbol",
-        "title": "Bolonia vs Inter de Milán",
-        "subtitle": "Supercopa de Italia",
-        "time": "16:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Futbol",
         "title": "Borussia Dortmund vs Borussia Mönchengladbach",
         "subtitle": "Bundesliga",
         "time": "16:30",
