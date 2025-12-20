@@ -10,15 +10,6 @@
     },
     {
         "category": "Futbol",
-        "title": "Valencia vs Mallorca",
-        "subtitle": "La Liga",
-        "time": "17:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Futbol",
         "title": "Bolonia vs Inter de Milán",
         "subtitle": "Supercopa de Italia",
         "time": "16:00",
