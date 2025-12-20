@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "category": "Futbol",
+        "title": "Aston Villa vs Manchester United",
+        "subtitle": "Premier League",
+        "time": "13:30",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    }
+]
