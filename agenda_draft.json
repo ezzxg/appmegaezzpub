@@ -79,5 +79,14 @@
         "channel_name": "TyC Sports HD",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Automovilismo",
+        "title": "Top Race",
+        "subtitle": "Carburando",
+        "time": "09:30",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     }
 ]
