@@ -1,52 +1,34 @@
 [
     {
         "category": "Futbol",
-        "title": "Estudiantes (LP) vs Platense",
-        "subtitle": "Trofeo de Campeones",
-        "time": "18:00",
-        "channel_name": "TNT Sports AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "TNT Sports AR"
+        "title": "Aston Villa vs Manchester United",
+        "subtitle": "Premier League",
+        "time": "13:30",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
     },
     {
         "category": "Futbol",
-        "title": "Newcastle United vs Chelsea",
-        "subtitle": "Premier League",
-        "time": "09:30",
+        "title": "Girona vs Atlético Madrid",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "10:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Futbol",
-        "title": "Bournemouth vs Burnley",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Tottenham Hotspur vs Liverpool",
-        "subtitle": "Premier League",
-        "time": "14:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Levante vs Real Sociedad",
+        "title": "Villarreal vs FC Barcelona",
         "subtitle": "LALIGA EA SPORTS",
         "time": "12:15",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR"
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Futbol",
-        "title": "Osasuna vs Deportivo Alavés",
+        "title": "Elche vs Rayo Vallecano",
         "subtitle": "LALIGA EA SPORTS",
         "time": "14:30",
         "channel_name": "Dsports",
@@ -55,7 +37,7 @@
     },
     {
         "category": "Futbol",
-        "title": "Real Madrid vs Sevilla",
+        "title": "Real Betis vs Getafe",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
         "channel_name": "Dsports",
@@ -64,56 +46,65 @@
     },
     {
         "category": "Futbol",
-        "title": "Lazio vs Cremonese",
+        "title": "Cagliari vs Pisa",
         "subtitle": "Serie A",
-        "time": "14:00",
+        "time": "08:30",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
     },
     {
         "category": "Futbol",
-        "title": "Juventus vs Roma",
+        "title": "Sassuolo vs Torino",
         "subtitle": "Serie A",
-        "time": "16:45",
+        "time": "11:00",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
     },
     {
-        "category": "Boxeo",
-        "title": "J. Rosa vs J. Ilharregui",
-        "subtitle": "Boxeo de Primera",
-        "time": "22:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Boxeo",
-        "title": "J. Meza vs A. Vázquez",
-        "subtitle": "Boxeo de Primera",
-        "time": "22:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Boxeo",
-        "title": "Argi Cortes vs Yahir Frank",
-        "subtitle": "ESPN Knockout",
-        "time": "23:00",
+        "category": "Futbol",
+        "title": "Sassuolo vs Torino",
+        "subtitle": "Serie A",
+        "time": "11:00",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Futbol",
+        "title": "Deportivo Armenio vs Acassuso",
+        "subtitle": "B Metropolitana",
+        "time": "17:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Automovilismo",
+        "title": "Top Race",
+        "subtitle": "Carburando",
+        "time": "09:30",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     },
     {
         "category": "Automovilismo",
         "title": "TC 2000",
         "subtitle": "Carburando",
-        "time": "14:00",
+        "time": "13:00",
         "channel_name": "TyC Sports HD",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Futbol",
+        "title": "Vasco da Gama vs Corinthians",
+        "subtitle": "Copa de Brasil Final - Vuelta",
+        "time": "18:00",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
