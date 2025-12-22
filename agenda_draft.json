@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Elche vs Rayo Vallecano",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Futbol",
         "title": "Real Betis vs Getafe",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
