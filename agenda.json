@@ -1,110 +1,29 @@
 [
     {
         "category": "Futbol",
-        "title": "Aston Villa vs Manchester United",
+        "title": "Fulham vs Nottingham Forest",
         "subtitle": "Premier League",
-        "time": "13:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Futbol",
-        "title": "Girona vs Atlético Madrid",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "10:00",
+        "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Futbol",
-        "title": "Villarreal vs FC Barcelona",
+        "title": "Athletic Bilbao vs Espanyol",
         "subtitle": "LALIGA EA SPORTS",
-        "time": "12:15",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "time": "17:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     },
     {
         "category": "Futbol",
-        "title": "Elche vs Rayo Vallecano",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:30",
+        "title": "Nápoles vs Bolonia",
+        "subtitle": "Supercopa de Italia",
+        "time": "16:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Futbol",
-        "title": "Real Betis vs Getafe",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Futbol",
-        "title": "Cagliari vs Pisa",
-        "subtitle": "Serie A",
-        "time": "08:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Sassuolo vs Torino",
-        "subtitle": "Serie A",
-        "time": "11:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Sassuolo vs Torino",
-        "subtitle": "Serie A",
-        "time": "11:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Deportivo Armenio vs Acassuso",
-        "subtitle": "B Metropolitana",
-        "time": "17:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Automovilismo",
-        "title": "Top Race",
-        "subtitle": "Carburando",
-        "time": "09:30",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Automovilismo",
-        "title": "TC 2000",
-        "subtitle": "Carburando",
-        "time": "13:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Futbol",
-        "title": "Vasco da Gama vs Corinthians",
-        "subtitle": "Copa de Brasil Final - Vuelta",
-        "time": "18:00",
-        "channel_name": "PREMIERE HD",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "PREMIERE HD"
     }
 ]
