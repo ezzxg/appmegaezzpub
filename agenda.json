@@ -10,15 +10,6 @@
     },
     {
         "category": "Baloncesto",
-        "title": "Dallas Mavericks  vs. Denver Nuggets",
-        "subtitle": "NBA",
-        "time": "22:00",
-        "channel_name": "TNT Sports AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR"
-    },
-    {
-        "category": "Baloncesto",
         "title": "Los Angeles Clippers  vs. Houston Rockets",
         "subtitle": "NBA",
         "time": "00:30",
