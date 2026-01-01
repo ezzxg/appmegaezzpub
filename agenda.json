@@ -1,14 +1,5 @@
 [
     {
-        "category": "Futbol",
-        "title": "Arsenal vs Aston Villa",
-        "subtitle": "Premier League",
-        "time": "17:15",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
-    },
-    {
         "category": "Baloncesto",
         "title": "Philadelphia 76ers vs Memphis Grizzlies",
         "subtitle": "NBA",
