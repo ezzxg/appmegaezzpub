@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Burnley vs Newcastle United",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Futbol",
         "title": "Arsenal vs Aston Villa",
         "subtitle": "Premier League",
         "time": "17:15",
