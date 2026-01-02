@@ -1,5 +1,14 @@
 [
     {
+        "category": "Futbol",
+        "title": "Rayo Vallecano vs. Getafe",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    },
+    {
         "category": "Fútbol Americano NCAA",
         "title": "Alabama vs Indiana (Cuartos de Final #3)",
         "subtitle": "Fútbol Americano NCAA",
@@ -43,14 +52,5 @@
         "channel_name": "TyC Sports HD",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Futbol",
-        "title": "Rayo Vallecano vs. Getafe",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
     }
 ]
