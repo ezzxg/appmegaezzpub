@@ -25,5 +25,14 @@
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Dallas Mavericks vs Philadelphia 76ers",
+        "subtitle": "NBA",
+        "time": "22:30",
+        "channel_name": "NBA",
+        "channel_logo_url": "https://bestleague.world/img/nba.svg",
+        "target_channel_name": "NBA"
     }
 ]
