@@ -16,5 +16,14 @@
         "channel_name": "NBA",
         "channel_logo_url": "https://bestleague.world/img/nba.svg",
         "target_channel_name": "NBA"
+    },
+    {
+        "category": "Fútbol Americano NCAA",
+        "title": "Ole Miss vs Georgia (Cuartos de Final #4)",
+        "subtitle": "Fútbol Americano NCAA",
+        "time": "22:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
