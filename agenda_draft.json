@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Elche vs Villarreal",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Futbol",
         "title": "Espanyol vs FC Barcelona",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
