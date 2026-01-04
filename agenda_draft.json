@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Celta de Vigo vs Valencia",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "10:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Futbol",
         "title": "Osasuna vs Athletic Bilbao",
         "subtitle": "LALIGA EA SPORTS",
         "time": "12:15",
