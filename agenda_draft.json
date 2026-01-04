@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Génova vs Pisa",
-        "subtitle": "Serie A",
-        "time": "11:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Futbol",
         "title": "Juventus vs Lecce",
         "subtitle": "Serie A",
         "time": "14:00",
