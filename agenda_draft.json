@@ -394,5 +394,14 @@
         "channel_name": "TyC Sports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "TyC Sports"
+    },
+    {
+        "category": "Básquet",
+        "title": "Olympiacos vs. Bayern Munich",
+        "subtitle": "Olé",
+        "time": "16:15",
+        "channel_name": "DSports 2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "DSports 2"
     }
 ]
