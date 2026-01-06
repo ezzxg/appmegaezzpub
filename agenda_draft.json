@@ -160,5 +160,14 @@
         "channel_name": "ESPN / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Torino vs. Udinese",
+        "subtitle": "Olé",
+        "time": "16:30",
+        "channel_name": "Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney + Premium"
     }
 ]
