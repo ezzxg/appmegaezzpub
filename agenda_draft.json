@@ -142,5 +142,14 @@
         "channel_name": "ESPN 3 / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bologna vs. Atalanta",
+        "subtitle": "Olé",
+        "time": "14:30",
+        "channel_name": "ESPN 2 / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN 2"
     }
 ]
