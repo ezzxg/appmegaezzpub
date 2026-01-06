@@ -286,5 +286,14 @@
         "channel_name": "ESPN 3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Básquet",
+        "title": "Warriors vs Bucks",
+        "subtitle": "Olé",
+        "time": "00:00",
+        "channel_name": "ESPN 3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN 3"
     }
 ]
