@@ -43,5 +43,14 @@
         "channel_name": "TyC Sports HD",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Basquet",
+        "title": "Minnesota Timberwolves vs Miami Heat",
+        "subtitle": "NBA",
+        "time": "22:00",
+        "channel_name": "TNT Sports AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR"
     }
 ]
