@@ -124,5 +124,14 @@
         "channel_name": "ESPN 3 / DGO / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argentina vs. Japón",
+        "subtitle": "Olé",
+        "time": "07:00",
+        "channel_name": "Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney + Premium"
     }
 ]
