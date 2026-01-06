@@ -277,5 +277,14 @@
         "channel_name": "DSports +",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "DSports +"
+    },
+    {
+        "category": "Hockey sobre Hielo",
+        "title": "Dallas Stars va Washington Capitals",
+        "subtitle": "Olé",
+        "time": "21:00",
+        "channel_name": "ESPN 3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN 3"
     }
 ]
