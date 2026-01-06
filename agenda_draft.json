@@ -79,5 +79,14 @@
         "channel_name": "DSports / DGO",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "DSports"
+    },
+    {
+        "category": "Básquet",
+        "title": "Barcelona vs. Maccabi",
+        "subtitle": "Olé",
+        "time": "16:30",
+        "channel_name": "DSports 2 / DGO",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "DSports 2"
     }
 ]
