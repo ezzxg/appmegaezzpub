@@ -214,5 +214,14 @@
         "channel_name": "ESPN 2 / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 2"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Fulham vs. Chelsea",
+        "subtitle": "Olé",
+        "time": "16:30",
+        "channel_name": "ESPN / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN"
     }
 ]
