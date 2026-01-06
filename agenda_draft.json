@@ -223,5 +223,14 @@
         "channel_name": "Ver en Olé",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Canal"
+    },
+    {
+        "category": "Deportes",
+        "title": "Evento Deportivo",
+        "subtitle": "Olé",
+        "time": "00:00",
+        "channel_name": "Ver en Olé",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Canal"
     }
 ]
