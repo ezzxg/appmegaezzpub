@@ -16,5 +16,14 @@
         "channel_name": "ESPN 3 / Disney + Premium / DGO",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Pisa vs. Como",
+        "subtitle": "Olé",
+        "time": "11:00",
+        "channel_name": "ESPN / Disney + Premium / DGO",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN"
     }
 ]
