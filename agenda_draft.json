@@ -97,5 +97,14 @@
         "channel_name": "DSports + / DGO",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "DSports +"
+    },
+    {
+        "category": "Fútbol",
+        "title": "West Ham vs. Nottingham Forest",
+        "subtitle": "Olé",
+        "time": "17:00",
+        "channel_name": "ESPN / DGO / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN"
     }
 ]
