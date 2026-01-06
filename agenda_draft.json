@@ -106,5 +106,14 @@
         "channel_name": "ESPN / DGO / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN"
+    },
+    {
+        "category": "Básquet",
+        "title": "Obras vs. Unión (SF)",
+        "subtitle": "Olé",
+        "time": "21:30",
+        "channel_name": "TyC Sports / DGO",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "TyC Sports"
     }
 ]
