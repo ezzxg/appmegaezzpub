@@ -115,5 +115,14 @@
         "channel_name": "TyC Sports / DGO",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "TyC Sports"
+    },
+    {
+        "category": "Hockey sobre Hielo",
+        "title": "Toronto Maple Leafs vs. Florida Panthers",
+        "subtitle": "Olé",
+        "time": "21:30",
+        "channel_name": "ESPN 3 / DGO / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN 3"
     }
 ]
