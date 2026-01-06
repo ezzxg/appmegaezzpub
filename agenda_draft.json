@@ -1,15 +1,6 @@
 [
     {
         "category": "Futbol",
-        "title": "Marsella vs Nantes",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "11:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Futbol",
         "title": "Paris Saint-Germain vs Paris FC",
         "subtitle": "Ligue 1 McDonald's",
         "time": "16:45",
