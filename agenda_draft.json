@@ -196,5 +196,14 @@
         "channel_name": "116",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "116"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bournemouth vs. Tottenham Hotspur",
+        "subtitle": "Olé",
+        "time": "16:30",
+        "channel_name": "ESPN 3 / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN 3"
     }
 ]
