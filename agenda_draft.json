@@ -144,15 +144,6 @@
         "target_channel_name": "TNT Sports AR"
     },
     {
-        "category": "Baloncesto",
-        "title": "NBA: Mavericks vs Knicks",
-        "subtitle": "StreamTP",
-        "time": "23:00",
-        "channel_name": "NBA TV 2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "NBA TV 2"
-    },
-    {
         "category": "Deportes",
         "title": "Evento Deportivo",
         "subtitle": "Olé",
