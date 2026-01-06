@@ -61,5 +61,14 @@
         "channel_name": "Claro Sports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Claro Sports"
+    },
+    {
+        "category": "Básquet",
+        "title": "Fenerbahce vs. Olympiacos",
+        "subtitle": "Olé",
+        "time": "14:45",
+        "channel_name": "DSports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "DSports"
     }
 ]
