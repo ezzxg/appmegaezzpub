@@ -43,5 +43,14 @@
         "channel_name": "DGO / Disney + Premium / ESPN 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "DGO"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argelia vs. República Democrática del Congo",
+        "subtitle": "Olé",
+        "time": "13:00",
+        "channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Claro Sports"
     }
 ]
