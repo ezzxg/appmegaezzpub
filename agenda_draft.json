@@ -439,5 +439,14 @@
         "channel_name": "ESPN 3 / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Básquet",
+        "title": "Unión (SF) vs. Gimnasia (CR)",
+        "subtitle": "Olé",
+        "time": "21:00",
+        "channel_name": "DSports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "DSports"
     }
 ]
