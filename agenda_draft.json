@@ -52,14 +52,5 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": null,
         "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lazio vs Fiorentina",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
     }
 ]
