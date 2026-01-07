@@ -37,15 +37,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Newcastle vs Leeds",
-        "subtitle": "Premier League",
-        "time": "17:15",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Barcelona vs Athletic Bilbao",
         "subtitle": "Supercopa de España",
         "time": "16:00",
