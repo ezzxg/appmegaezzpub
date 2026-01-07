@@ -1,56 +1,56 @@
 [
     {
-        "category": "Futbol",
-        "title": "West Ham United vs Nottingham Forest",
+        "category": "Fútbol",
+        "title": "Manchester City vs Brighton",
         "subtitle": "Premier League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Lecce vs Roma",
-        "subtitle": "Serie A",
-        "time": "14:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Sassuolo vs Juventus",
-        "subtitle": "Serie A",
-        "time": "16:45",
+        "time": "16:30",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "channel_logo_url": null,
         "target_channel_name": "ESPN 2 AR"
     },
     {
-        "category": "Futbol",
-        "title": "Granada vs Rayo Vallecano",
-        "subtitle": "Copa del Rey",
-        "time": "15:00",
+        "category": "Fútbol",
+        "title": "Fulham vs Chelsea",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bournemouth vs Tottenham",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Barcelona vs Athletic Bilbao",
+        "subtitle": "Supercopa de España",
+        "time": "16:00",
         "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_logo_url": null,
         "target_channel_name": "FlowSports"
     },
     {
-        "category": "Basquet",
-        "title": "Obras vs Unión (SF)",
-        "subtitle": "Liga Nacional",
-        "time": "21:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "category": "Fútbol",
+        "title": "Nápoles vs Hellas Verona",
+        "subtitle": "Serie A Enilive",
+        "time": "14:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Basquet",
-        "title": "Minnesota Timberwolves vs Miami Heat",
-        "subtitle": "NBA",
-        "time": "22:00",
-        "channel_name": "TNT Sports AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR"
+        "category": "Fútbol",
+        "title": "Bolonia vs Atalanta",
+        "subtitle": "Serie A Enilive",
+        "time": "14:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
