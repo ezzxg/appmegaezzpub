@@ -7,5 +7,14 @@
         "channel_name": "ESPN 3",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Básquet",
+        "title": "Minnesota Timberwolves vs. Cleveland Cavaliers",
+        "subtitle": "Olé",
+        "time": "22:00",
+        "channel_name": "NBA League Pass",
+        "channel_logo_url": "https://bestleague.world/img/nba.svg",
+        "target_channel_name": "NBA League Pass"
     }
 ]
