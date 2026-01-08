@@ -11,11 +11,11 @@
     {
         "category": "Básquet",
         "title": "Spurs vs. Lakers",
-        "subtitle": "Olé",
+        "subtitle": "NBA",
         "time": "21:30",
-        "channel_name": "ESPN 3",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "ESPN 3"
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
