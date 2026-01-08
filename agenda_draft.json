@@ -16,5 +16,14 @@
         "channel_name": "NBA League Pass",
         "channel_logo_url": "https://bestleague.world/img/nba.svg",
         "target_channel_name": "NBA League Pass"
+    },
+    {
+        "category": "Básquet",
+        "title": "Utah Jazz vs. Dallas Mavericks",
+        "subtitle": "Olé",
+        "time": "23:00",
+        "channel_name": "NBA League Pass",
+        "channel_logo_url": "https://bestleague.world/img/nba.svg",
+        "target_channel_name": "NBA League Pass"
     }
 ]
