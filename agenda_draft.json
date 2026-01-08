@@ -142,5 +142,14 @@
         "channel_name": "Flow / 116",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Flow"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Arsenal vs. Liverpool",
+        "subtitle": "Olé",
+        "time": "17:00",
+        "channel_name": "ESPN / Disney + Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "ESPN"
     }
 ]
