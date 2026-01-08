@@ -38,11 +38,11 @@
     {
         "category": "Fútbol",
         "title": "Atlético Madrid vs. Real Madrid",
-        "subtitle": "Olé",
+        "subtitle": "Supercopa de España",
         "time": "16:00",
-        "channel_name": "Flow / 116",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Flow"
+        "channel_name": "FlowSports",
+        "channel_logo_url": null,
+        "target_channel_name": "FlowSports"
     },
     {
         "category": "Fútbol",
