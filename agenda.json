@@ -29,11 +29,11 @@
     {
         "category": "Fútbol",
         "title": "Milan vs. Genoa",
-        "subtitle": "Olé",
+        "subtitle": "Serie A",
         "time": "16:30",
-        "channel_name": "ESPN 3 / Disney + Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "ESPN 3"
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
