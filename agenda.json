@@ -79,5 +79,14 @@
         "channel_name": "ESPN 3 / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlético Madrid vs. Real Madrid",
+        "subtitle": "Olé",
+        "time": "16:00",
+        "channel_name": "Flow / 116",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Flow"
     }
 ]
