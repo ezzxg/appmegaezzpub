@@ -52,5 +52,14 @@
         "channel_name": "Ver en Olé",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Canal"
+    },
+    {
+        "category": "Básquet",
+        "title": "Independiente Oliva vs. Olímpico",
+        "subtitle": "Olé",
+        "time": "21:00",
+        "channel_name": "Ver en Olé",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Canal"
     }
 ]
