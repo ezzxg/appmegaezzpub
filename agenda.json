@@ -5,7 +5,7 @@
         "subtitle": "NBA",
         "time": "00:00",
         "channel_name": "ESPN 3 AR",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
     },
     {
@@ -14,7 +14,7 @@
         "subtitle": "NBA",
         "time": "21:30",
         "channel_name": "ESPN 3 AR",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
     },
     {
@@ -23,7 +23,7 @@
         "subtitle": "Trofeo de Campeones de Francia",
         "time": "14:30",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
     },
     {
@@ -32,7 +32,7 @@
         "subtitle": "Serie A",
         "time": "16:30",
         "channel_name": "ESPN 3 AR",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
     },
     {
@@ -41,7 +41,7 @@
         "subtitle": "Supercopa de España",
         "time": "16:00",
         "channel_name": "FlowSports",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "target_channel_name": "FlowSports"
     },
     {
@@ -50,7 +50,7 @@
         "subtitle": "Premier League",
         "time": "17:00",
         "channel_name": "ESPN AR",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
@@ -59,7 +59,7 @@
         "subtitle": "Liga Nacional",
         "time": "21:10",
         "channel_name": "TyC Sports HD",
-        "channel_logo_url": null,
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD"
     }
 ]
