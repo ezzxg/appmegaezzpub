@@ -106,5 +106,14 @@
         "channel_name": "DSports 2",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports 2"
+    },
+    {
+        "category": "Fútbol",
+        "title": "PSG vs. Olympique Marseille",
+        "subtitle": "Olé",
+        "time": "14:30",
+        "channel_name": "ESPN 2 / Disney + Premium",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2"
     }
 ]
