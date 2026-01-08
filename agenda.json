@@ -92,11 +92,11 @@
     {
         "category": "Fútbol",
         "title": "Arsenal vs. Liverpool",
-        "subtitle": "Olé",
+        "subtitle": "Premier League",
         "time": "17:00",
-        "channel_name": "ESPN / Disney + Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "ESPN"
+        "channel_name": "ESPN AR",
+        "channel_logo_url": null,
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Básquet",
