@@ -79,5 +79,14 @@
         "channel_name": "TyC Sports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "TyC Sports"
+    },
+    {
+        "category": "Básquet",
+        "title": "San Martín (C) vs. Oberá",
+        "subtitle": "Olé",
+        "time": "21:30",
+        "channel_name": "Ver en Olé",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Canal"
     }
 ]
