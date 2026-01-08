@@ -142,5 +142,14 @@
         "channel_name": "DSports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports"
+    },
+    {
+        "category": "Básquet",
+        "title": "Unión (SF) vs. Gimnasia (CR",
+        "subtitle": "Olé",
+        "time": "21:05",
+        "channel_name": "DSports / DGO",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "DSports"
     }
 ]
