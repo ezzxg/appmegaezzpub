@@ -97,5 +97,14 @@
         "channel_name": "DSports 2",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports 2"
+    },
+    {
+        "category": "Básquet",
+        "title": "Real Madrid vs. Maccabi",
+        "subtitle": "Olé",
+        "time": "16:45",
+        "channel_name": "DSports 2",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "DSports 2"
     }
 ]
