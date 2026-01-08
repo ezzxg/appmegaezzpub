@@ -18,15 +18,6 @@
         "target_channel_name": "ESPN 3 AR"
     },
     {
-        "category": "Básquet",
-        "title": "Real Madrid vs. Maccabi",
-        "subtitle": "Olé",
-        "time": "16:45",
-        "channel_name": "DSports 2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "DSports 2"
-    },
-    {
         "category": "Fútbol",
         "title": "PSG vs. Olympique Marseille",
         "subtitle": "Olé",
