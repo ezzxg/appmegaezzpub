@@ -115,5 +115,14 @@
         "channel_name": "ESPN 3 / Disney + Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Leyendas AUF vs. Leyendas AFA",
+        "subtitle": "Olé",
+        "time": "19:00",
+        "channel_name": "DSports / DGO",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "DSports"
     }
 ]
