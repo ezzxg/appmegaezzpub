@@ -1,24 +1,6 @@
 [
     {
         "category": "Fútbol",
-        "title": "Manchester City vs. Exeter City",
-        "subtitle": "Olé",
-        "time": "12:00",
-        "channel_name": "ESPN / Disney + Premium",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Ipswich Town vs. Blackpool",
-        "subtitle": "Olé",
-        "time": "12:00",
-        "channel_name": "ESPN / Disney + Premium",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN"
-    },
-    {
-        "category": "Fútbol",
         "title": "Charlton Athletic vs. Chelsea",
         "subtitle": "FA Cup",
         "time": "17:00",
@@ -29,11 +11,11 @@
     {
         "category": "Fútbol",
         "title": "Oviedo vs. Betis",
-        "subtitle": "Olé",
+        "subtitle": "LALIGA EA SPORTS",
         "time": "10:00",
-        "channel_name": "DSports / DGO",
+        "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "DSports"
+        "target_channel_name": "Dsports"
     },
     {
         "category": "Fútbol",
