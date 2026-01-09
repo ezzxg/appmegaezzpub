@@ -268,5 +268,14 @@
         "channel_name": "DSports / DGO",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Avranches vs. Estrasburgo",
+        "subtitle": "Olé",
+        "time": "14:00",
+        "channel_name": "DSports / DGO",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "DSports"
     }
 ]
