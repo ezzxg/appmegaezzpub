@@ -331,5 +331,14 @@
         "channel_name": "Claro Sports",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Claro Sports"
+    },
+    {
+        "category": "Básquet",
+        "title": "Zaragoza vs. Gran Canaria",
+        "subtitle": "Olé",
+        "time": "14:00",
+        "channel_name": "Fox Sports / DGO",
+        "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports"
     }
 ]
