@@ -64,15 +64,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "St. Pauli vs. RB Leipzig",
-        "subtitle": "Olé",
-        "time": "11:30",
-        "channel_name": "ESPN 2 / Disney + Premium",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2"
-    },
-    {
-        "category": "Fútbol",
         "title": "Bayer Leverkusen vs. Stuttgart",
         "subtitle": "Olé",
         "time": "14:30",
