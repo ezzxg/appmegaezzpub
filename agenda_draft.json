@@ -19,15 +19,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Tottenham vs. Aston Villa",
-        "subtitle": "FA Cup",
-        "time": "15:45",
-        "channel_name": "ESPN",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
         "title": "Charlton Athletic vs. Chelsea",
         "subtitle": "FA Cup",
         "time": "17:00",
