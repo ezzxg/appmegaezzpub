@@ -1,38 +1,11 @@
 [
     {
         "category": "Fútbol",
-        "title": "Eintracht Frankfurt vs. Borussia Dortmund",
-        "subtitle": "Bundesliga",
-        "time": "16:30",
-        "channel_name": "ESPN AR",
+        "title": "Wolverhampton Wanderers vs. Shrewsbury Town",
+        "subtitle": "Olé",
+        "time": "09:15",
+        "channel_name": "ESPN / Disney + Premium",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Getafe vs. Real Sociedad",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Leyendas AUF vs. Leyendas AFA",
-        "subtitle": "Amistoso",
-        "time": "19:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Tenis",
-        "title": "Suiza vs. Bélgica",
-        "subtitle": "United Cup",
-        "time": "20:20",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "target_channel_name": "ESPN"
     }
 ]
