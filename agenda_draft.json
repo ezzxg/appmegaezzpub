@@ -81,13 +81,13 @@
         "target_channel_name": "Fox Sports"
     },
     {
-        "category": "",
+        "category": "Baloncesto",
         "title": "Los Angeles Rams vs. Carolina Panthers",
-        "subtitle": "Olé",
+        "subtitle": "Liga ACB",
         "time": "18:30",
-        "channel_name": "Fox Sports 3 / DGO / Disney + Premium / ESPN",
+        "channel_name": "Fox Sports 3",
         "channel_logo_url": "https://i.ibb.co/TDXgXKTw/Fox-Sports-3-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports 3"
+        "target_channel_name": "Fox Sports 3 AR"
     },
     {
         "category": "",
