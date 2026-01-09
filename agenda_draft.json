@@ -74,11 +74,11 @@
     {
         "category": "Básquet",
         "title": "Zaragoza vs. Gran Canaria",
-        "subtitle": "Olé",
+        "subtitle": "Liga ACB",
         "time": "14:00",
-        "channel_name": "Fox Sports / DGO",
+        "channel_name": "Fox Sports ",
         "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports"
+        "target_channel_name": "Fox Sports AR"
     },
     {
         "category": "Baloncesto",
