@@ -133,5 +133,14 @@
         "channel_name": "DSports / DGO",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Villarreal vs. Alavés",
+        "subtitle": "Olé",
+        "time": "12:15",
+        "channel_name": "ESPN 3 / DGO / Disney + Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3"
     }
 ]
