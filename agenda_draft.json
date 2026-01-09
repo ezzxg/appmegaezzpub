@@ -90,13 +90,13 @@
         "target_channel_name": "Fox Sports 3 AR"
     },
     {
-        "category": "",
+        "category": "Fútbol Americano",
         "title": "Chicago Bears vs. Green Bay Packers",
-        "subtitle": "Olé",
+        "subtitle": "NFL",
         "time": "22:00",
-        "channel_name": "Fox Sports 3 / DGO / ESPN / Disney + Premium",
+        "channel_name": "Fox Sports 3 ",
         "channel_logo_url": "https://i.ibb.co/TDXgXKTw/Fox-Sports-3-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports 3"
+        "target_channel_name": "Fox Sports 3 AR"
     },
     {
         "category": "Fútbol",
