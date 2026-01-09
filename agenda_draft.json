@@ -358,5 +358,14 @@
         "channel_name": "Fox Sports 3 / DGO / ESPN / Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/TDXgXKTw/Fox-Sports-3-Argentina-2023-svg.png",
         "target_channel_name": "Fox Sports 3"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Independiente vs. Alianza Lima",
+        "subtitle": "Olé",
+        "time": "21:00",
+        "channel_name": "ESPN PREMIUM / DGO / Disney + Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN PREMIUM"
     }
 ]
