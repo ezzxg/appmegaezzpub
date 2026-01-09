@@ -313,5 +313,14 @@
         "channel_name": "DSports / DGO",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "DSports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Nigeria vs. Argelia",
+        "subtitle": "Olé",
+        "time": "13:00",
+        "channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Claro Sports"
     }
 ]
