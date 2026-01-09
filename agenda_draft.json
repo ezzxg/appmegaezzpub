@@ -106,14 +106,5 @@
         "channel_name": "ESPN PREMIUM",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium (SV2)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Deportivo Cali vs. Once Caldas",
-        "subtitle": "Olé",
-        "time": "21:00",
-        "channel_name": "Disney + / DGO",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney +"
     }
 ]
