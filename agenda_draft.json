@@ -65,11 +65,11 @@
     {
         "category": "Fútbol",
         "title": "Bayer Leverkusen vs. Stuttgart",
-        "subtitle": "Olé",
+        "subtitle": "Bundesliga",
         "time": "14:30",
-        "channel_name": "ESPN 3 / DGO",
+        "channel_name": "ESPN 3 ",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3"
+        "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
