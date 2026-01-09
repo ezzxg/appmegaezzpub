@@ -101,11 +101,11 @@
     {
         "category": "Fútbol",
         "title": "Independiente vs. Alianza Lima",
-        "subtitle": "Olé",
+        "subtitle": "Amistoso",
         "time": "21:00",
-        "channel_name": "ESPN PREMIUM / DGO / Disney + Premium",
+        "channel_name": "ESPN PREMIUM",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN PREMIUM"
+        "target_channel_name": "ESPN Premium (SV2)"
     },
     {
         "category": "Fútbol",
