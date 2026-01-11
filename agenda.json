@@ -1,14 +1,5 @@
 [
     {
-        "category": "Tenis",
-        "title": "Final",
-        "subtitle": "Olé",
-        "time": "03:30",
-        "channel_name": "TyC Sports / TyC Sports Play",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports"
-    },
-    {
         "category": "Fútbol",
         "title": "Lecce vs. Parma",
         "subtitle": "Olé",
