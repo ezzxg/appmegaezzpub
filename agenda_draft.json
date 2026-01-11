@@ -61,5 +61,14 @@
         "channel_name": "TyC Sports / DGO",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports"
+    },
+    {
+        "category": "Fútbol Americano",
+        "title": "Pittsburgh Steelers vs. Houston Texans",
+        "subtitle": "Olé",
+        "time": "22:00",
+        "channel_name": "ESPN 2 / DGO / Disney + Premium",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2"
     }
 ]
