@@ -52,5 +52,14 @@
         "channel_name": "ESPN / DGO",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Rayo Vallecano vs. Mallorca",
+        "subtitle": "Olé",
+        "time": "10:00",
+        "channel_name": "ESPN 2 / DGO",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2"
     }
 ]
