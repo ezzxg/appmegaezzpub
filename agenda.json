@@ -2,11 +2,11 @@
     {
         "category": "Fútbol",
         "title": "Fiorentina vs. Milan",
-        "subtitle": "Olé",
+        "subtitle": "Serie A",
         "time": "11:00",
-        "channel_name": "ESPN / Disney + Premium",
+        "channel_name": "ESPN",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN"
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
