@@ -52,5 +52,14 @@
         "channel_name": "Disney + Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Disney + Premium"
+    },
+    {
+        "category": "Básquet",
+        "title": "Instituto vs. Olímpico",
+        "subtitle": "Olé",
+        "time": "21:05",
+        "channel_name": "TyC Sports / DGO",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports"
     }
 ]
