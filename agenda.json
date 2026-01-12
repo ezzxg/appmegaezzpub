@@ -27,9 +27,9 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol",
-        "title": "TEST",
-        "subtitle": "TEST",
+        "category": "Futbol",
+        "title": "Ignorar vs evento",
+        "subtitle": "La Liga",
         "time": "23:00",
         "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
