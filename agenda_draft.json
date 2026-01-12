@@ -1,65 +1,11 @@
 [
     {
         "category": "Fútbol",
-        "title": "Juventus vs. Cremonese",
+        "title": "Genoa vs. Cagliari",
         "subtitle": "Olé",
-        "time": "16:30",
-        "channel_name": "Disney + Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney + Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Liverpool vs. Barnsley",
-        "subtitle": "Olé",
-        "time": "16:30",
-        "channel_name": "Disney + Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney + Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "PSG vs. Paris FC",
-        "subtitle": "Olé",
-        "time": "17:00",
-        "channel_name": "DSports / DGO",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "DSports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Sevilla vs. Celta de Vigo",
-        "subtitle": "Olé",
-        "time": "17:00",
+        "time": "14:30",
         "channel_name": "ESPN / DGO / Disney + Premium",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cerro Largo vs. Atlético Tucumán",
-        "subtitle": "Olé",
-        "time": "21:00",
-        "channel_name": "Disney + Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney + Premium"
-    },
-    {
-        "category": "Básquet",
-        "title": "Instituto vs. Olímpico",
-        "subtitle": "Olé",
-        "time": "21:05",
-        "channel_name": "TyC Sports / DGO",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports"
-    },
-    {
-        "category": "Fútbol Americano",
-        "title": "Pittsburgh Steelers vs. Houston Texans",
-        "subtitle": "Olé",
-        "time": "22:00",
-        "channel_name": "ESPN 2 / DGO / Disney + Premium",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2"
     }
 ]
