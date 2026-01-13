@@ -28,15 +28,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Roma vs Torino",
-        "subtitle": "Copa de Italia",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Puebla vs Mazatlán",
         "subtitle": "Liga BBVA MX",
         "time": "20:00",
