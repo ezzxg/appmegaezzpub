@@ -70,5 +70,14 @@
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium"
+    },
+    {
+        "category": "Futbol",
+        "title": "Roma vs Torino",
+        "subtitle": "Copa de Italia",
+        "time": "17:00",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
