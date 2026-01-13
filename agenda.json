@@ -1,47 +1,11 @@
 [
     {
         "category": "Fútbol",
-        "title": "Genoa vs. Cagliari",
-        "subtitle": "Serie A",
-        "time": "14:30",
-        "channel_name": "ESPN",
+        "title": "Newcastle vs Manchester City",
+        "subtitle": "Carabao Cup",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "PSG vs. Paris FC",
-        "subtitle": "Copa de Francia",
-        "time": "17:00",
-        "channel_name": "DSports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Sevilla vs. Celta de Vigo",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "ESPN",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Futbol",
-        "title": "Ignorar vs evento",
-        "subtitle": "La Liga",
-        "time": "23:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Futbol",
-        "title": "Cerro Largo vs. Atlético Tucumán",
-        "subtitle": "Amistoso (Serie Río de la Plata)",
-        "time": "21:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
     }
 ]
