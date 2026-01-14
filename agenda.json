@@ -52,5 +52,14 @@
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium"
+    },
+    {
+        "category": "Futbol",
+        "title": "Boca Juniors vs Millonarios",
+        "subtitle": "Amistoso",
+        "time": "19:00",
+        "channel_name": "Eventos 2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
