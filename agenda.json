@@ -97,5 +97,14 @@
         "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Hoffenheim vs B. M'gladbach",
+        "subtitle": "Bundesliga",
+        "time": "16:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
     }
 ]
