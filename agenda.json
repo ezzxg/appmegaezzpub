@@ -43,5 +43,14 @@
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
         "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Futbol",
+        "title": "Unión SF vs Alianza Lima",
+        "subtitle": " Serie Río de La Plata 2026",
+        "time": "18:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium"
     }
 ]
