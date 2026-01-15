@@ -52,5 +52,14 @@
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Progreso vs Atlético Tucumán",
+        "subtitle": " Serie Río de La Plata 2026",
+        "time": "18:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium"
     }
 ]
