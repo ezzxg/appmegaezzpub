@@ -70,5 +70,14 @@
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium"
+    },
+    {
+        "category": "Hockey sobre hielo",
+        "title": "Pittsburgh Penguins vs Philadelphia Flyers",
+        "subtitle": "NHL",
+        "time": "21:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
