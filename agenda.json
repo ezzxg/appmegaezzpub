@@ -223,5 +223,14 @@
         "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Dortmund vs St. Pauli",
+        "subtitle": "Bundesliga",
+        "time": "11:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
     }
 ]
