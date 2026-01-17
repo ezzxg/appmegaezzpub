@@ -403,5 +403,14 @@
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "R. Union SG vs Mechelen",
+        "subtitle": "Jupiler Pro League",
+        "time": "16:45",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
