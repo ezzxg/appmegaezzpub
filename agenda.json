@@ -100,15 +100,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Ajax vs Go Ahead",
-        "subtitle": "Eredivisie",
-        "time": "12:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Zwolle vs AZ",
         "subtitle": "Eredivisie",
         "time": "14:45",
