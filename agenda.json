@@ -91,15 +91,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Leipzig vs Bayern Múnich",
-        "subtitle": "Bundesliga",
-        "time": "14:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
         "title": "R. Union SG vs Mechelen",
         "subtitle": "Jupiler Pro League",
         "time": "16:45",
