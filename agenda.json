@@ -1,74 +1,11 @@
 [
     {
         "category": "Fútbol",
-        "title": "Espanyol vs Girona",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Pisa vs Atalanta",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
+        "title": "Manchester United vs Manchester City",
+        "subtitle": "Premier League",
+        "time": "09:30",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Mónaco vs Lorient",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "15:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "PSG vs Lille",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Baloncesto",
-        "title": "Philadelphia 76ers vs Cleveland",
-        "subtitle": "NBA",
-        "time": "21:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Wanderers vs Independiente",
-        "subtitle": "Serie Río de La Plata 2026",
-        "time": "21:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
-    },
-    {
-        "category": "Boxeo",
-        "title": "Alexis Rocha vs Raul Curiel",
-        "subtitle": "ESPN Knockout",
-        "time": "22:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Huracán vs Cúcuta",
-        "subtitle": " Serie Colombia",
-        "time": "18:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
     }
 ]
