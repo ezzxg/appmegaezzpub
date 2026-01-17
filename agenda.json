@@ -187,5 +187,14 @@
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Hamburgo vs B. M'gladbach",
+        "subtitle": "Bundesliga",
+        "time": "11:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
     }
 ]
