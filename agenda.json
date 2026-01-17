@@ -250,5 +250,14 @@
         "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Zwolle vs AZ",
+        "subtitle": "Eredivisie",
+        "time": "14:45",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
