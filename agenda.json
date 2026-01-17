@@ -91,15 +91,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Wolfsburgo vs Heidenheim",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Leipzig vs Bayern Múnich",
         "subtitle": "Bundesliga",
         "time": "14:30",
