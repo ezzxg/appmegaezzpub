@@ -118,15 +118,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Lyon vs Brest",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "16:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Stuttgart vs Unión Berlín",
         "subtitle": "Bundesliga",
         "time": "11:30",
