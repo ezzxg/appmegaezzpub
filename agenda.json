@@ -124,5 +124,14 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Racing vs Universidad de Chile",
+        "subtitle": "Amistoso",
+        "time": "19:00",
+        "channel_name": "A definir",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "A definir"
     }
 ]
