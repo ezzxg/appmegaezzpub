@@ -133,5 +133,14 @@
         "channel_name": "A definir",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "A definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boca Juniors Boca Juniors vs Olimpia",
+        "subtitle": "Amistoso",
+        "time": "21:15",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
