@@ -82,15 +82,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Bolonia vs Fiorentina",
-        "subtitle": "Serie A Enilive",
-        "time": "11:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Torino vs Roma",
         "subtitle": "Serie A Enilive",
         "time": "14:00",
