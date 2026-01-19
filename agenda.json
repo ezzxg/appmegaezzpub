@@ -25,5 +25,14 @@
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "New York Knicks  vs. Dallas Mavericks",
+        "subtitle": " NBA",
+        "time": "",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR"
     }
 ]
