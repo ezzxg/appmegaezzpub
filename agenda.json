@@ -16,5 +16,14 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Atlanta Hawks vs. Milwaukee Bucks",
+        "subtitle": " NBA",
+        "time": "15:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR"
     }
 ]
