@@ -34,5 +34,14 @@
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Racing Uruguay vs. U. de Concepción",
+        "subtitle": " Amistoso",
+        "time": "21:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium"
     }
 ]
