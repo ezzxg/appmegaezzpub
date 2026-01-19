@@ -52,5 +52,14 @@
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Brighton Hove Albion vs Bournemouth",
+        "subtitle": "Premier League",
+        "time": "17:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
     }
 ]
