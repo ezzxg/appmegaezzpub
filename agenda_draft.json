@@ -1,90 +1,9 @@
 [
     {
         "category": "Fútbol",
-        "title": "Estudiantes (LP) vs Ituzaingó",
-        "subtitle": "Copa Argentina",
-        "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Brighton vs Bournemouth",
-        "subtitle": "Premier League",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Elche vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cremonese vs Hellas Verona",
-        "subtitle": "Serie A Enilive",
-        "time": "14:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lazio vs Como",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estrela vs Estoril",
-        "subtitle": "Liga Portugal Betclic",
-        "time": "17:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Konya vs Eyüp",
-        "subtitle": "Trendyol SüperLig",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Göztepe vs Rize",
-        "subtitle": "Trendyol SüperLig",
-        "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Besiktas vs Kayserispor",
-        "subtitle": "Trendyol SüperLig",
-        "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Panaitolikos vs Levadiakos",
-        "subtitle": "Stoiximan Super League",
-        "time": "13:00",
+        "title": "Qairat vs Brujas",
+        "subtitle": "Champions League",
+        "time": "12:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
