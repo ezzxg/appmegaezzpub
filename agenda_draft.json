@@ -163,15 +163,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Santos vs Corinthians",
-        "subtitle": "Paulista",
-        "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Botafogo SP vs Primavera",
         "subtitle": "Paulista",
         "time": "20:00",
