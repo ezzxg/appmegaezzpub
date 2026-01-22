@@ -1,12 +1,12 @@
 [
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "San Lorenzo vs Lanús",
         "subtitle": "Torneo Apertura",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR"
     },
     {
         "category": "Fútbol",
