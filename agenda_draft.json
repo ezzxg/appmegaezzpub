@@ -79,5 +79,14 @@
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Trabzon vs Kasımpaşa",
+        "subtitle": "Trendyol SüperLig",
+        "time": "14:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
