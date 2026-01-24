@@ -1,65 +1,11 @@
 [
     {
-        "category": "Fútbol Torneo Apertura",
-        "title": "San Lorenzo vs Lanús",
-        "subtitle": "Torneo Apertura",
-        "time": "19:00",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR"
-    },
-    {
-        "category": "Fútbol Torneo Apertura",
-        "title": "Independiente vs Estudiantes (LP)",
-        "subtitle": "Torneo Apertura",
-        "time": "20:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
-    },
-    {
-        "category": "Fútbol Torneo Apertura",
-        "title": "Talleres vs Newells",
-        "subtitle": "Torneo Apertura",
-        "time": "22:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
-    },
-    {
-        "category": "Fútbol Torneo Apertura",
-        "title": "Independiente (M) vs Atlético Tucumán",
-        "subtitle": "Torneo Apertura",
-        "time": "22:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports"
-    },
-    {
         "category": "Fútbol",
-        "title": "Levante UD vs Elche",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
+        "title": "Boca vs Riestra",
+        "subtitle": "Torneo Apertura",
+        "time": "18:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Inter vs Pisa",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Auxerre vs PSG",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "16:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
     }
 ]
