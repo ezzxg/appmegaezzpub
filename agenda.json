@@ -109,15 +109,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Lecce vs Lazio",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Botafogo vs Bangu",
         "subtitle": "Carioca",
         "time": "21:00",
