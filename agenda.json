@@ -190,69 +190,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Guarany Bagé vs Inter SM",
-        "subtitle": "Gaúcho",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "North vs Pouso Alegre",
-        "subtitle": "Mineiro",
-        "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "URT vs Itabirito",
-        "subtitle": "Mineiro",
-        "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Uberlândia vs América MG",
-        "subtitle": "Mineiro",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Jacuipense vs Galícia",
-        "subtitle": "Baiano",
-        "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Rennes vs Lorient",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "13:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Le Havre vs Mónaco",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "15:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Marsella vs Lens",
         "subtitle": "Ligue 1 McDonald's",
         "time": "17:05",
@@ -268,33 +205,6 @@
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Eintracht vs Hoffenheim",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Heidenheim vs Leipzig",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bayern Múnich vs Augsburgo",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
     },
     {
         "category": "Fútbol",
@@ -328,87 +238,6 @@
         "title": "NEC vs Zwolle",
         "subtitle": "Eredivisie",
         "time": "14:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "PSV vs Breda",
-        "subtitle": "Eredivisie",
-        "time": "16:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Twente vs Excelsior",
-        "subtitle": "Eredivisie",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Moreirense vs Santa Clara",
-        "subtitle": "Liga Portugal Betclic",
-        "time": "12:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Arouca vs Sporting",
-        "subtitle": "Liga Portugal Betclic",
-        "time": "15:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estoril vs Guimarães",
-        "subtitle": "Liga Portugal Betclic",
-        "time": "17:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Kayserispor vs Istanbul",
-        "subtitle": "Trendyol SüperLig",
-        "time": "08:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Samsun vs Kocaelispor",
-        "subtitle": "Trendyol SüperLig",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fatih vs Galatasaray",
-        "subtitle": "Trendyol SüperLig",
-        "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nacional vs San Lorenzo",
-        "subtitle": "Primera Paraguay",
-        "time": "18:00",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
