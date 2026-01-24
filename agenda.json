@@ -37,24 +37,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Manchester City vs Wolverhampton",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fulham vs Brighton",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Burnley vs Tottenham",
         "subtitle": "Premier League",
         "time": "12:00",
