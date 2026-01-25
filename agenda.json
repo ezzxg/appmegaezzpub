@@ -49,9 +49,9 @@
         "title": "Barcelona vs Oviedo",
         "subtitle": "LALIGA EA SPORTS",
         "time": "12:15",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
+        "channel_name": "ESPN Deportes",
+        "channel_logo_url": "https://bestleague.world/img/espndep.png",
+        "target_channel_name": "ESPN Deportes"
     },
     {
         "category": "Fútbol",
@@ -112,8 +112,8 @@
         "title": "Bolivia vs México",
         "subtitle": "Amistosos de Selecciones",
         "time": "16:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "target_channel_name": "Eventos2"
     }
 ]
