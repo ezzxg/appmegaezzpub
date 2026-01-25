@@ -1,137 +1,119 @@
 [
     {
         "category": "Fútbol",
-        "title": "Barracas vs River",
+        "title": "Boca vs Riestra",
         "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Gimnasia (LP) vs Racing",
-        "subtitle": "Torneo Apertura",
-        "time": "19:30",
+        "time": "18:30",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR"
     },
     {
         "category": "Fútbol",
-        "title": "Rosario Central vs Belgrano",
+        "title": "Argentinos vs Sarmiento",
         "subtitle": "Torneo Apertura",
-        "time": "22:00",
+        "time": "21:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
+        "target_channel_name": "ESPN Premium"
     },
     {
         "category": "Fútbol",
-        "title": "West Ham vs Sunderland",
+        "title": "Tigre vs Estudiantes (RC)",
+        "subtitle": "Torneo Apertura",
+        "time": "21:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Arsenal vs Manchester United",
         "subtitle": "Premier League",
-        "time": "09:30",
+        "time": "13:30",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Burnley vs Tottenham",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bournemouth vs Liverpool",
-        "subtitle": "Premier League",
-        "time": "14:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Rayo Vallecano vs Osasuna",
+        "title": "Atlético Madrid vs Mallorca",
         "subtitle": "LALIGA EA SPORTS",
         "time": "10:00",
-        "channel_name": "ESPN 3",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Valencia vs Espanyol",
+        "title": "Barcelona vs Oviedo",
         "subtitle": "LALIGA EA SPORTS",
         "time": "12:15",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Real Sociedad vs Celta de Vigo",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Alavés vs Betis",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Juventus vs Nápoles",
+        "subtitle": "Serie A Enilive",
+        "time": "14:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Roma vs Milan",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Metz vs Lyon",
+        "subtitle": "Ligue 1 McDonald's",
+        "time": "13:15",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Sevilla vs Athletic Bilbao",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:30",
-        "channel_name": "ESPN Deportes",
-        "channel_logo_url": "https://bestleague.world/img/espndep.png",
-        "target_channel_name": "ESPN Deportes"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Villarreal vs Real Madrid",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "ESPN 2",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Como vs Torino",
-        "subtitle": "Serie A Enilive",
-        "time": "11:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fiorentina vs Cagliari",
-        "subtitle": "Serie A Enilive",
-        "time": "14:00",
-        "channel_name": "ESPN 2",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Marsella vs Lens",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "17:05",
-        "channel_name": "ESPN 3",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Leverkusen vs Bremen",
+        "title": "B. M'gladbach vs Stuttgart",
         "subtitle": "Bundesliga",
         "time": "11:30",
-        "channel_name": "ESPN 2",
+        "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Unión Berlín vs Dortmund",
-        "subtitle": "Bundesliga",
-        "time": "14:30",
-        "channel_name": "ESPN 3",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "title": "Bolivia vs México",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
