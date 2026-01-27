@@ -1,38 +1,56 @@
 [
     {
         "category": "Fútbol",
-        "title": "Norwich City vs. Coventry City",
-        "subtitle": "EFL Championship",
-        "time": "17:00",
-        "channel_name": "Fox Sports 2",
-        "channel_logo_url": "https://i.ibb.co/HLGF9Z0D/Fox-Sports-2-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports 2 AR"
+        "title": "Vélez vs Talleres",
+        "subtitle": "Torneo Apertura",
+        "time": "17:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (SV2)"
     },
     {
         "category": "Fútbol",
-        "title": "Platense vs. Instituto",
-        "subtitle": " Torneo Apertura",
-        "time": "17:00",
+        "title": "Gimnasia (M) vs San Lorenzo",
+        "subtitle": "Torneo Apertura",
+        "time": "20:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (SV2)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Huracán vs Independiente (M)",
+        "subtitle": "Torneo Apertura",
+        "time": "20:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Everton vs. Leeds",
-        "subtitle": " Premier League",
-        "time": "17:00",
-        "channel_name": "ESPN 2",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
+        "title": "Atlético Tucumán vs Central Córdoba",
+        "subtitle": "Torneo Apertura",
+        "time": "22:15",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Girona vs. Getafe",
-        "subtitle": "LALIGA EA SPORTS",
+        "title": "Newell’s vs Independiente",
+        "subtitle": "Torneo Apertura",
+        "time": "22:15",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (SV2)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Fiorentina vs Como",
+        "subtitle": "Copa de Italia",
         "time": "17:00",
-        "channel_name": "ESPN 3",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
     }
 ]
