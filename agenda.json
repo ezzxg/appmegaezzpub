@@ -85,9 +85,9 @@
         "title": "Arsenal vs Qairat",
         "subtitle": "Champions League",
         "time": "17:00",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
+        "channel_name": "ESPN 6",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN 6"
     },
     {
         "category": "Fútbol Champions League",
@@ -124,15 +124,6 @@
         "channel_name": "ESPN 4 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR"
-    },
-    {
-        "category": "Fútbol Brasileirao Serie A",
-        "title": "Vitória vs Remo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol Brasileirao Serie A",
