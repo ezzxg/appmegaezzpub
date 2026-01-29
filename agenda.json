@@ -1,6 +1,6 @@
 [
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Riestra vs Defensa y Justicia",
         "subtitle": "Torneo Apertura",
         "time": "17:00",
@@ -9,7 +9,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Lanús vs Unión",
         "subtitle": "Torneo Apertura",
         "time": "19:15",
@@ -18,7 +18,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Belgrano vs Tigre",
         "subtitle": "Torneo Apertura",
         "time": "19:15",
@@ -27,7 +27,7 @@
         "target_channel_name": "ESPN Premium (FL)"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Estudiantes (RC) vs Argentinos",
         "subtitle": "Torneo Apertura",
         "time": "21:30",
@@ -36,7 +36,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Sarmiento vs Banfield",
         "subtitle": "Torneo Apertura",
         "time": "21:30",
@@ -45,106 +45,52 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Panathinaikos vs Roma",
         "subtitle": "Europa League",
         "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Lyon vs PAOK",
         "subtitle": "Europa League",
         "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR"
     },
     {
-        "category": "Fútbol",
-        "title": "Steaua vs Fenerbahçe",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Betis vs Feyenoord",
         "subtitle": "Europa League",
         "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     },
     {
-        "category": "Fútbol",
-        "title": "Ludogorets vs OGC Niza",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Celtic vs Utrecht",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Porto vs Rangers",
         "subtitle": "Europa League",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "FlowSports 2",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports 2"
     },
     {
-        "category": "Fútbol",
-        "title": "Basilea vs Viktoria Plzen",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Stuttgart vs Young Boys",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Nottingham Forest vs Ferencvaros",
         "subtitle": "Europa League",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "Flow Sports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports"
     },
     {
-        "category": "Fútbol",
-        "title": "Estrella Roja vs Celta de Vigo",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
+        "category": "Fútbol Europa League",
         "title": "Aston Villa vs Salzburgo",
         "subtitle": "Europa League",
         "time": "17:00",
@@ -153,52 +99,7 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol",
-        "title": "Midtjylland vs Dinamo Zagreb",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Genk vs Malmoe",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lille vs Friburgo",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Sturm vs Brann",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Maccabi TA vs Bolonia",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
+        "category": "Fútbol Brasileirao Serie A",
         "title": "Mirassol vs Vasco",
         "subtitle": "Brasileirao Serie A",
         "time": "20:00",
@@ -207,73 +108,10 @@
         "target_channel_name": "Por Definir"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Brasileirao Serie A",
         "title": "Botafogo vs Cruzeiro",
         "subtitle": "Brasileirao Serie A",
         "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Juazeirense vs Jacuipense",
-        "subtitle": "Baiano",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bahia de Feira vs Jequié",
-        "subtitle": "Baiano",
-        "time": "19:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Trinidense vs Guaraní",
-        "subtitle": "Primera Paraguay",
-        "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Rubio Ñú vs Recoleta",
-        "subtitle": "Primera Paraguay",
-        "time": "20:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fateh vs Ittihad",
-        "subtitle": "Saudí Pro League",
-        "time": "12:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Qadsiah vs Hilal",
-        "subtitle": "Saudí Pro League",
-        "time": "14:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Hazem vs Shabab",
-        "subtitle": "Saudí Pro League",
-        "time": "14:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
