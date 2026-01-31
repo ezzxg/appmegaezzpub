@@ -27,7 +27,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Atlético Tucumán vs Huracán",
         "subtitle": "Torneo Apertura",
         "time": "22:00",
@@ -117,7 +117,7 @@
         "target_channel_name": "ESPN 2 AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Ligue 1 McDonald's",
         "title": "Paris FC vs Marsella",
         "subtitle": "Ligue 1 McDonald's",
         "time": "13:00",
@@ -135,12 +135,39 @@
         "target_channel_name": "ESPN 3 AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Bundesliga",
         "title": "Hamburgo vs Bayern Múnich",
         "subtitle": "Bundesliga",
         "time": "14:30",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Futbol  Amistoso",
+        "title": "Atlético Nacional vs Inter Miami",
+        "subtitle": "Amistoso",
+        "time": "19:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    },
+    {
+        "category": "Boxeo",
+        "title": "Xander Zayas vs. Abass Baraou",
+        "subtitle": "ESPN KO",
+        "time": "21:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Dallas Mavericks vs. Houston Rockets",
+        "subtitle": " NBA",
+        "time": "22:30",
+        "channel_name": "ESPN 3",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
