@@ -1,35 +1,107 @@
 [
     {
-        "category": "Fútbol",
-        "title": "Riestra vs Defensa y Justicia",
-        "subtitle": "Torneo Apertura",
+        "category": "Fútbol Copa Libertadores",
+        "title": "2 de Mayo vs Alianza Lima",
+        "subtitle": "Copa Libertadores",
+        "time": "21:30",
+        "channel_name": "Fox Sports",
+        "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Fútbol Copa Argentina",
+        "title": "Talleres vs Argentino (M)",
+        "subtitle": "Copa Argentina",
+        "time": "19:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol Copa Argentina",
+        "title": "Platense vs Argentino MM",
+        "subtitle": "Copa Argentina",
+        "time": "21:15",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Fútbol Carabao Cup",
+        "title": "Manchester City vs Newcastle",
+        "subtitle": "Carabao Cup",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lanús vs Unión",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Belgrano vs Tigre",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
+        "category": "Fútbol Copa del Rey",
+        "title": "Valencia vs Athletic Bilbao",
+        "subtitle": "Copa del Rey",
+        "time": "17:00",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports"
+    },
+    {
+        "category": "Fútbol Copa del Rey",
+        "title": "Alavés vs Real Sociedad",
+        "subtitle": "Copa del Rey",
+        "time": "17:00",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports 2"
+    },
+    {
         "category": "Fútbol",
-        "title": "Estudiantes (RC) vs Argentinos",
-        "subtitle": "Torneo Apertura",
+        "title": "Inter vs Torino",
+        "subtitle": "Copa de Italia",
+        "time": "17:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bragantino vs Atlético Mineiro",
+        "subtitle": "Brasileirao Serie A",
+        "time": "19:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Flamengo vs Internacional",
+        "subtitle": "Brasileirao Serie A",
+        "time": "19:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Remo vs Mirassol",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Santos vs São Paulo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Palmeiras vs Vitória",
+        "subtitle": "Brasileirao Serie A",
         "time": "21:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
@@ -37,29 +109,29 @@
     },
     {
         "category": "Fútbol",
-        "title": "Sarmiento vs Banfield",
-        "subtitle": "Torneo Apertura",
+        "title": "Grêmio vs Botafogo",
+        "subtitle": "Brasileirao Serie A",
         "time": "21:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Go Ahead vs Braga",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "Disney+ Premium",
+        "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Panathinaikos vs Roma",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "title": "Lorient vs Paris FC",
+        "subtitle": "Copa de Francia",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Toulouse vs Amiens",
+        "subtitle": "Copa de Francia",
+        "time": "16:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
     }
 ]
