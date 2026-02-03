@@ -1,6 +1,6 @@
 [
     {
-        "category": "Fútbol",
+        "category": "Fútbol Copa Libertadores",
         "title": "The Strongest vs Táchira",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
@@ -9,7 +9,7 @@
         "target_channel_name": "Fox Sports AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Banfield vs Estudiantes (RC)",
         "subtitle": "Torneo Apertura",
         "time": "19:00",
@@ -18,7 +18,7 @@
         "target_channel_name": "TNT Sports AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Independiente (M) vs Sarmiento",
         "subtitle": "Torneo Apertura",
         "time": "21:15",
@@ -27,7 +27,7 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Torneo Apertura",
         "title": "Instituto vs Lanús",
         "subtitle": "Torneo Apertura",
         "time": "21:15",
@@ -36,7 +36,7 @@
         "target_channel_name": "TNT Sports"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Carabao Cup",
         "title": "Arsenal vs Chelsea",
         "subtitle": "Carabao Cup",
         "time": "17:00",
@@ -45,7 +45,7 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Copa del Rey",
         "title": "Albacete vs Barcelona",
         "subtitle": "Copa del Rey",
         "time": "17:00",
@@ -54,12 +54,30 @@
         "target_channel_name": "FlowSports"
     },
     {
-        "category": "Fútbol",
+        "category": "Fútbol Serie A Enilive",
         "title": "Bolonia vs Milan",
         "subtitle": "Serie A Enilive",
         "time": "16:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Baloncesto NBA",
+        "title": "Indiana Pacers vs Houston Rockets",
+        "subtitle": "NBA",
+        "time": "21:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
+    },
+    {
+        "category": "Baloncesto NBA",
+        "title": "Memphis Grizzlies vs Minnesota Timberwolves",
+        "subtitle": "NBA",
+        "time": "21:30",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     }
 ]
