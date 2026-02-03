@@ -1,7 +1,7 @@
 [
     {
-        "category": "Fútbol Copa Libertadores",
-        "title": "2 de Mayo vs Alianza Lima",
+        "category": "Fútbol",
+        "title": "The Strongest vs Táchira",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
         "channel_name": "Fox Sports",
@@ -9,26 +9,35 @@
         "target_channel_name": "Fox Sports AR"
     },
     {
-        "category": "Fútbol Copa Argentina",
-        "title": "Talleres vs Argentino (M)",
-        "subtitle": "Copa Argentina",
+        "category": "Fútbol",
+        "title": "Banfield vs Estudiantes (RC)",
+        "subtitle": "Torneo Apertura",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR"
     },
     {
-        "category": "Fútbol Copa Argentina",
-        "title": "Platense vs Argentino MM",
-        "subtitle": "Copa Argentina",
+        "category": "Fútbol",
+        "title": "Independiente (M) vs Sarmiento",
+        "subtitle": "Torneo Apertura",
         "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol Carabao Cup",
-        "title": "Manchester City vs Newcastle",
+        "category": "Fútbol",
+        "title": "Instituto vs Lanús",
+        "subtitle": "Torneo Apertura",
+        "time": "21:15",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Arsenal vs Chelsea",
         "subtitle": "Carabao Cup",
         "time": "17:00",
         "channel_name": "ESPN AR",
@@ -36,8 +45,8 @@
         "target_channel_name": "ESPN AR"
     },
     {
-        "category": "Fútbol Copa del Rey",
-        "title": "Valencia vs Athletic Bilbao",
+        "category": "Fútbol",
+        "title": "Albacete vs Barcelona",
         "subtitle": "Copa del Rey",
         "time": "17:00",
         "channel_name": "FlowSports",
@@ -45,93 +54,12 @@
         "target_channel_name": "FlowSports"
     },
     {
-        "category": "Fútbol Copa del Rey",
-        "title": "Alavés vs Real Sociedad",
-        "subtitle": "Copa del Rey",
-        "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports 2"
-    },
-    {
         "category": "Fútbol",
-        "title": "Inter vs Torino",
-        "subtitle": "Copa de Italia",
-        "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bragantino vs Atlético Mineiro",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Flamengo vs Internacional",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Remo vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Santos vs São Paulo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Palmeiras vs Vitória",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Grêmio vs Botafogo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lorient vs Paris FC",
-        "subtitle": "Copa de Francia",
-        "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Toulouse vs Amiens",
-        "subtitle": "Copa de Francia",
-        "time": "16:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
+        "title": "Bolonia vs Milan",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
