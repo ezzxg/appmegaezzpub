@@ -115,5 +115,23 @@
         "channel_name": "FlowSports",
         "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "target_channel_name": "FlowSports"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Denver Nuggets vs. New York Knicks",
+        "subtitle": "NBA",
+        "time": "21:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Baloncesto NBA",
+        "title": "Oklahoma City Thunder vs. San Antonio Spurs",
+        "subtitle": "NBA",
+        "time": "23:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
