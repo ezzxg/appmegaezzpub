@@ -45,9 +45,9 @@
         "target_channel_name": "Dsports"
     },
     {
-        "category": "Fútbol Brasileirao Serie A",
+        "category": "Fútbol Brasileirao",
         "title": "Bahia vs Fluminense",
-        "subtitle": "Brasileirao Serie A",
+        "subtitle": "Brasileirao",
         "time": "19:00",
         "channel_name": "FlowSports",
         "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
@@ -61,5 +61,14 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol Brasileirao",
+        "title": "Cruzeiro vs Coritiba",
+        "subtitle": "Brasileirao",
+        "time": "21:30",
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     }
 ]
