@@ -1,74 +1,47 @@
 [
     {
-        "category": "Fútbol Copa Libertadores",
-        "title": "Juventud vs U. Católica",
-        "subtitle": "Copa Libertadores",
-        "time": "21:30",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
+        "category": "Fútbol Torneo Apertura",
+        "title": "Central Córdoba vs Unión",
+        "subtitle": "Torneo Apertura",
+        "time": "21:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol Copa Argentina",
-        "title": "Riestra vs Deportivo Maipú",
-        "subtitle": "Copa Argentina",
-        "time": "19:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Fútbol Copa Argentina",
-        "title": "Barracas vs Temperley",
-        "subtitle": "Copa Argentina",
-        "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Fútbol Copa del Rey",
-        "title": "Betis vs Atlético Madrid",
-        "subtitle": "Copa del Rey",
+        "category": "Fútbol Premier League",
+        "title": "Leeds vs Nottingham Forest",
+        "subtitle": "Premier League",
         "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     },
     {
-        "category": "Fútbol Copa de Italia",
-        "title": "Atalanta vs Juventus",
-        "subtitle": "Copa de Italia",
+        "category": "Fútbol LALIGA EA SPORTS",
+        "title": "Celta de Vigo vs Osasuna",
+        "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
     },
     {
-        "category": "Fútbol Brasileirao",
-        "title": "Bahia vs Fluminense",
-        "subtitle": "Brasileirao",
-        "time": "19:00",
-        "channel_name": "FlowSports 2",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports 2"
+        "category": "Fútbol Serie A Enilive",
+        "title": "Hellas Verona vs Pisa",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR"
     },
     {
-        "category": "Boxeo",
-        "title": "Alberto Ramirez vs Lerrone Richard",
-        "subtitle": "ESPN Knockout",
-        "time": "21:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol Brasileirao",
-        "title": "Cruzeiro vs Coritiba",
-        "subtitle": "Brasileirao",
-        "time": "21:30",
-        "channel_name": "PREMIERE HD",
-        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
-        "target_channel_name": "PREMIERE HD"
+        "category": "Fútbol Bundesliga",
+        "title": "Unión Berlín vs Eintracht",
+        "subtitle": "Bundesliga",
+        "time": "16:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
