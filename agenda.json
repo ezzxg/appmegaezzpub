@@ -121,108 +121,45 @@
         "title": "Volta Redonda vs Madureira",
         "subtitle": "Carioca",
         "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE 2 HD"
     },
     {
         "category": "Fútbol",
         "title": "Bangu vs Boavista",
         "subtitle": "Carioca",
         "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 4 HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE 4 HD"
     },
     {
         "category": "Fútbol",
         "title": "Flamengo vs Sampaio Corrêa",
         "subtitle": "Carioca",
         "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     },
     {
         "category": "Fútbol",
         "title": "Portuguesa RJ vs Nova Iguaçu",
         "subtitle": "Carioca",
         "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Portuguesa vs Ponte Preta",
-        "subtitle": "Paulista",
-        "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Guarani vs Botafogo SP",
-        "subtitle": "Paulista",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Novorizontino vs São Bernardo",
-        "subtitle": "Paulista",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "São Paulo vs Primavera",
-        "subtitle": "Paulista",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Grêmio vs Novo Hamburgo",
-        "subtitle": "Gaúcho",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Pouso Alegre vs Democrata GV",
-        "subtitle": "Mineiro",
-        "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "North vs Uberlândia",
-        "subtitle": "Mineiro",
-        "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE 3 HD"
     },
     {
         "category": "Fútbol",
         "title": "Atlético Mineiro vs Athletic",
         "subtitle": "Mineiro",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     },
     {
         "category": "Fútbol Bundesliga",
@@ -232,50 +169,5 @@
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "B. M'gladbach vs Leverkusen",
-        "subtitle": "Bundesliga",
-        "time": "14:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "NEC vs Heracles",
-        "subtitle": "Eredivisie",
-        "time": "12:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Zwolle vs Volendam",
-        "subtitle": "Eredivisie",
-        "time": "14:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Twente vs Heerenveen",
-        "subtitle": "Eredivisie",
-        "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fortuna vs Sparta",
-        "subtitle": "Eredivisie",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
     }
 ]
