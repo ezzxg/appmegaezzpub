@@ -1,1 +1,281 @@
-[]
+[
+    {
+        "category": "Fútbol Torneo Apertura",
+        "title": "Aldosivi vs Rosario Central",
+        "subtitle": "Torneo Apertura",
+        "time": "17:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol Torneo Apertura",
+        "title": "Racing vs Argentinos",
+        "subtitle": "Torneo Apertura",
+        "time": "18:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)"
+    },
+    {
+        "category": "Fútbol Torneo Apertura",
+        "title": "River vs Tigre",
+        "subtitle": "Torneo Apertura",
+        "time": "20:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol Torneo Apertura",
+        "title": "Belgrano vs Banfield",
+        "subtitle": "Torneo Apertura",
+        "time": "22:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol Torneo Apertura",
+        "title": "Newell’s vs Defensa y Justicia",
+        "subtitle": "Torneo Apertura",
+        "time": "22:15",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)"
+    },
+    {
+        "category": "Fútbol Premier League",
+        "title": "Manchester United vs Tottenham",
+        "subtitle": "Premier League",
+        "time": "09:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol Premier League",
+        "title": "Bournemouth vs Aston Villa",
+        "subtitle": "Premier League",
+        "time": "12:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol Premier League",
+        "title": "Newcastle vs Brentford",
+        "subtitle": "Premier League",
+        "time": "14:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol LALIGA EA SPORTS",
+        "title": "Rayo Vallecano vs Oviedo",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "10:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol LALIGA EA SPORTS",
+        "title": "Barcelona vs Mallorca",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "12:15",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol LALIGA EA SPORTS",
+        "title": "Sevilla vs Girona",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol LALIGA EA SPORTS",
+        "title": "Real Sociedad vs Elche",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol Serie A Enilive",
+        "title": "Fiorentina vs Torino",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "ESPN 4AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Volta Redonda vs Madureira",
+        "subtitle": "Carioca",
+        "time": "21:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bangu vs Boavista",
+        "subtitle": "Carioca",
+        "time": "21:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Flamengo vs Sampaio Corrêa",
+        "subtitle": "Carioca",
+        "time": "21:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Portuguesa RJ vs Nova Iguaçu",
+        "subtitle": "Carioca",
+        "time": "21:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Portuguesa vs Ponte Preta",
+        "subtitle": "Paulista",
+        "time": "16:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Guarani vs Botafogo SP",
+        "subtitle": "Paulista",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Novorizontino vs São Bernardo",
+        "subtitle": "Paulista",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "São Paulo vs Primavera",
+        "subtitle": "Paulista",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Grêmio vs Novo Hamburgo",
+        "subtitle": "Gaúcho",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Pouso Alegre vs Democrata GV",
+        "subtitle": "Mineiro",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "North vs Uberlândia",
+        "subtitle": "Mineiro",
+        "time": "18:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlético Mineiro vs Athletic",
+        "subtitle": "Mineiro",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol Bundesliga",
+        "title": "Wolfsburgo vs Dortmund",
+        "subtitle": "Bundesliga",
+        "time": "11:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "B. M'gladbach vs Leverkusen",
+        "subtitle": "Bundesliga",
+        "time": "14:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "NEC vs Heracles",
+        "subtitle": "Eredivisie",
+        "time": "12:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Zwolle vs Volendam",
+        "subtitle": "Eredivisie",
+        "time": "14:45",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Twente vs Heerenveen",
+        "subtitle": "Eredivisie",
+        "time": "16:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Fortuna vs Sparta",
+        "subtitle": "Eredivisie",
+        "time": "17:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    }
+]
