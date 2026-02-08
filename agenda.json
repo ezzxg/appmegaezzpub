@@ -130,81 +130,36 @@
         "title": "Vasco vs Botafogo",
         "subtitle": "Carioca",
         "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     },
     {
         "category": "Fútbol",
         "title": "Fluminense vs Maricá",
         "subtitle": "Carioca",
         "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Noroeste vs Santos",
-        "subtitle": "Paulista",
-        "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Velo vs Bragantino",
-        "subtitle": "Paulista",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Capivariano vs Mirassol",
-        "subtitle": "Paulista",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Corinthians vs Palmeiras",
-        "subtitle": "Paulista",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     },
     {
         "category": "Fútbol",
         "title": "Internacional vs São Luiz",
         "subtitle": "Gaúcho",
         "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE 3 HD"
     },
     {
         "category": "Fútbol",
         "title": "Cruzeiro vs América MG",
         "subtitle": "Mineiro",
         "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Juazeirense vs Bahia",
-        "subtitle": "Baiano",
-        "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE 2 HD"
     },
     {
         "category": "Fútbol Ligue 1 McDonald's",
@@ -229,9 +184,9 @@
         "title": "Bayern Múnich vs Hoffenheim",
         "subtitle": "Bundesliga",
         "time": "13:30",
-        "channel_name": "Disney+ Premium",
+        "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
+        "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
