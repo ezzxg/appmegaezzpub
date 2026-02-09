@@ -1,6 +1,6 @@
 [
     {
-        "category": "Fútbol Torneo Apertura",
+        "category": "Fútbol",
         "title": "Barracas vs Gimnasia (LP)",
         "subtitle": "Torneo Apertura",
         "time": "17:00",
@@ -9,7 +9,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol Torneo Apertura",
+        "category": "Fútbol",
         "title": "Lanús vs Talleres",
         "subtitle": "Torneo Apertura",
         "time": "19:15",
@@ -18,7 +18,7 @@
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
-        "category": "Fútbol Torneo Apertura",
+        "category": "Fútbol",
         "title": "Estudiantes (LP) vs Riestra",
         "subtitle": "Torneo Apertura",
         "time": "19:15",
@@ -27,7 +27,7 @@
         "target_channel_name": "ESPN Premium (FL)"
     },
     {
-        "category": "Fútbol Torneo Apertura",
+        "category": "Fútbol",
         "title": "Estudiantes (RC) vs Independiente (M)",
         "subtitle": "Torneo Apertura",
         "time": "21:30",
@@ -36,7 +36,7 @@
         "target_channel_name": "ESPN Premium (FL)"
     },
     {
-        "category": "Fútbol LALIGA EA SPORTS",
+        "category": "Fútbol",
         "title": "Villarreal vs Espanyol",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
@@ -45,12 +45,30 @@
         "target_channel_name": "Eventos1"
     },
     {
-        "category": "Fútbol Serie A Enilive",
+        "category": "Fútbol",
         "title": "Roma vs Cagliari",
         "subtitle": "Serie A Enilive",
         "time": "16:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Tenis",
+        "title": "Lautaro Midon (ARG) vs. Pedro Martínez (ESP) (Día 1)",
+        "subtitle": "Argentina Open 2026",
+        "time": "15:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Tenis",
+        "title": "Andrea Pellegrino (ITA) vs. Tomás Etcheverry (ARG) (Día 1)",
+        "subtitle": "Argentina Open 2026",
+        "time": "18:30",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     }
 ]
