@@ -1,74 +1,65 @@
 [
     {
         "category": "Fútbol",
-        "title": "Barracas vs Gimnasia (LP)",
-        "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lanús vs Talleres",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes (LP) vs Riestra",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes (RC) vs Independiente (M)",
-        "subtitle": "Torneo Apertura",
+        "title": "Táchira vs The Strongest",
+        "subtitle": "Copa Libertadores",
         "time": "21:30",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
     },
     {
         "category": "Fútbol",
-        "title": "Villarreal vs Espanyol",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
+        "title": "Everton vs Bournemouth",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Chelsea vs Leeds",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tottenham vs Newcastle",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "West Ham vs Manchester United",
+        "subtitle": "Premier League",
+        "time": "17:15",
         "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
-        "title": "Roma vs Cagliari",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
+        "title": "Nápoles vs Como",
+        "subtitle": "Copa de Italia",
+        "time": "17:00",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     },
     {
-        "category": "Tenis",
-        "title": "Lautaro Midon (ARG) vs. Pedro Martínez (ESP) (Día 1)",
-        "subtitle": "Argentina Open 2026",
-        "time": "15:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
-    },
-    {
-        "category": "Tenis",
-        "title": "Andrea Pellegrino (ITA) vs. Tomás Etcheverry (ARG) (Día 1)",
-        "subtitle": "Argentina Open 2026",
-        "time": "18:30",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "category": "Fútbol",
+        "title": "Vitória vs Flamengo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
