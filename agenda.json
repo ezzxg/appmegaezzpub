@@ -31,27 +31,27 @@
         "title": "Nottingham Forest vs Wolverhampton",
         "subtitle": "Premier League",
         "time": "16:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
         "title": "Manchester City vs Fulham",
         "subtitle": "Premier League",
         "time": "16:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "target_channel_name": "Eventos2"
     },
     {
         "category": "Fútbol",
         "title": "Aston Villa vs Brighton",
         "subtitle": "Premier League",
         "time": "16:30",
-        "channel_name": "Disney+ Premium",
+        "channel_name": "Eventos3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
+        "target_channel_name": "Eventos3"
     },
     {
         "category": "Fútbol",
