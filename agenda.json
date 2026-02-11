@@ -1,7 +1,7 @@
 [
     {
         "category": "Fútbol",
-        "title": "Táchira vs The Strongest",
+        "title": "Alianza Lima vs 2 de Mayo",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
         "channel_name": "Fox Sports AR",
@@ -10,56 +10,128 @@
     },
     {
         "category": "Fútbol",
-        "title": "Everton vs Bournemouth",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "title": "Rosario Central vs Belgrano",
+        "subtitle": "Copa Argentina",
+        "time": "19:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     },
     {
         "category": "Fútbol",
-        "title": "Chelsea vs Leeds",
+        "title": "Central Córdoba vs Gimnasia (J)",
+        "subtitle": "Copa Argentina",
+        "time": "21:15",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Nottingham Forest vs Wolverhampton",
         "subtitle": "Premier League",
         "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Manchester City vs Fulham",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Aston Villa vs Brighton",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Crystal Palace vs Burnley",
+        "subtitle": "Premier League",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Sunderland vs Liverpool",
+        "subtitle": "Premier League",
+        "time": "17:15",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Tottenham vs Newcastle",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "West Ham vs Manchester United",
-        "subtitle": "Premier League",
-        "time": "17:15",
-        "channel_name": "Eventos1",
+        "title": "Athletic Bilbao vs Real Sociedad",
+        "subtitle": "Copa del Rey",
+        "time": "17:00",
+        "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Nápoles vs Como",
+        "title": "Bolonia vs Lazio",
         "subtitle": "Copa de Italia",
         "time": "17:00",
-        "channel_name": "Eventos2",
+        "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Vitória vs Flamengo",
+        "title": "Chapecoense vs Coritiba",
+        "subtitle": "Brasileirao Serie A",
+        "time": "19:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlético Mineiro vs Remo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Vasco vs Bahia",
         "subtitle": "Brasileirao Serie A",
         "time": "21:30",
-        "channel_name": "PREMIERE HD",
-        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
-        "target_channel_name": "PREMIERE HD"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "São Paulo vs Grêmio",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Portuguesa RJ vs Nova Iguaçu",
+        "subtitle": "Carioca",
+        "time": "17:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
