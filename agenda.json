@@ -55,15 +55,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Crystal Palace vs Burnley",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Sunderland vs Liverpool",
         "subtitle": "Premier League",
         "time": "17:15",
@@ -76,45 +67,45 @@
         "title": "Athletic Bilbao vs Real Sociedad",
         "subtitle": "Copa del Rey",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports"
     },
     {
         "category": "Fútbol",
         "title": "Bolonia vs Lazio",
         "subtitle": "Copa de Italia",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global"
     },
     {
         "category": "Fútbol",
         "title": "Chapecoense vs Coritiba",
         "subtitle": "Brasileirao Serie A",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "PREMIERE 3 HD"
     },
     {
         "category": "Fútbol",
         "title": "Atlético Mineiro vs Remo",
         "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "PREMIERE 2 HD"
     },
     {
         "category": "Fútbol",
         "title": "Vasco vs Bahia",
         "subtitle": "Brasileirao Serie A",
         "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE HD",
+        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
+        "target_channel_name": "PREMIERE HD"
     },
     {
         "category": "Fútbol",
@@ -130,8 +121,8 @@
         "title": "Portuguesa RJ vs Nova Iguaçu",
         "subtitle": "Carioca",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "PREMIERE 2 HD"
     }
 ]
