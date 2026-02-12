@@ -1,7 +1,7 @@
 [
     {
         "category": "Fútbol",
-        "title": "Alianza Lima vs 2 de Mayo",
+        "title": "U. Católica vs Juventud",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
         "channel_name": "Fox Sports AR",
@@ -10,61 +10,34 @@
     },
     {
         "category": "Fútbol",
-        "title": "Rosario Central vs Belgrano",
-        "subtitle": "Copa Argentina",
+        "title": "Tigre vs Aldosivi",
+        "subtitle": "Torneo Apertura",
         "time": "19:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Central Córdoba vs Gimnasia (J)",
-        "subtitle": "Copa Argentina",
+        "title": "Argentinos vs River",
+        "subtitle": "Torneo Apertura",
         "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Nottingham Forest vs Wolverhampton",
+        "title": "Brentford vs Arsenal",
         "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Manchester City vs Fulham",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Aston Villa vs Brighton",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Eventos3",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos3"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Sunderland vs Liverpool",
-        "subtitle": "Premier League",
-        "time": "17:15",
+        "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Athletic Bilbao vs Real Sociedad",
+        "title": "Atlético Madrid vs Barcelona",
         "subtitle": "Copa del Rey",
         "time": "17:00",
         "channel_name": "FlowSports",
@@ -73,56 +46,56 @@
     },
     {
         "category": "Fútbol",
-        "title": "Bolonia vs Lazio",
-        "subtitle": "Copa de Italia",
-        "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports Global"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Chapecoense vs Coritiba",
+        "title": "Athletico PR vs Santos",
         "subtitle": "Brasileirao Serie A",
         "time": "19:00",
-        "channel_name": "PREMIERE 3 HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "PREMIERE 3 HD"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Atlético Mineiro vs Remo",
+        "title": "Fluminense vs Botafogo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "19:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Corinthians vs Bragantino",
         "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "PREMIERE 2 HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "PREMIERE 2 HD"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Vasco vs Bahia",
+        "title": "Internacional vs Palmeiras",
         "subtitle": "Brasileirao Serie A",
         "time": "21:30",
-        "channel_name": "PREMIERE HD",
-        "channel_logo_url": "https://i.ibb.co/hRMRWnv6/Premiere-FC-logo.png",
-        "target_channel_name": "PREMIERE HD"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     },
     {
-        "category": "Fútbol",
-        "title": "São Paulo vs Grêmio",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:30",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
+        "category": "Futbol",
+        "title": "ATP 250 de Buenos Aires",
+        "subtitle": "ATP 250 de Buenos Aires",
+        "time": "13:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     },
     {
-        "category": "Fútbol",
-        "title": "Portuguesa RJ vs Nova Iguaçu",
-        "subtitle": "Carioca",
-        "time": "17:00",
-        "channel_name": "PREMIERE 2 HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "PREMIERE 2 HD"
+        "category": "Futbol",
+        "title": "ATP 250 de Buenos Aires",
+        "subtitle": "ATP 250 de Buenos Aires",
+        "time": "18:30",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     }
 ]
