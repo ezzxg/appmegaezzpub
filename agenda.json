@@ -91,24 +91,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Everton vs Huachipato",
-        "subtitle": "Primera División Chile",
-        "time": "18:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Palestino vs U. de Chile",
-        "subtitle": "Primera División Chile",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Guaraní vs San Lorenzo",
         "subtitle": "Primera Paraguay",
         "time": "18:30",
