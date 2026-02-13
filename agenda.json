@@ -124,5 +124,32 @@
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Hockey",
+        "title": "Las Leonas vs Irlanda",
+        "subtitle": "Pro-League Femenino",
+        "time": "05:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Tenis",
+        "title": "Alejandro Tabilo vs Tomas Martin Etcheverry",
+        "subtitle": "ATP 250 de Buenos Aires",
+        "time": " 13:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Tenis",
+        "title": "Francisco Cerundolo vs Vit Kopriva",
+        "subtitle": "ATP 250 de Buenos Aires",
+        "time": "15:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
     }
 ]
