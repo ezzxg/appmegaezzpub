@@ -1,53 +1,71 @@
 [
     {
         "category": "Fútbol",
-        "title": "U. Católica vs Juventud",
-        "subtitle": "Copa Libertadores",
-        "time": "21:30",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tigre vs Aldosivi",
+        "title": "Independiente vs Lanús",
         "subtitle": "Torneo Apertura",
-        "time": "19:00",
+        "time": "20:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Argentinos vs River",
+        "title": "Defensa y Justicia vs Vélez",
         "subtitle": "Torneo Apertura",
-        "time": "21:15",
+        "time": "22:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Unión vs San Lorenzo",
+        "subtitle": "Torneo Apertura",
+        "time": "22:15",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Brentford vs Arsenal",
-        "subtitle": "Premier League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "title": "Wrexham vs Ipswich",
+        "subtitle": "FA Cup",
+        "time": "16:45",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2"
     },
     {
         "category": "Fútbol",
-        "title": "Atlético Madrid vs Barcelona",
-        "subtitle": "Copa del Rey",
-        "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
+        "title": "Hull vs Chelsea",
+        "subtitle": "FA Cup",
+        "time": "16:45",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
-        "title": "Athletico PR vs Santos",
-        "subtitle": "Brasileirao Serie A",
+        "title": "Elche vs Osasuna",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Rennes vs PSG",
+        "subtitle": "Ligue 1 McDonald's",
+        "time": "15:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Cerro Largo vs Wanderers",
+        "subtitle": "Primera División Uruguay",
         "time": "19:00",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
@@ -55,47 +73,56 @@
     },
     {
         "category": "Fútbol",
-        "title": "Fluminense vs Botafogo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Corinthians vs Bragantino",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Internacional vs Palmeiras",
-        "subtitle": "Brasileirao Serie A",
+        "title": "Liverpool vs Def. Sporting",
+        "subtitle": "Primera División Uruguay",
         "time": "21:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
     },
     {
-        "category": "Futbol",
-        "title": "ATP 250 de Buenos Aires",
-        "subtitle": "ATP 250 de Buenos Aires",
-        "time": "13:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "category": "Fútbol",
+        "title": "América vs Santa Fe",
+        "subtitle": "Primera División Colombia",
+        "time": "22:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     },
     {
-        "category": "Futbol",
-        "title": "ATP 250 de Buenos Aires",
-        "subtitle": "ATP 250 de Buenos Aires",
+        "category": "Fútbol",
+        "title": "Everton vs Huachipato",
+        "subtitle": "Primera División Chile",
+        "time": "18:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Palestino vs U. de Chile",
+        "subtitle": "Primera División Chile",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Guaraní vs San Lorenzo",
+        "subtitle": "Primera Paraguay",
         "time": "18:30",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Recoleta vs Luqueño",
+        "subtitle": "Primera Paraguay",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
     }
 ]
