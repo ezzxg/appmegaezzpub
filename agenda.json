@@ -81,33 +81,6 @@
         "target_channel_name": "Por Definir"
     },
     {
-        "category": "Fútbol",
-        "title": "América vs Santa Fe",
-        "subtitle": "Primera División Colombia",
-        "time": "22:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Guaraní vs San Lorenzo",
-        "subtitle": "Primera Paraguay",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Recoleta vs Luqueño",
-        "subtitle": "Primera Paraguay",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
         "category": "Hockey",
         "title": "Las Leonas vs Irlanda",
         "subtitle": "Pro-League Femenino",
