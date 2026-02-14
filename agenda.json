@@ -46,21 +46,12 @@
     },
     {
         "category": "Fútbol",
-        "title": "Burton Albion vs West Ham",
-        "subtitle": "FA Cup",
-        "time": "09:15",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Norwich vs West Bromwich",
         "subtitle": "FA Cup",
         "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
+        "channel_name": "Disney+",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "target_channel_name": "Disney+11"
     },
     {
         "category": "Fútbol",
@@ -76,18 +67,9 @@
         "title": "Southampton vs Leicester",
         "subtitle": "FA Cup",
         "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Burnley vs Mansfield",
-        "subtitle": "FA Cup",
-        "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
+        "channel_name": "Disney+",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "target_channel_name": "Disney+13"
     },
     {
         "category": "Fútbol",
@@ -145,264 +127,12 @@
     },
     {
         "category": "Fútbol",
-        "title": "Como vs Fiorentina",
-        "subtitle": "Serie A Enilive",
-        "time": "11:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lazio vs Atalanta",
-        "subtitle": "Serie A Enilive",
-        "time": "14:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Inter vs Juventus",
         "subtitle": "Serie A Enilive",
         "time": "16:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Camioneros vs Villa Dálmine",
-        "subtitle": "B Metropolitana",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Carlos vs Liniers",
-        "subtitle": "B Metropolitana",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Martín (B) vs Real Pilar",
-        "subtitle": "B Metropolitana",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Flandria vs Brown de Adrogué",
-        "subtitle": "B Metropolitana",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Liniers vs San Martín (B)",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Real Pilar vs Italiano",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Villa Dálmine vs Merlo",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Arsenal vs Comunicaciones",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Argentino (M) vs Defensores Unidos",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Excursionistas vs Dock Sud",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Carlos vs Ituzaingó",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Laferrere vs Flandria",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "UAI Urquiza vs Camioneros",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Brown de Adrogué vs Armenio",
-        "subtitle": "B Metropolitana",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Toluca vs Tijuana",
-        "subtitle": "Liga BBVA MX",
-        "time": "00:05",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Luis vs Querétaro",
-        "subtitle": "Liga BBVA MX",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Pachuca vs Atlas",
-        "subtitle": "Liga BBVA MX",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Monterrey vs León",
-        "subtitle": "Liga BBVA MX",
-        "time": "22:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Juárez vs Necaxa",
-        "subtitle": "Liga BBVA MX",
-        "time": "22:06",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Marsella vs Racing de Estrasburgo",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "13:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lille vs Brest",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "15:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Paris FC vs Lens",
-        "subtitle": "Ligue 1 McDonald's",
-        "time": "17:05",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Hamburgo vs Unión Berlín",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Eintracht vs B. M'gladbach",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Leverkusen vs St. Pauli",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Hoffenheim vs Friburgo",
-        "subtitle": "Bundesliga",
-        "time": "11:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
     },
     {
         "category": "Fútbol",
@@ -421,24 +151,6 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Maldonado vs Progreso",
-        "subtitle": "Primera División Uruguay",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nacional vs Racing",
-        "subtitle": "Primera División Uruguay",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
