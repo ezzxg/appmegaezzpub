@@ -1,56 +1,110 @@
 [
     {
         "category": "Fútbol",
-        "title": "Riestra vs Newell’s",
-        "subtitle": "Torneo Apertura",
+        "title": "Carabobo vs Huachipato",
+        "subtitle": "Copa Libertadores",
         "time": "19:00",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Liverpool vs Medellín",
+        "subtitle": "Copa Libertadores",
+        "time": "21:30",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "2 de Mayo vs Cristal",
+        "subtitle": "Copa Libertadores",
+        "time": "21:30",
+        "channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://i.ibb.co/HLGF9Z0D/Fox-Sports-2-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Aldosivi vs San Miguel",
+        "subtitle": "Copa Argentina",
+        "time": "17:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tigre vs Claypole",
+        "subtitle": "Copa Argentina",
+        "time": "19:45",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Fútbol",
+        "title": "River vs Ciudad Bolívar",
+        "subtitle": "Copa Argentina",
+        "time": "22:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Galatasaray vs Juventus",
+        "subtitle": "Champions League",
+        "time": "14:45",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Macclesfield vs Brentford",
-        "subtitle": "FA Cup",
-        "time": "16:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Girona vs Barcelona",
-        "subtitle": "LALIGA EA SPORTS",
+        "title": "Dortmund vs Atalanta",
+        "subtitle": "Champions League",
         "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports Global"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cagliari vs Lecce",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Albion vs Cerro",
-        "subtitle": "Primera División Uruguay",
-        "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "title": "Mónaco vs PSG",
+        "subtitle": "Champions League",
+        "time": "17:00",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
     },
     {
         "category": "Fútbol",
-        "title": "City Torque vs Juventud",
-        "subtitle": "Primera División Uruguay",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "title": "Benfica vs Real Madrid",
+        "subtitle": "Champions League",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Independiente (M) vs Boca",
+        "subtitle": "Torneo Proyección",
+        "time": "19:10",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Central Córdoba vs A Rafaela",
+        "subtitle": "Torneo Proyección",
+        "time": "21:05",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
