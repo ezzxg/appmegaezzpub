@@ -1,56 +1,29 @@
 [
     {
         "category": "Fútbol",
-        "title": "San Lorenzo vs Estudiantes (RC)",
-        "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Vélez vs River",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Unión vs Aldosivi",
-        "subtitle": "Torneo Apertura",
-        "time": "21:30",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tottenham vs Arsenal",
+        "title": "Everton vs Manchester United",
         "subtitle": "Premier League",
-        "time": "13:30",
+        "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Villarreal vs Valencia",
+        "title": "Alavés vs Girona",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Heidenheim vs Stuttgart",
-        "subtitle": "Bundesliga",
-        "time": "15:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "title": "Fiorentina vs Pisa",
+        "subtitle": "Serie A Enilive",
+        "time": "14:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
