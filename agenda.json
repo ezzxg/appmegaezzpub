@@ -139,35 +139,17 @@
         "title": "City Torque vs Def. Sporting",
         "subtitle": "Primera División Uruguay",
         "time": "20:00",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
         "title": "Millonarios vs Pereira",
         "subtitle": "Primera División Colombia",
         "time": "21:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Rubio Ñú vs San Lorenzo",
-        "subtitle": "Primera Paraguay",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Recoleta vs Nacional",
-        "subtitle": "Primera Paraguay",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "target_channel_name": "Eventos2"
     }
 ]
