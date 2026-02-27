@@ -1,146 +1,47 @@
 [
     {
         "category": "Fútbol",
-        "title": "Flamengo vs Lanús",
-        "subtitle": "Recopa Sudamericana",
-        "time": "21:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Guaraní vs Juventud",
-        "subtitle": "Copa Libertadores",
-        "time": "19:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tolima vs Táchira",
-        "subtitle": "Copa Libertadores",
-        "time": "21:30",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Racing vs Independiente (M)",
-        "subtitle": "Torneo Apertura",
-        "time": "17:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Sarmiento vs Unión",
-        "subtitle": "Torneo Apertura",
-        "time": "17:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes (RC) vs Huracán",
-        "subtitle": "Torneo Apertura",
-        "time": "19:30",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "River vs Banfield",
-        "subtitle": "Torneo Apertura",
-        "time": "19:30",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Stuttgart vs Celtic",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Ferencvaros vs Ludogorets",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estrella Roja vs Lille",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Viktoria Plzen vs Panathinaikos",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Genk vs Dinamo Zagreb",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nottingham Forest vs Fenerbahçe",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bolonia vs Brann",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Celta de Vigo vs PAOK",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "City Torque vs Def. Sporting",
-        "subtitle": "Primera División Uruguay",
-        "time": "20:00",
-        "channel_name": "Eventos1",
+        "title": "Gimnasia Tiro vs Almagro",
+        "subtitle": "Primera Nacional",
+        "time": "22:00",
+        "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Wolverhampton vs Aston Villa",
+        "subtitle": "Premier League",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Levante UD vs Alavés",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Racing de Estrasburgo vs Lens",
+        "subtitle": "Ligue 1 McDonald's",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Augsburgo vs Colonia",
+        "subtitle": "Bundesliga",
+        "time": "16:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
