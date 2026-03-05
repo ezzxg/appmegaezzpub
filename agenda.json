@@ -1,16 +1,7 @@
 [
     {
         "category": "Fútbol",
-        "title": "Carabobo vs Cristal",
-        "subtitle": "Copa Libertadores",
-        "time": "19:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "O'Higgins vs Tolima",
+        "title": "Juventud vs Medellín",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
         "channel_name": "Fox Sports AR",
@@ -19,173 +10,65 @@
     },
     {
         "category": "Fútbol",
-        "title": "Blooming vs San Antonio BB",
+        "title": "Boston River vs Racing",
         "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Caracas vs Metropolitanos",
-        "subtitle": "Copa Sudamericana",
-        "time": "19:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Atl. Nacional vs Millonarios",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "U. de Chile vs Palestino",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Trinidense vs Olimpia",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Dep. Cuenca vs Libertad",
+        "title": "Nacional vs Recoleta",
         "subtitle": "Copa Sudamericana",
-        "time": "23:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lanús vs Boca",
-        "subtitle": "Torneo Apertura",
-        "time": "21:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Brighton vs Arsenal",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Aston Villa vs Chelsea",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Manchester City vs Nottingham Forest",
-        "subtitle": "Premier League",
-        "time": "16:30",
-        "channel_name": "Eventos1",
+        "time": "19:00",
+        "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
+        "target_channel_name": "Por Definir"
     },
     {
         "category": "Fútbol",
-        "title": "Newcastle vs Manchester United",
-        "subtitle": "Premier League",
-        "time": "17:15",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Rayo Vallecano vs Oviedo",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "15:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Real Sociedad vs Athletic Bilbao",
-        "subtitle": "Copa del Rey",
-        "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lazio vs Atalanta",
-        "subtitle": "Copa de Italia",
-        "time": "17:00",
+        "title": "América vs Bucaramanga",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports Global"
+        "target_channel_name": "Dsports"
     },
     {
         "category": "Fútbol",
-        "title": "Lorient vs OGC Niza",
-        "subtitle": "Copa de Francia",
-        "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "title": "Cienciano vs Melgar",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
+        "channel_name": "Dsports 2",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports 2"
     },
     {
         "category": "Fútbol",
-        "title": "Marsella vs Toulouse",
-        "subtitle": "Copa de Francia",
+        "title": "Orense vs Macará",
+        "subtitle": "Copa Sudamericana",
+        "time": "23:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tottenham vs Crystal Palace",
+        "subtitle": "Premier League",
         "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Hamburgo vs Leverkusen",
-        "subtitle": "Bundesliga",
-        "time": "16:30",
-        "channel_name": "beIN ENGLISH",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "beIN ENGLISH"
-    },
-    {
-        "category": "Baloncesto",
-        "title": "Oklahoma City THunder vs New Yrok Knicks",
-        "subtitle": "NBA",
-        "time": "21:00",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR"
-    },
-    {
-        "category": "Baloncesto",
-        "title": "Atlanta Hawks vs Milwaukee Bucks",
-        "subtitle": "NBA",
-        "time": "23:30",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR"
+        "title": "Lyon vs Lens",
+        "subtitle": "Copa de Francia",
+        "time": "17:10",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
     }
 ]
