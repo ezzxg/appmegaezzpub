@@ -70,5 +70,14 @@
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Automovilismo",
+        "title": " Fórmula 1: GP Australia - Práctica #1",
+        "subtitle": " Fórmula 1",
+        "time": "22:30",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
     }
 ]
