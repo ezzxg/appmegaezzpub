@@ -1,62 +1,17 @@
 [
     {
         "category": "Fútbol",
-        "title": "Juventud vs Medellín",
-        "subtitle": "Copa Libertadores",
-        "time": "21:30",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Boston River vs Racing",
-        "subtitle": "Copa Sudamericana",
-        "time": "19:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nacional vs Recoleta",
-        "subtitle": "Copa Sudamericana",
-        "time": "19:00",
-        "channel_name": "Eventos3",
+        "title": "Wolverhampton vs Liverpool",
+        "subtitle": "FA Cup",
+        "time": "17:00",
+        "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos3"
+        "target_channel_name": "Disney+ Premium"
     },
     {
         "category": "Fútbol",
-        "title": "América vs Bucaramanga",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cienciano vs Melgar",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "Dsports 2",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports 2"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Orense vs Macará",
-        "subtitle": "Copa Sudamericana",
-        "time": "23:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tottenham vs Crystal Palace",
-        "subtitle": "Premier League",
+        "title": "Celta de Vigo vs Real Madrid",
+        "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
@@ -64,17 +19,35 @@
     },
     {
         "category": "Fútbol",
-        "title": "Lyon vs Lens",
-        "subtitle": "Copa de Francia",
-        "time": "17:10",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports"
+        "title": "PSG vs Mónaco",
+        "subtitle": "Ligue 1 McDonald's",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bayern Múnich vs B. M'gladbach",
+        "subtitle": "Bundesliga",
+        "time": "16:30",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
     },
     {
         "category": "Automovilismo",
-        "title": " Fórmula 1: GP Australia - Práctica #1",
-        "subtitle": " Fórmula 1",
+        "title": "Fórmula 1: GP Australia - Práctica #2",
+        "subtitle": "Fórmula 1",
+        "time": "02:00",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Automovilismo",
+        "title": "Fórmula 1: GP Australia - Práctica #3",
+        "subtitle": "Fórmula 1",
         "time": "22:30",
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
