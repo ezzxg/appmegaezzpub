@@ -1,7 +1,16 @@
 [
     {
         "category": "Fútbol",
-        "title": "Botafogo vs Barcelona",
+        "title": "Cristal vs Carabobo",
+        "subtitle": "Copa Libertadores",
+        "time": "19:00",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tolima vs O'Higgins",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
         "channel_name": "Fox Sports AR",
@@ -10,25 +19,34 @@
     },
     {
         "category": "Fútbol",
-        "title": "Independiente vs Unión",
+        "title": "Banfield vs Gimnasia (LP)",
         "subtitle": "Torneo Apertura",
-        "time": "19:45",
+        "time": "17:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argentinos vs Rosario Central",
+        "subtitle": "Torneo Apertura",
+        "time": "17:30",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Tigre vs Vélez",
+        "title": "Boca vs San Lorenzo",
         "subtitle": "Torneo Apertura",
         "time": "19:45",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
     },
     {
         "category": "Fútbol",
-        "title": "Sarmiento vs Racing",
+        "title": "Atlético Tucumán vs Aldosivi",
         "subtitle": "Torneo Apertura",
         "time": "22:00",
         "channel_name": "ESPN Premium",
@@ -37,7 +55,7 @@
     },
     {
         "category": "Fútbol",
-        "title": "Newell’s vs Platense",
+        "title": "Independiente (M) vs Barracas",
         "subtitle": "Torneo Apertura",
         "time": "22:00",
         "channel_name": "TNT Sports",
@@ -46,38 +64,38 @@
     },
     {
         "category": "Fútbol",
-        "title": "Galatasaray vs Liverpool",
+        "title": "Leverkusen vs Arsenal",
         "subtitle": "Champions League",
         "time": "14:45",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Atlético Madrid vs Tottenham",
-        "subtitle": "Champions League",
-        "time": "17:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Atalanta vs Bayern Múnich",
+        "title": "Bodo Glimt vs Sporting",
         "subtitle": "Champions League",
         "time": "17:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
+        "channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://i.ibb.co/HLGF9Z0D/Fox-Sports-2-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports 2 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Newcastle vs Barcelona",
+        "title": "Real Madrid vs Manchester City",
         "subtitle": "Champions League",
         "time": "17:00",
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
         "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "PSG vs Chelsea",
+        "subtitle": "Champions League",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     }
 ]
