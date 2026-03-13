@@ -27,15 +27,6 @@
         "target_channel_name": "Disney+ Premium"
     },
     {
-        "category": "Fútbol",
-        "title": "B. M'gladbach vs St. Pauli",
-        "subtitle": "Bundesliga",
-        "time": "16:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
         "category": "Automovilismo",
         "title": "GP de China: Clasificación Sprint",
         "subtitle": "Fórmula 1",
