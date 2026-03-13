@@ -10,24 +10,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Atlético Rafaela vs San Martín (SJ)",
-        "subtitle": "Primera Nacional",
-        "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Racing (C) vs Almirante Brown",
-        "subtitle": "Primera Nacional",
-        "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Alavés vs Villarreal",
         "subtitle": "LALIGA EA SPORTS",
         "time": "17:00",
@@ -52,5 +34,23 @@
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Rugby",
+        "title": "Peñarol Rugby vs. Cobras Brasil Rugby",
+        "subtitle": "Súper Rugby Américas",
+        "time": "19:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
+    },
+    {
+        "category": "Boxeo",
+        "title": "Najee López vs. Manuel Gallegos",
+        "subtitle": "ESPN KO",
+        "time": "21:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
     }
 ]
