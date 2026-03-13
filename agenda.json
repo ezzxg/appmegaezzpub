@@ -1,137 +1,38 @@
 [
     {
         "category": "Fútbol",
-        "title": "Medellín vs Juventud",
-        "subtitle": "Copa Libertadores",
-        "time": "21:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Riestra vs Gimnasia (M)",
+        "title": "Estudiantes (LP) vs Lanús",
         "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Defensa y Justicia vs Central Córdoba",
-        "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes (RC) vs Belgrano",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Talleres vs Instituto",
-        "subtitle": "Torneo Apertura",
-        "time": "19:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Huracán vs River",
-        "subtitle": "Torneo Apertura",
-        "time": "21:30",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bolonia vs Roma",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Panathinaikos vs Betis",
-        "subtitle": "Europa League",
-        "time": "14:45",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lille vs Aston Villa",
-        "subtitle": "Europa League",
-        "time": "14:45",
+        "time": "20:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Stuttgart vs Porto",
-        "subtitle": "Europa League",
-        "time": "14:45",
+        "title": "Alavés vs Villarreal",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
         "channel_name": "ESPN 4 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Celta de Vigo vs Lyon",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
+        "title": "Torino vs Parma",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1"
     },
     {
-        "category": "Fútbol",
-        "title": "Ferencvaros vs Braga",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nottingham Forest vs Midtjylland",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Genk vs Friburgo",
-        "subtitle": "Europa League",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "São Paulo vs Chapecoense",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports"
+        "category": "Automovilismo",
+        "title": "GP de China: Clasificación Sprint",
+        "subtitle": "Fórmula 1",
+        "time": "04:30",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/zhHsLZRD/Fox-Sports-Argentina-2023-svg.png",
+        "target_channel_name": "Fox Sports AR"
     }
 ]
