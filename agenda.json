@@ -1,56 +1,236 @@
 [
     {
         "category": "Fútbol",
-        "title": "Estudiantes (LP) vs Lanús",
+        "title": "Platense vs Vélez",
         "subtitle": "Torneo Apertura",
-        "time": "20:00",
+        "time": "19:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Rosario Central vs Banfield",
+        "subtitle": "Torneo Apertura",
+        "time": "21:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Burnley vs Bournemouth",
+        "subtitle": "Premier League",
+        "time": "12:00",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Chelsea vs Newcastle",
+        "subtitle": "Premier League",
+        "time": "14:30",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Alavés vs Villarreal",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "17:00",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR"
+        "title": "Arsenal vs Everton",
+        "subtitle": "Premier League",
+        "time": "14:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
     },
     {
         "category": "Fútbol",
-        "title": "Torino vs Parma",
+        "title": "West Ham vs Manchester City",
+        "subtitle": "Premier League",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Girona vs Athletic Bilbao",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "10:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlético Madrid vs Getafe",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "12:15",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Oviedo vs Valencia",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Real Madrid vs Elche",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "17:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Inter vs Atalanta",
         "subtitle": "Serie A Enilive",
-        "time": "16:45",
+        "time": "11:00",
         "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Eventos1"
     },
     {
         "category": "Fútbol",
-        "title": "B. M'gladbach vs St. Pauli",
-        "subtitle": "Bundesliga",
-        "time": "16:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "title": "Nápoles vs Lecce",
+        "subtitle": "Serie A Enilive",
+        "time": "14:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR"
     },
     {
-        "category": "Rugby",
-        "title": "Peñarol Rugby vs. Cobras Brasil Rugby",
-        "subtitle": "Súper Rugby Américas",
-        "time": "19:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "category": "Fútbol",
+        "title": "Udinese vs Juventus",
+        "subtitle": "Serie A Enilive",
+        "time": "16:45",
+        "channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Disney+ Premium"
     },
     {
-        "category": "Boxeo",
-        "title": "Najee López vs. Manuel Gallegos",
-        "subtitle": "ESPN KO",
-        "time": "21:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR"
+        "category": "Fútbol",
+        "title": "Toronto vs New York",
+        "subtitle": "MLS",
+        "time": "14:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlanta United vs Philadelphia",
+        "subtitle": "MLS",
+        "time": "16:15",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Columbus vs Nashville",
+        "subtitle": "MLS",
+        "time": "19:15",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Orlando vs Montreal",
+        "subtitle": "MLS",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "New York City vs Colorado",
+        "subtitle": "MLS",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Charlotte vs Inter Miami",
+        "subtitle": "MLS",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Chicago vs DC United",
+        "subtitle": "MLS",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Dallas vs San Diego",
+        "subtitle": "MLS",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Houston vs Portland",
+        "subtitle": "MLS",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Galaxy vs Kansas",
+        "subtitle": "MLS",
+        "time": "22:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Salt Lake vs Austin",
+        "subtitle": "MLS",
+        "time": "22:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Los Ángeles FC vs St. Louis",
+        "subtitle": "MLS",
+        "time": "23:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir"
+    },
+    {
+        "category": "Automovilismo",
+        "title": "GP: China - Clasificación",
+        "subtitle": "Fórmula 1",
+        "time": "04:00",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR"
     }
 ]
