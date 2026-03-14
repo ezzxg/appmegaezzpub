@@ -19,15 +19,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Burnley vs Bournemouth",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
-    },
-    {
-        "category": "Fútbol",
         "title": "Chelsea vs Newcastle",
         "subtitle": "Premier League",
         "time": "14:30",
@@ -94,9 +85,9 @@
         "title": "Inter vs Atalanta",
         "subtitle": "Serie A Enilive",
         "time": "11:00",
-        "channel_name": "Eventos1",
+        "channel_name": "Bein Sports EN",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1"
+        "target_channel_name": "Bein Sports EN"
     },
     {
         "category": "Fútbol",
@@ -106,15 +97,6 @@
         "channel_name": "ESPN 4 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Udinese vs Juventus",
-        "subtitle": "Serie A Enilive",
-        "time": "16:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium"
     },
     {
         "category": "Fútbol",
