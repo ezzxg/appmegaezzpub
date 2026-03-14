@@ -100,108 +100,9 @@
     },
     {
         "category": "Fútbol",
-        "title": "Toronto vs New York",
-        "subtitle": "MLS",
-        "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Atlanta United vs Philadelphia",
-        "subtitle": "MLS",
-        "time": "16:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Columbus vs Nashville",
-        "subtitle": "MLS",
-        "time": "19:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Orlando vs Montreal",
-        "subtitle": "MLS",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "New York City vs Colorado",
-        "subtitle": "MLS",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
         "title": "Charlotte vs Inter Miami",
         "subtitle": "MLS",
         "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Chicago vs DC United",
-        "subtitle": "MLS",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Dallas vs San Diego",
-        "subtitle": "MLS",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Houston vs Portland",
-        "subtitle": "MLS",
-        "time": "21:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Galaxy vs Kansas",
-        "subtitle": "MLS",
-        "time": "22:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Salt Lake vs Austin",
-        "subtitle": "MLS",
-        "time": "22:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Los Ángeles FC vs St. Louis",
-        "subtitle": "MLS",
-        "time": "23:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir"
@@ -214,5 +115,23 @@
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
         "target_channel_name": "Fox Sports AR"
+    },
+    {
+        "category": "Boxeo",
+        "title": "Arnold Barboza Jr. vs. Kenneth Sims Jr.",
+        "subtitle": "ESPN KO",
+        "time": "21:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Denver Nuggets vs. Los Angeles Lakers",
+        "subtitle": "NBA",
+        "time": "21:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
