@@ -2,11 +2,13 @@
     {
         "category": "Fútbol",
         "title": "Wolfsburg vs. OL Lyonnes",
-        "subtitle": "UEFA Women's Champions League:",
+        "subtitle": "UEFA Women's Champions League",
         "time": "14:45",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20107.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4pw11747937818.png"
     },
     {
         "category": "Fútbol",
@@ -15,6 +17,8 @@
         "time": "17:00",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR"
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+        "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
     }
 ]
