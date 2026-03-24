@@ -1,20 +1,20 @@
 [
     {
         "category": "Fútbol",
-        "title": "Estudiantes (LP) vs Central Córdoba",
-        "subtitle": "Torneo Apertura",
-        "time": "19:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)"
+        "title": "Wolfsburg vs. OL Lyonnes",
+        "subtitle": "UEFA Women's Champions League:",
+        "time": "14:45",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     },
     {
         "category": "Fútbol",
-        "title": "Huracán vs Barracas",
-        "subtitle": "Torneo Apertura",
-        "time": "21:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)"
+        "title": "Arsenal vs. Chelsea FC",
+        "subtitle": "UEFA Women's Champions League",
+        "time": "17:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR"
     }
 ]
