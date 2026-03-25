@@ -1,24 +1,79 @@
 [
     {
         "category": "Fútbol",
-        "title": "Wolfsburg vs. OL Lyonnes",
-        "subtitle": "UEFA Women's Champions League",
-        "time": "14:45",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20107.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4pw11747937818.png"
+        "title": "Riestra vs San Lorenzo",
+        "subtitle": "Torneo Apertura",
+        "time": "19:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
     },
     {
         "category": "Fútbol",
-        "title": "Arsenal vs. Chelsea FC",
-        "subtitle": "UEFA Women's Champions League",
-        "time": "17:00",
+        "title": "Atlético Tucumán vs Sp. Barracas",
+        "subtitle": "Copa Argentina",
+        "time": "19:00",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ank5xo1626208135.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Banfield vs Real Pilar",
+        "subtitle": "Copa Argentina",
+        "time": "21:15",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h7bo2a1626208066.png/medium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Manchester United vs Bayern Munich",
+        "subtitle": "Champions League Femenina",
+        "time": "16:40",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-        "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Detroit Pistons vs Atlanta Hawks",
+        "subtitle": "NBA",
+        "time": "20:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bsmb5i1578822943.png"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Minnesota Timberwolves vs Houston Rockets",
+        "subtitle": "NBA",
+        "time": "22:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
+    },
+    {
+        "category": "Hockey sobre hielo",
+        "title": "Toronto Maple Leafs vs New York Rangers",
+        "subtitle": "NHL",
+        "time": "20:30",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png"
     }
 ]
