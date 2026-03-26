@@ -1,0 +1,9 @@
+{
+  "url_channels": "https://appmegaezz.pages.dev/cana.json",
+  "url_movies": "https://appmegaezz.pages.dev/peliculas.json",
+  "url_series": "https://appmegaezz.pages.dev/series.json",
+  "url_agenda": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/agenda.json",
+  "url_users": "https://appmegaezz.pages.dev/us.json",
+  "url_banner": "http://vps-5182765-x.dattaweb.com/megaezzapp/banner_prin.json",
+  "url_version": "https://appmegaezz.pages.dev/version.json"
+}
