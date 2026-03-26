@@ -3,7 +3,7 @@
   "url_movies": "https://appmegaezz.pages.dev/peliculas.json",
   "url_series": "https://appmegaezz.pages.dev/series.json",
   "url_agenda": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/agenda.json",
-  "url_users": "https://appmegaezz.pages.dev/us.json",
+  "url_users": "http://vps-5182765-x.dattaweb.com/megaezzapp/u.json",
   "url_banner": "http://vps-5182765-x.dattaweb.com/megaezzapp/banner_prin.json",
   "url_version": "https://appmegaezz.pages.dev/version.json",
   "epg_urls": "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz",
