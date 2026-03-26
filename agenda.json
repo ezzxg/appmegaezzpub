@@ -1,79 +1,101 @@
 [
     {
         "category": "Fútbol",
-        "title": "Riestra vs San Lorenzo",
+        "title": "Argentinos vs Lanús",
         "subtitle": "Torneo Apertura",
+        "time": "21:00",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Turquía vs Rumania",
+        "subtitle": "Eliminatorias UEFA Mundial",
+        "time": "14:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/70c4oo1591982459.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/w903wb1689198300.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Italia vs Irlanda del Norte",
+        "subtitle": "Eliminatorias UEFA Mundial",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pratdm1515531815.png/medium"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Gales vs Bosnia",
+        "subtitle": "Eliminatorias UEFA Mundial",
+        "time": "16:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Bolivia vs Surinam",
+        "subtitle": "Repechaje Mundial",
         "time": "19:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
+        "channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos3",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fpwsu31600976268.png"
     },
     {
         "category": "Fútbol",
-        "title": "Atlético Tucumán vs Sp. Barracas",
-        "subtitle": "Copa Argentina",
-        "time": "19:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ank5xo1626208135.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Banfield vs Real Pilar",
-        "subtitle": "Copa Argentina",
-        "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h7bo2a1626208066.png/medium"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Manchester United vs Bayern Munich",
-        "subtitle": "Champions League Femenina",
-        "time": "16:40",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
-    },
-    {
-        "category": "Baloncesto",
-        "title": "Detroit Pistons vs Atlanta Hawks",
-        "subtitle": "NBA",
-        "time": "20:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bsmb5i1578822943.png"
-    },
-    {
-        "category": "Baloncesto",
-        "title": "Minnesota Timberwolves vs Houston Rockets",
-        "subtitle": "NBA",
-        "time": "22:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
-    },
-    {
-        "category": "Hockey sobre hielo",
-        "title": "Toronto Maple Leafs vs New York Rangers",
-        "subtitle": "NHL",
-        "time": "20:30",
+        "title": "Huracán vs San Martín (SJ",
+        "subtitle": "Torneo Proyección",
+        "time": "15:00",
         "channel_name": "ESPN 4 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l7j84h1517769215.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Brasil vs Francia",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "17:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Colombia vs Croacia",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "20:30",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+    },
+    {
+        "category": "Automovilismo",
+        "title": "Gran Premio Japón: Prácticas 1 ",
+        "subtitle": "Fórmula 1",
+        "time": "21:25",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "Fox Sports AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
+        "away_logo": ""
     }
 ]
