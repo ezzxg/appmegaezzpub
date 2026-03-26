@@ -5,5 +5,30 @@
   "url_agenda": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/agenda.json",
   "url_users": "https://appmegaezz.pages.dev/us.json",
   "url_banner": "http://vps-5182765-x.dattaweb.com/megaezzapp/banner_prin.json",
-  "url_version": "https://appmegaezz.pages.dev/version.json"
+  "url_version": "https://appmegaezz.pages.dev/version.json",
+  "epg_urls": "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz",
+  
+  "max_sessions": "3",
+  "session_check_interval": "300000",
+  "session_timeout": "1800000",
+  "force_refresh_timestamp": "0",
+
+  "trending_title": "🎬NUEVOS ESTRENOS",
+  "trending_content": "Peaky Blinders: El hombre inmortal, El Guardián: Último refugio, Cortafuego, La oficina, Fallout,Aviso general: Hermandad, ¡Uf! ¿Solo amigos?, Homo Argentum, Pluribus, Anaconda",
+
+  "ad_mini_player_url": "https://i.ibb.co/yF4Bn2ZZ/f1event.jpg",
+  "ad_title": "NO TE PIERDAS",
+  "ad_subtitle": "La Formula 1 2026",
+  "ad_action_type": "channel",
+  "ad_action_value": "Fox Sports AR",
+
+  "cat_map_deportes": "deportes, sports, espn, fox sports, tyc, dazn, fútbol",
+  "cat_map_cine": "cine, películas, movies, series, hbo, star, cinema",
+  "cat_map_noticias": "noticias, news, información, periodismo",
+  "cat_map_infantil": "infantil, kids, disney, niños, dibujos",
+  "cat_map_abierta": "abierta, aire, argentina, general, uruguay",
+  "cat_map_musica": "musica, music, mtv, vh1, vibe, htv, vclassic",
+  "cat_map_premium": "premium, hbo, pack, vips, universal",
+  "cat_map_cultura": "documentales, cultura, history, discovery, natgeo",
+  "cat_map_internacional": "internacional,international,mundo,global,world"
 }
