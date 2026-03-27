@@ -77,17 +77,6 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fhgyir1742103524.png"
     },
     {
-        "category": "Automovilismo",
-        "title": "GP Japón - Prácticas Libres #2",
-        "subtitle": " Fórmula 1",
-        "time": "03:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": ""
-    },
-    {
         "category": "Fútbol",
         "title": "Argelia vs. Guatemala",
         "subtitle": "Amistosos de Selecciones",
@@ -117,7 +106,7 @@
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://png.pngtree.com/png-vector/20240603/ourmid/pngtree-3d-rendering-of-tennis-ball-png-image_12605918.png",
+        "home_logo": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
         "away_logo": ""
     },
     {
