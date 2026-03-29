@@ -1,57 +1,57 @@
 [
     {
         "category": "Fútbol",
-        "title": "Racing vs San Martín (F)",
+        "title": "Huracán vs Olimpo",
         "subtitle": "Copa Argentina",
-        "time": "21:15",
+        "time": "18:00",
         "channel_name": "TyC Sports HD",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fdpydg1678851279.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/smg4f41704297909.png"
     },
     {
         "category": "Fútbol",
-        "title": "México vs Portugal",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "22:00",
-        "channel_name": "TUDN",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "TUDN",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+        "title": "Newell’s vs Acassuso",
+        "subtitle": "Copa Argentina",
+        "time": "20:15",
+        "channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "target_channel_name": "TyC Sports HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/81kew41677993637.png"
     },
     {
-        "category": "Futbol",
-        "title": "Senegal vs Perú",
+        "category": "Fútbol",
+        "title": "Colombia vs Francia",
         "subtitle": "Amistosos de Selecciones",
-        "time": "13:00",
+        "time": "16:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports Global",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/unszat1529144812.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Athletico PR vs Botafogo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "19:30",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
     },
     {
         "category": "Automovilismo",
-        "title": "GP de Japón: Clasificación",
-        "subtitle": "Fórmula 1",
-        "time": "03:00",
+        "title": "GP Japón: Carrera",
+        "subtitle": "Fórmula 1 ",
+        "time": "02:00",
         "channel_name": "Fox Sports AR",
         "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
         "target_channel_name": "Fox Sports AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Boxeo",
-        "title": "Bryan Acosta vs Ronny Rios",
-        "subtitle": "ESPN Knockout",
-        "time": "19:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://bestleague.world/img/box.png",
         "away_logo": ""
     }
 ]
