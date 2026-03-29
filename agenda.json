@@ -53,5 +53,16 @@
         "target_channel_name": "Fox Sports AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": ""
+    },
+    {
+        "category": "Moto GP",
+        "title": "Red Bull Grand Prix of The United States",
+        "subtitle": "Moto GP",
+        "time": "13:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://i.ibb.co/9HhJ4BcP/960px-Moto-Gp-logo-svg.png",
+        "away_logo": ""
     }
 ]
