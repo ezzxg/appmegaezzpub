@@ -20,16 +20,5 @@
         "target_channel_name": "ESPN AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "España vs Egypt",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "21:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png"
     }
 ]
