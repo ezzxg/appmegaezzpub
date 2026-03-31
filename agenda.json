@@ -141,5 +141,38 @@
         "target_channel_name": "FOX Deportes",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Orlando Magic vs Phoenix Suns",
+        "subtitle": "NBA",
+        "time": "20:00",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png"
+    },
+    {
+        "category": "Baloncesto",
+        "title": "Brooklyn Nets vs Charlotte Hornets",
+        "subtitle": "NBA",
+        "time": "20:30",
+        "channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos3",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Defensor Sporting vs Albion",
+        "subtitle": "Primera División Uruguay",
+        "time": "19:00",
+        "channel_name": "Disney+19",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "target_channel_name": "Disney+19",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png"
     }
 ]
