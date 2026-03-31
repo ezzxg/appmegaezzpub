@@ -1,6 +1,6 @@
 [
     {
-        "category": "Futbol",
+        "category": "Fútbol",
         "title": "Bosnia vs  Italia",
         "subtitle": "UEFA Playoffs Final",
         "time": "15:45",
@@ -97,5 +97,49 @@
         "target_channel_name": "ESPN 3 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Perú vs Honduras",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "15:00",
+        "channel_name": "FOX Deportes",
+        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
+        "target_channel_name": "FOX Deportes",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/unszat1529144812.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wuu4fp1718413719.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Escocia vs Costa de Marfil",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "15:30",
+        "channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN 5 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwxuuu1455465643.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "USA vs Portugal",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "20:00",
+        "channel_name": "PREMIERE SPORTS 2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "PREMIERE SPORTS 2",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Mexico vs Belgium",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "22:00",
+        "channel_name": "FOX Deportes",
+        "channel_logo_url": "",
+        "target_channel_name": "FOX Deportes",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
     }
 ]
