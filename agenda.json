@@ -1,24 +1,101 @@
 [
     {
-        "category": "Fútbol",
-        "title": "Unión vs Agropecuario",
-        "subtitle": "Copa Argentina",
-        "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jt027i1766678890.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Alemania vs Ghana",
-        "subtitle": "Amistosos de Selecciones",
+        "category": "Futbol",
+        "title": "Bosnia vs  Italia",
+        "subtitle": "UEFA Playoffs Final",
         "time": "15:45",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fxijcp1726167035.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Suecia vs Polonia",
+        "subtitle": "UEFA Playoffs Final",
+        "time": "15:45",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ttvrxy1455466076.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Aldosivi vs Argentino Juniors",
+        "subtitle": "Torneo Apertura",
+        "time": "14:00",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Noruega vs Suiza",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "13:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argentina vs Zambia",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "20:15",
+        "channel_name": "Telefe",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png",
+        "target_channel_name": "Telefe",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvh0al1553349957.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Brasil vs Croacia",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "21:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "España vs Egipto",
+        "subtitle": "Amistosos de Selecciones",
+        "time": "16:00",
+        "channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos2",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Belgrano vs  Lanús",
+        "subtitle": "Torneo Proyección",
+        "time": "15:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+    },
+    {
+        "category": "Hockey sobre hielo",
+        "title": "Columbus Blue Jackets vs Carolina Hurricanes",
+        "subtitle": "NHL",
+        "time": "20:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
     }
 ]
