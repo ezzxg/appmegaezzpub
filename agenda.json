@@ -1,134 +1,57 @@
 [
     {
         "category": "Fútbol",
-        "title": "Lanús vs Platense",
+        "title": "Barracas Central vs Sarmiento",
         "subtitle": "Torneo Apertura",
-        "time": "20:00",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Defensa y Justicia vs Chaco For Ever",
-        "subtitle": "Copa Argentina",
-        "time": "19:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9wxhp31678848859.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Instituto vs Atlanta",
-        "subtitle": "Copa Argentina",
-        "time": "21:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bsmb5i1578822943.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Iraq vs Bolivia",
-        "subtitle": "Repechaje Mundial",
-        "time": "00:00",
-        "channel_name": "FOX Sports 1 USA",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "FOX Sports 1 USA",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes (LP) vs Ferro Carril R",
-        "subtitle": "Torneo Proyección",
         "time": "15:00",
-        "channel_name": "TNT Sports",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tigre vs Independiente Rivadavia",
+        "subtitle": "Torneo Apertura",
+        "time": "17:30",
+        "channel_name": "TNT Sports Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qv5l9p1578822488.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
         "category": "Fútbol",
-        "title": "Botafogo vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
+        "title": "Talleres vs Boca Juniors",
+        "subtitle": "Torneo Apertura",
+        "time": "20:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
     },
     {
         "category": "Fútbol",
-        "title": "Internacional vs São Paulo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:30",
-        "channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "target_channel_name": "FlowSports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cruzeiro vs Vitória",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "PREMIERE 3 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "target_channel_name": "PREMIERE 3 HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bahia vs Athletico PR",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "PREMIERE 2 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "target_channel_name": "PREMIERE 2 HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fluminense vs Corinthians",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:30",
-        "channel_name": "SportDigital Fussball",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "SportDigital Fussball",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bayern Munich vs Manchester United",
+        "title": "FC Barcelona FEM vs  Real Madrid FEM",
         "subtitle": "Champions League Femenina",
         "time": "13:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
     },
     {
         "category": "Futbol",
-        "title": "Chelsea vs Arsenal",
-        "subtitle": "Champions League",
-        "time": "15:40",
+        "title": "Lyon vs Wolfsburg",
+        "subtitle": "Champions League Femenina",
+        "time": "16:00",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
+        "away_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20107.png"
     }
 ]
