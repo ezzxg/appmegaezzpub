@@ -86,5 +86,16 @@
         "target_channel_name": "Disney+1",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png"
+    },
+    {
+        "category": "Boxeo",
+        "title": "Pedro Taduran vs Gustavo Pérez",
+        "subtitle": "ESPN KO",
+        "time": "",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://bestleague.world/img/box.png",
+        "away_logo": ""
     }
 ]
