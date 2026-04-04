@@ -243,17 +243,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Los Ángeles FC vs Orlando",
-        "subtitle": "MLS",
-        "time": "22:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Galaxy vs Minnesota",
         "subtitle": "MLS",
         "time": "23:30",
@@ -273,17 +262,6 @@
         "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San josé vs San Diego",
-        "subtitle": "MLS",
-        "time": "23:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png"
     },
     {
         "category": "Fútbol",
