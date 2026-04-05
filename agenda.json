@@ -34,17 +34,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "West Ham vs Leeds",
-        "subtitle": "FA Cup",
-        "time": "12:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Getafe vs Athletic Bilbao",
         "subtitle": "LALIGA EA SPORTS",
         "time": "09:00",
@@ -59,9 +48,9 @@
         "title": "Valencia vs Celta de Vigo",
         "subtitle": "LALIGA EA SPORTS",
         "time": "11:15",
-        "channel_name": "DSports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports Global",
+        "channel_name": "LaLiga TV",
+        "channel_logo_url": "https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
+        "target_channel_name": "LaLiga TV",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
     },
@@ -163,17 +152,6 @@
         "target_channel_name": "ESPN 3 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Albion vs Cerro Largo",
-        "subtitle": "Primera División Uruguay",
-        "time": "10:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png"
     },
     {
         "category": "Fútbol",
