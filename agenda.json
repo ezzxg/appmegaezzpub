@@ -92,9 +92,9 @@
         "title": "Flamengo vs Santos",
         "subtitle": "Brasileirao Serie A",
         "time": "17:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "target_channel_name": "Eventos1",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
     },
@@ -103,22 +103,11 @@
         "title": "Corinthians vs Internacional",
         "subtitle": "Brasileirao Serie A",
         "time": "19:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "target_channel_name": "Eventos2",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Grêmio vs Remo",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
     },
     {
         "category": "Fútbol",
@@ -158,9 +147,9 @@
         "title": "Cerro vs Def. Sporting",
         "subtitle": "Primera División Uruguay",
         "time": "15:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "channel_name": "Disney+15",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "target_channel_name": "Disney+15",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png"
     },
@@ -169,9 +158,9 @@
         "title": "Liverpool vs Maldonado",
         "subtitle": "Primera División Uruguay",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "channel_name": "Disney+20",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "target_channel_name": "Disney+20",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png"
     }
