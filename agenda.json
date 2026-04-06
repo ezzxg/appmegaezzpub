@@ -1,167 +1,46 @@
 [
     {
         "category": "Fútbol",
-        "title": "Gimnasia (LP) vs Huracán",
+        "title": "Argentinos vs Banfield",
         "subtitle": "Torneo Apertura",
-        "time": "15:30",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png"
+        "time": "19:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png"
     },
     {
         "category": "Fútbol",
-        "title": "River vs Belgrano",
+        "title": "Instituto vs Defensa y Justicia",
         "subtitle": "Torneo Apertura",
-        "time": "18:00",
+        "time": "21:15",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
     },
     {
         "category": "Fútbol",
-        "title": "Central Córdoba vs Newell's",
-        "subtitle": "Torneo Apertura",
-        "time": "20:30",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Getafe vs Athletic Bilbao",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "09:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Valencia vs Celta de Vigo",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "11:15",
-        "channel_name": "LaLiga TV",
-        "channel_logo_url": "https://logos-world.net/wp-content/uploads/2023/07/LaLiga-Logo.png",
-        "target_channel_name": "LaLiga TV",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Real Oviedo vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "13:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Alavés vs Osasuna",
+        "title": "Girona vs Villarreal",
         "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
     },
     {
         "category": "Fútbol",
-        "title": "Inter vs Roma",
+        "title": "Nápoles vs Milan",
         "subtitle": "Serie A Enilive",
-        "time": "15:45",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Flamengo vs Santos",
-        "subtitle": "Brasileirao Serie A",
-        "time": "17:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Corinthians vs Internacional",
-        "subtitle": "Brasileirao Serie A",
-        "time": "19:30",
-        "channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos2",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "AS Monaco vs Marseille",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "15:45",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Unión Berlín vs St. Pauli",
-        "subtitle": "Bundesliga",
-        "time": "10:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Eintracht vs Colonia",
-        "subtitle": "Bundesliga",
-        "time": "12:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cerro vs Def. Sporting",
-        "subtitle": "Primera División Uruguay",
-        "time": "15:30",
-        "channel_name": "Disney+15",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "target_channel_name": "Disney+15",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Liverpool vs Maldonado",
-        "subtitle": "Primera División Uruguay",
-        "time": "18:30",
-        "channel_name": "Disney+20",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "target_channel_name": "Disney+20",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
     }
 ]
