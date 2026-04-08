@@ -185,5 +185,16 @@
         "target_channel_name": "ESPN 3 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+    },
+    {
+        "category": "Futbol",
+        "title": "Blooming vs River",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
+        "channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos3",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
     }
 ]
