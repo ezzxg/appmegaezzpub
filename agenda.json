@@ -1,123 +1,46 @@
 [
     {
         "category": "Fútbol",
-        "title": "Rosario Central vs Ind. del Valle",
-        "subtitle": "Copa Libertadores",
-        "time": "19:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "UCV vs Libertad",
-        "subtitle": "Copa Libertadores",
-        "time": "19:00",
-        "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://i.ibb.co/HLGF9Z0D/Fox-Sports-2-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Platense vs Corinthians",
-        "subtitle": "Copa Libertadores",
+        "title": "Belgrano vs Aldosivi",
+        "subtitle": "Torneo Apertura",
         "time": "21:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://i.ibb.co/4RcHkc15/250px-Fox-Sports-Argentina-2026-webp.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png"
     },
     {
         "category": "Fútbol",
-        "title": "Santa Fe vs Peñarol",
-        "subtitle": "Copa Libertadores",
-        "time": "23:00",
-        "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://i.ibb.co/HLGF9Z0D/Fox-Sports-2-Argentina-2023-svg.png",
-        "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png"
+        "title": "West Ham vs Wolverhampton",
+        "subtitle": "Premier League",
+        "time": "16:00",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
     },
     {
         "category": "Fútbol",
-        "title": "Juventud vs Cienciano",
-        "subtitle": "Copa Sudamericana",
-        "time": "19:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports Global",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Carabobo vs Bragantino",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
+        "title": "Real Madrid vs Girona",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yeu8bn1639000596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
     },
     {
         "category": "Fútbol",
-        "title": "Macará vs América",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bretri1579959665.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Gimnasia (LP) vs Camioneros",
-        "subtitle": "Copa Argentina",
-        "time": "21:00",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/gxdfry1678848515.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Porto vs Nottingham Forest",
-        "subtitle": "Europa League",
-        "time": "16:00",
+        "title": "Roma vs Pisa",
+        "subtitle": "Serie A Enilive",
+        "time": "15:45",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bologna vs Aston Villa",
-        "subtitle": "Europa League",
-        "time": "16:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Freiburg vs Celta",
-        "subtitle": "Europa League",
-        "time": "16:00",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png"
     }
 ]
