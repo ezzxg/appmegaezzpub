@@ -1,46 +1,233 @@
 [
     {
         "category": "Fútbol",
-        "title": "Belgrano vs Aldosivi",
+        "title": "Riestra vs Instituto",
         "subtitle": "Torneo Apertura",
-        "time": "21:00",
+        "time": "15:00",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
     },
     {
         "category": "Fútbol",
-        "title": "West Ham vs Wolverhampton",
+        "title": "Independiente (M) vs Argentinos",
+        "subtitle": "Torneo Apertura",
+        "time": "15:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Estudiantes (LP) vs Unión",
+        "subtitle": "Torneo Apertura",
+        "time": "17:15",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boca vs Independiente",
+        "subtitle": "Torneo Apertura",
+        "time": "19:30",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Estudiantes (RC) vs Barracas",
+        "subtitle": "Torneo Apertura",
+        "time": "21:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/391thp1775793121.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Burnley vs Brighton",
         "subtitle": "Premier League",
-        "time": "16:00",
-        "channel_name": "Eventos1",
+        "time": "11:00",
+        "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        "target_channel_name": "Disney+ Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
     },
     {
         "category": "Fútbol",
-        "title": "Real Madrid vs Girona",
+        "title": "Brentford vs Everton",
+        "subtitle": "Premier League",
+        "time": "11:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Liverpool vs Fulham",
+        "subtitle": "Premier League",
+        "time": "13:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Real Sociedad vs Alavés",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "09:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Elche vs Valencia",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "11:15",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Barcelona vs Espanyol",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "13:30",
+        "channel_name": "DSports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports Global",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Sevilla vs Atlético Madrid",
         "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
         "channel_name": "ESPN AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
         "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
     },
     {
         "category": "Fútbol",
-        "title": "Roma vs Pisa",
+        "title": "Milan vs Udinese",
+        "subtitle": "Serie A Enilive",
+        "time": "13:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atalanta vs Juventus",
         "subtitle": "Serie A Enilive",
         "time": "15:45",
         "channel_name": "ESPN 3 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Inter Miami vs New York",
+        "subtitle": "MLS",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Remo vs Vasco",
+        "subtitle": "Brasileirao Serie A",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Vitória vs São Paulo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Mirassol vs Bahia",
+        "subtitle": "Brasileirao Serie A",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Santos vs Atlético Mineiro",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Internacional vs Grêmio",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "St. Pauli vs Bayern Múnich",
+        "subtitle": "Bundesliga",
+        "time": "13:30",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
     }
 ]
