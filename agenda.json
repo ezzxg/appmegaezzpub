@@ -67,17 +67,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Bolonia vs Lecce",
-        "subtitle": "Serie A Enilive",
-        "time": "13:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Como vs Inter",
         "subtitle": "Serie A Enilive",
         "time": "15:45",
