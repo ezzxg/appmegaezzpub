@@ -1,5 +1,5 @@
 async function extract(url) {
-    nitro.log("🔍 Nitro Driver: HgLink -> " + url);
+    nitro.log("🔍 Nitro Driver Cloud: HgLink activado");
     
     let html = nitro.fetch(url);
     if(!html) return null;
