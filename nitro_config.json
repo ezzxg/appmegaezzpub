@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "mirrors": {
+    "hglink": ["hanerix.com", "audinifer.com", "vibuxer.com", "masukestin.com", "premilkyway.com"]
+  },
+  "extractors": [
+    {
+      "id": "hglink",
+      "regex": "hglink\\.to/e/.*",
+      "script_url": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/engines/hglink.js"
+    }
+  ],
+  "header_whitelist": [
+    "secureresearch.cfd",
+    "premilkyway.com",
+    "vibuxer.com",
+    "hanerix.com",
+    "masukestin.com",
+    "huntrexus.com",
+    "audinifer.com",
+    "perplex.com"
+  ]
+}
