@@ -1,23 +1,26 @@
 {
-  "version": 1,
-  "mirrors": {
-    "hglink": ["hanerix.com", "audinifer.com", "vibuxer.com", "masukestin.com", "premilkyway.com"]
-  },
+  "nitro_version": "55.14.1",
+  "cache_expiry_seconds": 3600,
+  "whitelist_domains": [
+    "hglink.to",
+    "hanerix.com",
+    "premilkyway.com",
+    "secureresearch.cfd",
+    "bysedikamoum.com",
+    "f75s.com",
+    "ecommerceplatform.shop",
+    "managementadvisory.sbs"
+  ],
   "extractors": [
     {
-      "id": "hglink",
+      "name": "hglink",
       "regex": "hglink\\.to/e/.*",
-      "script_url": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/hglink.js"
+      "script": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/hglink.js"
+    },
+    {
+      "name": "bysedikamoum",
+      "regex": "(bysedikamoum\\.com|f75s\\.com)/(e|ec4ok|wxx)/.*",
+      "script": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/bysedikamoum.js"
     }
-  ],
-  "header_whitelist": [
-    "secureresearch.cfd",
-    "premilkyway.com",
-    "vibuxer.com",
-    "hanerix.com",
-    "masukestin.com",
-    "huntrexus.com",
-    "audinifer.com",
-    "perplex.com"
   ]
 }
