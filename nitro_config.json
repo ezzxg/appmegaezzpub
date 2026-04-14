@@ -1,5 +1,5 @@
 {
-  "nitro_version": "55.16.0",
+  "nitro_version": "55.18.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "hglink.to",
