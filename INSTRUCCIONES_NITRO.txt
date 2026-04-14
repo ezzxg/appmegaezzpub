@@ -1,0 +1,104 @@
+# MANUAL DE ADMINISTRACIÓN: NITRO CLOUD ENGINE (v55.80)
+=====================================================
+
+Este documento detalla cómo gestionar, añadir y reparar extractores de video 
+sin necesidad de modificar el código fuente de la aplicación Android.
+
+---
+
+## 1. ARQUITECTURA DEL SISTEMA
+El sistema "Nitro Cloud" se basa en una sincronización en tiempo real entre 
+un repositorio de GitHub y la App.
+
+- **REPOSITORIO (Local)**: `c:\Users\ezz\Documents\GitHub\appmegaezzpub\`
+- **CONFIGURACIÓN MAESTRA**: `nitro_config.json`
+- **DRIVERS DE EXTRACCIÓN**: Archivos `.js` alojados en el mismo repositorio.
+
+---
+
+## 2. REGISTRO DE UN NUEVO EXTRACTOR
+Para añadir soporte a un nuevo servidor (ej: `nuevo-stream.com`):
+
+1. Abre `nitro_config.json`.
+2. Añade el dominio a `whitelist_domains` (esto habilita el bypass de 4MB/Throttling).
+3. Añade un objeto al array `extractors`:
+   ```json
+   {
+     "name": "nombre_unico",
+     "regex": "dominio\\.com/embed/.*",
+     "script": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/tu_script.js"
+   }
+   ```
+   *Nota: Usa doble barra `\\` para los puntos en la regex.*
+
+---
+
+## 3. CREACIÓN DEL DRIVER (EL SCRIPT JS)
+Cada extractor debe ser un archivo `.js` que implemente la función `extract`.
+
+### Estructura Básica:
+```javascript
+async function extract(url) {
+    // 1. Obtener el HTML de la página de embed
+    const html = await nitro.fetch(url); 
+    if (!html) return null;
+    
+    // 2. Extraer el link del video (m3u8/mp4) usando Regex
+    // Ejemplo: buscar una URL que termine en .m3u8
+    const match = html.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/);
+    
+    if (match) {
+        return {
+            url: match[1],
+            headers: {
+                "User-Agent": "Mozilla/5.0...", // Firma de navegador
+                "Sec-Fetch-Site": "none",       // Vital para servidores estrictos
+                "Sec-GPC": "1"                  // Firma Brave (opcional)
+            }
+        };
+    }
+    return null;
+}
+```
+
+### Funciones Disponibles (Nitro Bridge):
+- `nitro.fetch(url)`: Descarga el HTML de la URL usando el motor de la App.
+- `nitro.get(url, headers)`: Petición GET personalizada (devuelve texto).
+- `nitro.post(url, body, headers)`: Petición POST personalizada.
+
+---
+
+## 4. GESTIÓN DE CABECERAS (BYPASS 403 / 4MB)
+La App v55.80+ prioriza las cabeceras que mandes desde el JS.
+
+- **Referer / Origin**: Si el servidor da error 403, prueba quitando estas cabeceras o poniéndolas vacías.
+- **Sec-Fetch-Site**: 
+  - `cross-site`: Para la mayoría de los servidores.
+  - `none`: Para servidores deportivos muy estrictos (ej: azplay31.me).
+- **User-Agent**: Siempre usa uno de escritorio (Chrome/Brave) para evitar que te manden versiones móviles de baja calidad.
+
+---
+
+## 5. FLUJO DE ACTUALIZACIÓN (EL "PUSH")
+Para que los cambios tengan efecto:
+
+1. Modifica el `.js` o el `.json` en Visual Studio Code / Notepad++.
+2. Guarda los cambios.
+3. Abre una terminal en la carpeta del repositorio y ejecuta:
+   ```bash
+   git add .
+   git commit -m "Reparación de servidor X"
+   git push origin main
+   ```
+4. **En la App**: Cierra y abre la App. El sistema descargará la nueva configuración automáticamente.
+
+---
+
+## 6. SOLUCIÓN DE PROBLEMAS (LOGCAT)
+Filtra por los siguientes tags en Android Studio para ver qué está pasando:
+- `DynamicExtractor`: Muestra qué driver se activó.
+- `NitroScriptEngine`: Muestra errores dentro del código Javascript.
+- `ExoPlayerHelper`: Muestra las cabeceras finales que se están enviando al servidor.
+
+---
+**DOCUMENTO GENERADO PARA V55.80 - HITO DE INDEPENDENCIA TOTAL**
