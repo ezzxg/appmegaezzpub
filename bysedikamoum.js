@@ -4,11 +4,16 @@
  * para bypass total de protecciones de bot.
  */
 async function extract(url) {
-    nitro.log("👻 Activando Ghost Browser para Bysedikamoum...");
+    nitro.log("👻 Transformando URL para Acceso Directo Ghost...");
     
-    // Indicamos al motor que inicie la carga real en la WebView
-    nitro.webViewExtract(url);
+    // Transformamos bysedikamoum.com/e/ID -> 398fitus.com/e/ID
+    const videoId = url.split('/').pop();
+    const directPlayerUrl = `https://398fitus.com/e/${videoId}`;
     
-    // Devolvemos el flag para que el motor sepa que debe esperar la interceptación
+    nitro.log(`🚀 Iniciando WebView en: ${directPlayerUrl}`);
+    
+    // Iniciamos la WebView directamente en el dominio del reproductor
+    nitro.webViewExtract(directPlayerUrl);
+    
     return { type: 'webview_mode' };
 }
