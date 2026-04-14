@@ -16,12 +16,12 @@
     {
       "name": "hglink",
       "regex": "hglink\\.to/e/.*",
-      "script": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/hglink.js"
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/hglink.js"
     },
     {
       "name": "bysedikamoum",
       "regex": "(bysedikamoum\\.com|f75s\\.com|dintezuvio\\.com)/(e|ec4ok|wxx|embed)/.*",
-      "script": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/bysedikamoum.js"
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/bysedikamoum.js"
     }
   ]
 }
