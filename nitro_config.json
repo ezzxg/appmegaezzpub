@@ -11,7 +11,9 @@
     "dintezuvio.com",
     "ecommerceplatform.shop",
     "managementadvisory.sbs",
-    "player.videasy.net"
+    "player.videasy.net",
+    "apl401.me",
+    "azplay31.me"
   ],
   "extractors": [
     {
@@ -28,6 +30,11 @@
       "name": "videasy",
       "regex": "player\\.videasy\\.net/(movie|tv)/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/videasy.js"
+    },
+    {
+      "name": "apl401",
+      "regex": "emb\\.apl401\\.me/player/live\\.php\\?id=.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/apl401.js"
     }
   ]
 }
