@@ -10,7 +10,8 @@
     "f75s.com",
     "dintezuvio.com",
     "ecommerceplatform.shop",
-    "managementadvisory.sbs"
+    "managementadvisory.sbs",
+    "player.videasy.net"
   ],
   "extractors": [
     {
@@ -22,6 +23,11 @@
       "name": "bysedikamoum",
       "regex": "(bysedikamoum\\.com|f75s\\.com|dintezuvio\\.com)/(e|ec4ok|wxx|embed)/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/bysedikamoum.js"
+    },
+    {
+      "name": "videasy",
+      "regex": "player\\.videasy\\.net/(movie|tv)/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/videasy.js"
     }
   ]
 }
