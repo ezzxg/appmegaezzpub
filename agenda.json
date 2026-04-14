@@ -81,9 +81,9 @@
         "title": "Grêmio vs Riestra",
         "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports (v45)",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png"
     },
@@ -92,11 +92,11 @@
         "title": "São Paulo vs O'Higgins",
         "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "Por Definir",
+        "channel_name": "SportDigital Fussball",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "target_channel_name": "SportDigital Fussball",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/g44b1l1756095484.png"
     },
     {
         "category": "Fútbol",
@@ -125,9 +125,9 @@
         "title": "Santos vs Recoleta",
         "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Bein Sports EN",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "target_channel_name": "Bein Sports EN",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png"
     },
