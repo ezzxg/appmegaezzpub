@@ -1,9 +1,9 @@
 /**
- * [v55.15.5] Driver Nitro Cloud: Bysedikamoum (Session Aware)
- * Fix: Precise Referer/Origin alignment & Sec-Fetch headers
+ * [v55.16.0] Driver Nitro Cloud: Bysedikamoum (Perfect Session)
+ * Fix: Native Cookie Cleaner + JS Session Persistence
  */
 async function extract(url) {
-    nitro.log("🚀 Iniciando Handshake v3 (Referer Fixed) para: " + url);
+    nitro.log("🚀 Iniciando Handshake v4 (Perfect Session) para: " + url);
     
     const viewerId = generateHex(32);
     const deviceId = generateBase64(22);
@@ -11,11 +11,27 @@ async function extract(url) {
                       url.split('/e/')[1].split('?')[0].split('/')[0] : 
                       url.split('/').pop().split('?')[0];
 
-    // User Agent robusto
-    const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36";
+    // User Agent coincidente con el motor del usuario
+    const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
     
     const urlParts = url.split('/');
     const mainOrigin = urlParts[0] + "//" + urlParts[2];
+
+    const session = {
+        cookies: "",
+        update(resp) {
+            if (resp.headers && resp.headers["Set-Cookie"]) {
+                const newCookies = resp.headers["Set-Cookie"];
+                if (!this.cookies) {
+                    this.cookies = newCookies;
+                } else {
+                    // Mezclar manteniendo unicidad básico (la limpieza real ocurre en el motor nativo)
+                    this.cookies += "; " + newCookies;
+                }
+                nitro.log("🌐 Session Updated: " + this.cookies.substring(0, 30) + "...");
+            }
+        }
+    };
 
     const baseHeaders = {
         "User-Agent": userAgent,
@@ -28,28 +44,24 @@ async function extract(url) {
         "Sec-Fetch-Dest": "empty"
     };
 
-    let sessionCookies = "";
-
     try {
         // 1. Detalles (GET)
         nitro.log("Step 1: Fetching Details...");
         const detailsResp = JSON.parse(nitro.fetchFull(`${mainOrigin}/api/videos/${videoCode}/embed/details`, "GET", null, JSON.stringify({
             ...baseHeaders,
             "Referer": url,
-            "Origin": mainOrigin,
-            "Sec-Fetch-Site": "same-origin"
+            "Origin": mainOrigin
         })));
         
         if (detailsResp.status !== 200) {
-            nitro.log("❌ Details Failed: " + detailsResp.status + " Body: " + detailsResp.body);
+            nitro.log("❌ Details Failed: " + detailsResp.status);
             return null;
         }
         
+        session.update(detailsResp);
         const details = JSON.parse(detailsResp.body);
         const embedFrameUrl = details.embed_frame_url || `https://f75s.com/e/${videoCode}`;
         const frameOrigin = `https://${embedFrameUrl.split('/')[2]}`;
-        
-        nitro.log("Step 1 Success. Frame Origin: " + frameOrigin);
 
         // 2. Desafío (GET)
         nitro.log("Step 2: Fetching Challenge...");
@@ -57,10 +69,11 @@ async function extract(url) {
             ...baseHeaders,
             "Referer": embedFrameUrl,
             "Origin": frameOrigin,
-            "Sec-Fetch-Site": "same-origin"
+            "Cookie": session.cookies
         })));
         
         if (challengeResp.status !== 200) return null;
+        session.update(challengeResp);
         const challenge = JSON.parse(challengeResp.body);
 
         // 3. Firma ECDSA
@@ -84,77 +97,48 @@ async function extract(url) {
             "Referer": embedFrameUrl,
             "Origin": frameOrigin,
             "Content-Type": "application/json",
-            "Sec-Fetch-Site": "same-origin"
+            "Cookie": session.cookies
         })));
         
-        if (attestResp.status !== 200) {
-            nitro.log("❌ Attest Failed: " + attestResp.status);
-            return null;
-        }
-
+        if (attestResp.status !== 200) return null;
+        session.update(attestResp);
         const tokenData = JSON.parse(attestResp.body);
         if (!tokenData.token) return null;
 
-        // Extraer cookies (Set-Cookie)
-        if (attestResp.headers && attestResp.headers["Set-Cookie"]) {
-            sessionCookies = attestResp.headers["Set-Cookie"];
-            nitro.log("🌐 Session Cookie captured!");
-        }
-
         // 5. Playback Final (POST)
-        // REGLA DE ORO: El Playback se hace DESDE el Frame (f75s.com) hacia f75s.com
         nitro.log("Step 5: Playback Final Request...");
         const playbackBody = { fingerprint: { token: tokenData.token, viewer_id: viewerId, device_id: deviceId } };
         
         const pbResp = JSON.parse(nitro.fetchFull(`${frameOrigin}/api/videos/${videoCode}/embed/playback`, "POST", JSON.stringify(playbackBody), JSON.stringify({
             ...baseHeaders,
-            "Referer": embedFrameUrl, // REFERER TIENE QUE SER EL FRAME
-            "Origin": frameOrigin,    // ORIGIN TIENE QUE SER EL FRAME (Same-Origin)
+            "Referer": embedFrameUrl,
+            "Origin": frameOrigin,
             "Content-Type": "application/json",
-            "Cookie": sessionCookies,
-            "Sec-Fetch-Site": "same-origin"
+            "Cookie": session.cookies
         })));
         
         if (pbResp.status !== 200) {
-            nitro.log("❌ Playback Final Failed: " + pbResp.status + " Body: " + pbResp.body);
-            // Intento desesperado: Cambiar a cross-origin si falló el same-origin
-            nitro.log("Step 5b: Retry with Parent Identity...");
-            const pbResp2 = JSON.parse(nitro.fetchFull(`${frameOrigin}/api/videos/${videoCode}/embed/playback`, "POST", JSON.stringify(playbackBody), JSON.stringify({
-                ...baseHeaders,
-                "Referer": url, // Parent URL
-                "Origin": mainOrigin, // Parent Origin
-                "Content-Type": "application/json",
-                "Cookie": sessionCookies,
-                "Sec-Fetch-Site": "cross-site"
-            })));
-            
-            if (pbResp2.status !== 200) return null;
-            return processPlayback(pbResp2.body, frameOrigin);
+            nitro.log("❌ Playback Failed: " + pbResp.status + " Body: " + pbResp.body);
+            return null;
         }
 
-        return processPlayback(pbResp.body, frameOrigin);
-
+        const pbData = JSON.parse(pbResp.body).playback;
+        if (pbData && (pbData.payload || pbData.payload2)) {
+            nitro.log("Step 6: Decrypting...");
+            const decrypted = nitro.cryptoDecrypt(
+                pbData.payload2 || pbData.payload, 
+                pbData.decrypt_keys.edge_1 || pbData.decrypt_keys.edge_2, 
+                pbData.iv2 || pbData.iv
+            );
+            
+            if (decrypted) {
+                const finalUrl = JSON.parse(decrypted).file;
+                nitro.log("🎉 SUCCESS! Playback URL secured.");
+                return { url: finalUrl, headers: { "Referer": frameOrigin + "/" } };
+            }
+        }
     } catch (e) {
         nitro.log("❌ Extractor Error: " + e.message);
-    }
-    return null;
-}
-
-function processPlayback(body, frameOrigin) {
-    const pbData = JSON.parse(body).playback;
-    if (pbData && (pbData.payload || pbData.payload2)) {
-        nitro.log("Step 6: Decrypting...");
-        const decrypted = nitro.cryptoDecrypt(
-            pbData.payload2 || pbData.payload, 
-            pbData.decrypt_keys.edge_1 || pbData.decrypt_keys.edge_2, 
-            pbData.iv2 || pbData.iv
-        );
-        
-        if (decrypted) {
-            const finalUrl = JSON.parse(decrypted).file;
-            nitro.log("🎉 SUCCESS! Playback URL secured.");
-            return { url: finalUrl, headers: { "Referer": frameOrigin + "/" } };
-        }
     }
     return null;
 }
