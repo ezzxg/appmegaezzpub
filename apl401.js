@@ -19,16 +19,18 @@ async function extract(url) {
             streamUrl = 'https:' + streamUrl;
         }
         
-        // 3. Retornar el MediaSource con cabeceras de identidad forzadas
+        // 3. Retornar el MediaSource con cabeceras de identidad forzadas (Firma Brave v55.73)
         return {
             url: streamUrl,
             headers: {
-                "Referer": "https://emb.apl401.me/",
-                "Origin": "https://emb.apl401.me",
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Sec-Fetch-Dest": "video",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "Sec-Fetch-Dest": "empty",
                 "Sec-Fetch-Mode": "cors",
-                "Sec-Fetch-Site": "cross-site"
+                "Sec-Fetch-Site": "none",
+                "Sec-GPC": "1",
+                "sec-ch-ua": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Brave\";v=\"146\"",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "\"Windows\""
             }
         };
     }
@@ -39,8 +41,8 @@ async function extract(url) {
         return {
             url: directMatch[1].replace(/\\/g, ''),
             headers: {
-                "Referer": "https://emb.apl401.me/",
-                "Origin": "https://emb.apl401.me"
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+                "Sec-Fetch-Site": "none"
             }
         };
     }
