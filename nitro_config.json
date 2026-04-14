@@ -1,5 +1,5 @@
 {
-  "nitro_version": "55.14.1",
+  "nitro_version": "55.14.2",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "hglink.to",
@@ -8,6 +8,7 @@
     "secureresearch.cfd",
     "bysedikamoum.com",
     "f75s.com",
+    "dintezuvio.com",
     "ecommerceplatform.shop",
     "managementadvisory.sbs"
   ],
@@ -19,7 +20,7 @@
     },
     {
       "name": "bysedikamoum",
-      "regex": "(bysedikamoum\\.com|f75s\\.com)/(e|ec4ok|wxx)/.*",
+      "regex": "(bysedikamoum\\.com|f75s\\.com|dintezuvio\\.com)/(e|ec4ok|wxx|embed)/.*",
       "script": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/bysedikamoum.js"
     }
   ]
