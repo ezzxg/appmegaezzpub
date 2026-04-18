@@ -103,9 +103,9 @@
         "title": "Atlético Madrid vs Real Sociedad",
         "subtitle": "Copa del Rey",
         "time": "16:00",
-        "channel_name": "DSports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports (v45)",
+        "channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "target_channel_name": "FlowSports",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
     },
@@ -136,9 +136,9 @@
         "title": "Colorado vs Inter Miami",
         "subtitle": "MLS",
         "time": "17:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "channel_name": "MLS",
+        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
+        "target_channel_name": "MLS",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uppupv1473536412.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
     },
@@ -147,9 +147,9 @@
         "title": "Chapecoense vs Botafogo",
         "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
+        "channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "target_channel_name": "Eventos1",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
     },
@@ -163,17 +163,6 @@
         "target_channel_name": "FlowSports 2",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Vitória vs Corinthians",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
     },
     {
         "category": "Fútbol",
