@@ -207,49 +207,5 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tolima vs Pereira",
-        "subtitle": "Primera División Colombia",
-        "time": "20:10",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fortaleza vs Águilas D",
-        "subtitle": "Primera División Colombia",
-        "time": "22:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Guaraní vs Luqueño",
-        "subtitle": "Primera Paraguay",
-        "time": "18:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Recoleta vs 2 de Mayo",
-        "subtitle": "Primera Paraguay",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png"
     }
 ]
