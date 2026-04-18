@@ -196,5 +196,16 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
+    },
+    {
+        "category": "Boxeo",
+        "title": "José Miguel Borrego vs. Mario Pérez",
+        "subtitle": "ESPN KO",
+        "time": "23:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://bestleague.world/img/box.png",
+        "away_logo": ""
     }
 ]
