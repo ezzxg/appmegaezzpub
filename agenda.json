@@ -130,5 +130,16 @@
         "target_channel_name": "TNT Sports AR (FL)",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "River vs Boca",
+        "subtitle": "Torneo Apertura",
+        "time": "17:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN (COL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
     }
 ]
