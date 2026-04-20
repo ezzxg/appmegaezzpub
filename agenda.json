@@ -1,145 +1,79 @@
 [
     {
         "category": "Fútbol",
-        "title": "Aldosivi vs Racing",
+        "title": "Barracas vs Belgrano",
         "subtitle": "Torneo Apertura",
-        "time": "13:30",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "River vs Boca",
-        "subtitle": "Torneo Apertura",
-        "time": "17:00",
+        "time": "15:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
     },
     {
         "category": "Fútbol",
-        "title": "Rosario Central vs Sarmiento",
+        "title": "Banfield vs Independiente (M)",
         "subtitle": "Torneo Apertura",
-        "time": "20:30",
+        "time": "17:15",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
         "category": "Fútbol",
-        "title": "Talleres vs Riestra",
+        "title": "Central Córdoba vs Platense",
         "subtitle": "Torneo Apertura",
-        "time": "20:30",
+        "time": "17:15",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
     },
     {
         "category": "Fútbol",
-        "title": "Everton vs Liverpool",
-        "subtitle": "Premier League",
-        "time": "10:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Manchester City vs Arsenal",
-        "subtitle": "Premier League",
-        "time": "12:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cremonese vs Torino",
-        "subtitle": "Serie A Enilive",
-        "time": "07:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Hellas Verona vs Milan",
-        "subtitle": "Serie A Enilive",
-        "time": "10:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Santos vs Fluminense",
-        "subtitle": "Brasileirao Serie A",
-        "time": "16:00",
-        "channel_name": "PREMIERE 1 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "target_channel_name": "PREMIERE 1 HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Palmeiras vs Athletico PR",
-        "subtitle": "Brasileirao Serie A",
-        "time": "18:30",
-        "channel_name": "SporTV Brazil",
-        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
-        "target_channel_name": "SporTV Brazil",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Flamengo vs Bahia",
-        "subtitle": "Brasileirao Serie A",
+        "title": "San Lorenzo vs Vélez",
+        "subtitle": "Torneo Apertura",
         "time": "19:30",
-        "channel_name": "PREMIERE 1 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "target_channel_name": "PREMIERE 1 HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "River vs Boca",
-        "subtitle": "Torneo Apertura",
-        "time": "17:00",
         "channel_name": "TNT Sports",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
     },
     {
         "category": "Fútbol",
-        "title": "River vs Boca",
+        "title": "Tigre vs Huracán",
         "subtitle": "Torneo Apertura",
-        "time": "17:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
-        "target_channel_name": "ESPN (COL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+        "time": "21:45",
+        "channel_name": "TNT Sports",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Gimnasia (M) vs Lanús",
+        "subtitle": "Torneo Apertura",
+        "time": "21:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Crystal Palace vs West Ham",
+        "subtitle": "Premier League",
+        "time": "16:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
     }
 ]
