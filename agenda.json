@@ -67,13 +67,24 @@
     },
     {
         "category": "Fútbol",
-        "title": "Peñarol vs Juventud",
-        "subtitle": "Liga de Uruguay",
-        "time": "18:30",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
+        "title": "São Paulo vs Juventude",
+        "subtitle": "Copa de Brasil",
+        "time": "19:15",
+        "channel_name": "ESPN 2 Mexico",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "target_channel_name": "ESPN 2 Mexico",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png"
+    },
+    {
+        "category": "Futbol",
+        "title": "Botafogo vs Chapecoense",
+        "subtitle": "Copa do Brasil",
+        "time": "17:00",
+        "channel_name": "Sportv",
+        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
+        "target_channel_name": "SporTV Brazil",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
     }
 ]
