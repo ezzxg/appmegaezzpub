@@ -1,79 +1,68 @@
 [
     {
         "category": "Fútbol",
-        "title": "Barracas vs Belgrano",
-        "subtitle": "Torneo Apertura",
-        "time": "15:00",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Banfield vs Independiente (M)",
-        "subtitle": "Torneo Apertura",
-        "time": "17:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Central Córdoba vs Platense",
-        "subtitle": "Torneo Apertura",
-        "time": "17:15",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Lorenzo vs Vélez",
-        "subtitle": "Torneo Apertura",
-        "time": "19:30",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tigre vs Huracán",
-        "subtitle": "Torneo Apertura",
-        "time": "21:45",
-        "channel_name": "TNT Sports",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Gimnasia (M) vs Lanús",
-        "subtitle": "Torneo Apertura",
-        "time": "21:45",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Crystal Palace vs West Ham",
+        "title": "Brighton vs Chelsea",
         "subtitle": "Premier League",
         "time": "16:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Athletic Bilbao vs Osasuna",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:00",
         "channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Mallorca vs Valencia",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "14:00",
+        "channel_name": "DSports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports (v45)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Real Madrid vs Alavés",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:30",
+        "channel_name": "DSports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports (v45)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Girona vs Betis",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Inter vs Como",
+        "subtitle": "Copa de Italia",
+        "time": "16:00",
+        "channel_name": "Fubo Sports",
+        "channel_logo_url": "https://i.ibb.co/dssdjjMM/330px-Fubo-2023-svg.png",
+        "target_channel_name": "Fubo Sports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
     }
 ]
