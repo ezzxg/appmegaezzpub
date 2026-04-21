@@ -64,5 +64,16 @@
         "target_channel_name": "Fubo Sports",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Peñarol vs Juventud",
+        "subtitle": "Liga de Uruguay",
+        "time": "18:30",
+        "channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Eventos1",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png"
     }
 ]
