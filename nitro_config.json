@@ -1,5 +1,5 @@
 {
-  "nitro_version": "55.18.0",
+  "nitro_version": "55.120.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "hglink.to",
@@ -13,7 +13,9 @@
     "managementadvisory.sbs",
     "player.videasy.net",
     "apl401.me",
-    "azplay31.me"
+    "azplay31.me",
+    "zonalive.click",
+    "eveningbad.net"
   ],
   "extractors": [
     {
@@ -35,6 +37,11 @@
       "name": "apl401",
       "regex": "emb\\.apl401\\.me/player/live\\.php\\?id=.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/apl401.js"
+    },
+    {
+      "name": "zonalive",
+      "regex": "zonalive\\.click/player/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
     }
   ]
 }
