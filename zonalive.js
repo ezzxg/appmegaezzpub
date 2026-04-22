@@ -1,6 +1,7 @@
 /**
  * [v55.120] Driver Nitro Cloud: ZonaLive
- * Basado en OBSTREAM (eveningbad.net). Requiere Referer estricto.
+ * Basado en OBSTREAM (eveningbad.net). 
+ * IMPORTANTE: Requiere headers de eveningbad.net para evitar 404 en el m3u8.
  */
 async function extract(url) {
     nitro.log("🌐 Iniciando extracción de ZonaLive...");
@@ -10,16 +11,15 @@ async function extract(url) {
     nitro.log("📺 Canal ID: " + channelId);
 
     // 2. Activamos el WebView Interceptor
-    // Este servidor usa Clappr + P2P Media Loader y tokens de sesión dinámicos.
-    // El motor de la App capturará el m3u8 automáticamente.
+    // Usamos la URL original, el motor capturará el m3u8.
     nitro.webViewExtract(url);
 
-    // Devolvemos el modo webview con los headers necesarios para el reproductor
+    // Devolvemos los headers que el usuario especificó para que el reproductor (ExoPlayer) pueda abrir el stream
     return { 
         type: 'webview_mode',
         headers: {
-            "Referer": "https://zonalive.click/",
-            "Origin": "https://zonalive.click",
+            "Referer": "https://eveningbad.net/",
+            "Origin": "https://eveningbad.net",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
     };
