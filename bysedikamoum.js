@@ -9,10 +9,10 @@ async function extract(url) {
         
         nitro.log("🔍 Verificando integridad del link en Bysedikamoum...");
         
-        // El motor local de la App lanzará una excepción si el fetch da 404
+        // El motor local devolverá "ERROR_404" si el servidor responde 404
         const details = nitro.fetch(detailsUrl);
         
-        if (!details || details.includes("not_found") || details.contains("error")) {
+        if (details === "ERROR_404" || !details || details.includes("not_found")) {
             nitro.log("🚫 API reportó video inexistente.");
             nitro.onError("404: Video no encontrado");
             return null;
@@ -23,7 +23,7 @@ async function extract(url) {
         return { type: 'webview_mode' };
         
     } catch (e) {
-        nitro.log("🚫 Abortando por error de red o 404: " + e);
+        nitro.log("🚫 Abortando por error: " + e);
         nitro.onError("404: Video no encontrado");
         return null;
     }
