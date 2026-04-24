@@ -1,68 +1,101 @@
 [
     {
         "category": "Fútbol",
-        "title": "Defensa y Justicia vs Boca",
+        "title": "Riestra vs Independiente",
         "subtitle": "Torneo Apertura",
-        "time": "20:00",
+        "time": "17:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
         "category": "Fútbol",
-        "title": "Levante UD vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        "title": "Estudiantes (RC) vs Rosario Central",
+        "subtitle": "Torneo Apertura",
+        "time": "19:15",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b6szbk1578822113.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
     },
     {
         "category": "Fútbol",
-        "title": "Rayo Vallecano vs Espanyol",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "15:00",
-        "channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Eventos1",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Oviedo vs Villarreal",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "16:30",
+        "title": "Lanús vs Central Córdoba",
+        "subtitle": "Torneo Apertura",
+        "time": "19:15",
         "channel_name": "ESPN AR",
-        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png"
     },
     {
         "category": "Fútbol",
-        "title": "Dep. Pasto vs Santa Fe",
-        "subtitle": "Primera División Colombia",
-        "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "title": "Platense vs San Lorenzo",
+        "subtitle": "Torneo Apertura",
+        "time": "21:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Racing vs Barracas",
+        "subtitle": "Torneo Apertura",
+        "time": "21:30",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Sunderland vs Nottingham Forest",
+        "subtitle": "Premier League",
+        "time": "16:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
+    },
+    {
+        "editIndex": "6",
+        "title": "Betis vs Real Madrid",
+        "time": "16:00",
+        "channel_name": "DSports",
+        "target_channel_name": "Dsports (v45)",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "subtitle": "LALIGA EA SPORTS"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Nápoles vs Cremonese",
+        "subtitle": "Serie A Enilive",
+        "time": "15:45",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Istanbul vs Kasımpaşa",
+        "subtitle": "Trendyol SüperLig",
+        "time": "14:00",
+        "channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "target_channel_name": "Fox Sports 2 AR",
         "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Millonarios vs Tolima",
-        "subtitle": "Primera División Colombia",
-        "time": "22:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png"
+        "away_logo": ""
     }
 ]
