@@ -88,14 +88,14 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "8",
         "title": "Istanbul vs Kasımpaşa",
-        "subtitle": "Trendyol SüperLig",
         "time": "14:00",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d46tgg1714571615.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png",
+        "subtitle": "Trendyol SüperLig"
     }
 ]
