@@ -66,15 +66,15 @@
         "subtitle": "Premier League"
     },
     {
-        "editIndex": "7",
-        "title": "Manchester City vs Southampton",
-        "time": "13:15",
-        "channel_name": "ESPN",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
-        "subtitle": "FA Cup"
+        "editIndex": "6",
+        "title": "Arsenal vs Newcastle",
+        "time": "13:30",
+        "channel_name": "Fubo Sports",
+        "target_channel_name": "Fubo Sports",
+        "channel_logo_url": "https://i.ibb.co/dssdjjMM/330px-Fubo-2023-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+        "subtitle": "Premier League"
     },
     {
         "editIndex": "8",
@@ -207,5 +207,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
         "subtitle": "Serie A Enilive"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Al-Ahli vs Machida Zelvia",
+        "time": "13:15",
+        "channel_name": "ESPN 2 Mexico",
+        "target_channel_name": "ESPN 2 Mexico",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/logo/ewnn7g1771663231.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/99zl6k1590070905.png",
+        "subtitle": "AFC Champions League Elite"
     }
 ]
