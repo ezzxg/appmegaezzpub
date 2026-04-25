@@ -196,5 +196,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
         "subtitle": "Ligue 1 McDonald's"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Bologna vs Roma",
+        "time": "13:00",
+        "channel_name": "ESPN 4",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+        "subtitle": "Serie A Enilive"
     }
 ]
