@@ -143,50 +143,6 @@
         "subtitle": "MLS"
     },
     {
-        "category": "Fútbol",
-        "title": "Botafogo vs Internacional",
-        "subtitle": "Brasileirao Serie A",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Bahia vs Santos",
-        "subtitle": "Brasileirao Serie A",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Remo vs Cruzeiro",
-        "subtitle": "Brasileirao Serie A",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "São Paulo vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
-    },
-    {
         "editIndex": "18",
         "title": "Angers vs PSG",
         "time": "14:00",
@@ -218,5 +174,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/logo/ewnn7g1771663231.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/99zl6k1590070905.png",
         "subtitle": "AFC Champions League Elite"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Angers SCO vs PSG",
+        "time": "14:00",
+        "channel_name": "ESPN 2",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/logo/6myqnc1622560256.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "subtitle": "Ligue 1 McDonald's"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Toulouse vs Monaco",
+        "time": "16:05",
+        "channel_name": "ESPN 2",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+        "subtitle": "Ligue 1 McDonald's"
     }
 ]
