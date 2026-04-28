@@ -14,12 +14,13 @@
         "editIndex": "1",
         "title": "Libertad vs Ind. del Valle",
         "time": "19:00",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 2 AR",
         "target_channel_name": "Fox Sports 2 AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png",
-        "subtitle": "Copa Libertadores"
+        "category": "Fútbol"
     },
     {
         "editIndex": "2",
