@@ -161,5 +161,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "New York Knicks vs Atlanta Hawks",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bsmb5i1578822943.png",
+        "category": "Básquet"
     }
 ]
