@@ -130,5 +130,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
         "subtitle": "Champions League"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Philadelphia 76ers vs Boston Celtics",
+        "time": "20:00",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
+        "subtitle": "NBA"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Cruzeiro vs Boca",
+        "time": "21:30",
+        "channel_name": "ESPN 7",
+        "target_channel_name": "ESPN 7",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "subtitle": "Copa Libertadores"
     }
 ]
