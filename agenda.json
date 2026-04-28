@@ -26,67 +26,73 @@
         "editIndex": "2",
         "title": "UCV vs Rosario Central",
         "time": "21:00",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 2 AR",
         "target_channel_name": "Fox Sports 2 AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
-        "subtitle": "Copa Libertadores"
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "3",
         "title": "Cruzeiro vs Boca",
-        "subtitle": "Copa Libertadores",
         "time": "21:30",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
         "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "4",
         "title": "Cristal vs Junior",
-        "subtitle": "Copa Libertadores",
         "time": "23:00",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 3 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
         "target_channel_name": "Fox Sports 3 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "5",
         "title": "Tolima vs Coquimbo",
-        "subtitle": "Copa Libertadores",
         "time": "23:00",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "6",
         "title": "San Lorenzo vs Santos",
         "time": "19:00",
+        "subtitle": "Copa Sudamericana",
         "channel_name": "DSPORTS",
         "target_channel_name": "Dsports (v45)",
         "channel_logo_url": "",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "subtitle": "Copa Sudamericana"
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "7",
         "title": "Botafogo vs Independiente",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
+        "subtitle": "Copa Sudamericana",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
