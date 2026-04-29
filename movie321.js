@@ -32,16 +32,30 @@ async function extract(url) {
         }
 
         const data = JSON.parse(match[1]);
-        const mediaInfo = data.props.pageProps.mediaInfoList;
+        let m3u8Url = null;
 
-        if (!mediaInfo || mediaInfo.length === 0) {
-            nitro.log("🚫 No hay mediaInfoList en los metadatos.");
-            return null;
+        // Intento 1: Ruta estándar
+        try {
+            const mediaInfo = data.props.pageProps.mediaInfoList;
+            if (mediaInfo && mediaInfo.length > 0) {
+                m3u8Url = mediaInfo[0].mediaUrl;
+            }
+        } catch(e) {}
+
+        // Intento 2: Búsqueda profunda si falló la ruta estándar
+        if (!m3u8Url) {
+            nitro.log("⚠️ Ruta estándar falló, intentando búsqueda profunda...");
+            const jsonStr = match[1];
+            const m3u8Match = jsonStr.match(/https?:\/\/[^"]+?\.m3u8[^"]*/);
+            if (m3u8Match) {
+                m3u8Url = m3u8Match[0].replace(/\\u0026/g, '&');
+            }
         }
 
-        // Buscamos la mejor calidad (generalmente el primero o el SD/HD)
-        const bestSource = mediaInfo[0]; 
-        const m3u8Url = bestSource.mediaUrl;
+        if (!m3u8Url) {
+            nitro.log("🚫 No se encontró ningún enlace m3u8 en los datos.");
+            return null;
+        }
 
         nitro.log("🎯 M3U8 capturado: " + m3u8Url);
 

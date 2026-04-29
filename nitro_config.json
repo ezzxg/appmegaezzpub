@@ -47,7 +47,7 @@
     },
     {
       "name": "movie321",
-      "regex": "(.*\\.)?(321moviesfree\\.com|flixlat\\.com)/es/detail/.*",
+      "regex": "(321moviesfree|flixlat).*\\/detail\\/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
     }
   ]
