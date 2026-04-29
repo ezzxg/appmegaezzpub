@@ -16,7 +16,8 @@
     "azplay31.me",
     "zonalive.click",
     "eveningbad.net",
-    "321moviesfree.com"
+    "321moviesfree.com",
+    "flixlat.com"
   ],
   "extractors": [
     {
@@ -45,8 +46,8 @@
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
     },
     {
-      "name": "321movies",
-      "regex": "(.*\\.)?321moviesfree\\.com/es/detail/.*",
+      "name": "movie321",
+      "regex": "(.*\\.)?(321moviesfree\\.com|flixlat\\.com)/es/detail/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
     }
   ]

@@ -1,13 +1,16 @@
 /**
- * [v55.139] Driver Nitro Cloud: 321MoviesFree (Universal Next.js)
+ * [v55.140] Driver Nitro Cloud: Universal Next.js Extractor (321Movies / FlixLat)
  * Extrae m3u8 directamente de los datos JSON __NEXT_DATA__.
- * Requiere User-Agent específico para el bypass inicial.
+ * Soporta múltiples dominios con el mismo motor.
  */
 async function extract(url) {
     try {
         const UA = "Mozilla/5.0 (Linux; Android 9; PJH110 Build/PQ3A.190705.09121607) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36 buscari/115";
         
-        nitro.log("🔍 Extrayendo desde 321MoviesFree...");
+        nitro.log("🔍 Extrayendo desde: " + url);
+        
+        // Obtener el origen dinámicamente para el Referer
+        const origin = new URL(url).origin + "/";
         
         // Fetch de la página con el UA obligatorio
         const pageContent = nitro.fetch(url, JSON.stringify({
@@ -37,7 +40,7 @@ async function extract(url) {
         }
 
         // Buscamos la mejor calidad (generalmente el primero o el SD/HD)
-        const bestSource = mediaInfo[0]; // GROOT_SD suele ser el primero
+        const bestSource = mediaInfo[0]; 
         const m3u8Url = bestSource.mediaUrl;
 
         nitro.log("🎯 M3U8 capturado: " + m3u8Url);
@@ -46,12 +49,12 @@ async function extract(url) {
             url: m3u8Url,
             headers: {
                 "User-Agent": UA,
-                "Referer": "https://ww20.321moviesfree.com/"
+                "Referer": origin
             }
         };
 
     } catch (e) {
-        nitro.log("🚫 Error en 321Movies: " + e.message);
+        nitro.log("🚫 Error en Extractor Universal: " + e.message);
         return null;
     }
 }
