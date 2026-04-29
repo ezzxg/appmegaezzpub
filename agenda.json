@@ -71,9 +71,9 @@
         "title": "Caracas vs Racing",
         "time": "19:00",
         "subtitle": "Copa Sudamericana",
-        "channel_name": "DSports",
-        "target_channel_name": "Dsports (v45)",
-        "channel_logo_url": "",
+        "channel_name": "ESPN 2 UY",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
         "category": "Fútbol"
