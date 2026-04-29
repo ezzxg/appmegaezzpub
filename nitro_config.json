@@ -16,8 +16,10 @@
     "azplay31.me",
     "zonalive.click",
     "eveningbad.net",
-    "321moviesfree.com",
-    "flixlat.com"
+    "r-limit",
+    "vod-limit",
+    "stream-limit",
+    "limit-vid"
   ],
   "extractors": [
     {
@@ -46,8 +48,8 @@
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
     },
     {
-      "name": "movie321",
-      "regex": "(321moviesfree|flixlat).*\\/detail\\/.*",
+      "name": "movie_universal",
+      "regex": ".*\\/detail\\/(movie|drama|tv|series)\\/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
     }
   ]

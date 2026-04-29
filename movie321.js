@@ -1,13 +1,13 @@
 /**
- * [v55.140] Driver Nitro Cloud: Universal Next.js Extractor (321Movies / FlixLat)
- * Extrae m3u8 directamente de los datos JSON __NEXT_DATA__.
- * Soporta múltiples dominios con el mismo motor.
+ * [v55.141] Driver Nitro Cloud: UNIVERSAL STRUCTURAL EXTRACTOR
+ * Detecta automáticamente cualquier sitio basado en el motor Next.js/vestData.
+ * No requiere registrar dominios manualmente.
  */
 async function extract(url) {
     try {
         const UA = "Mozilla/5.0 (Linux; Android 9; PJH110 Build/PQ3A.190705.09121607) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.82 Safari/537.36 buscari/115";
         
-        nitro.log("🔍 Extrayendo desde: " + url);
+        nitro.log("🚀 Nitro Universal: Extrayendo desde " + url);
         
         // Obtener el origen dinámicamente para el Referer
         const origin = new URL(url).origin + "/";
