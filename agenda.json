@@ -112,5 +112,29 @@
         "target_channel_name": "ESPN AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    },
+    {
+        "editIndex": "-1",
+        "title": "New York Knicks vs Atlanta Hawks",
+        "time": "20:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
+        "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Denver Nuggets vs Minnesota Timberwolves",
+        "time": "22:30",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+        "category": "Básquet"
     }
 ]
