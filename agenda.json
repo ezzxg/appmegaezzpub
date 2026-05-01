@@ -61,18 +61,6 @@
     },
     {
         "editIndex": "-1",
-        "title": "Sportivo Trinidense vs 2 de Mayo",
-        "time": "17:45",
-        "subtitle": "Primera División de Paraguay",
-        "channel_name": "Eventos Tigo",
-        "target_channel_name": "Eventos Tigo",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
-        "category": "Fútbol"
-    },
-    {
-        "editIndex": "-1",
         "title": "Libertad vs Sportivo San Lorenzo",
         "time": "20:00",
         "subtitle": "Primera División de Paraguay",
@@ -81,6 +69,18 @@
         "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cqkwxs1675845340.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yi6fi91579991071.png",
+        "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Sportivo Trinidense vs 2 de Mayo",
+        "time": "17:45",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
         "category": "Fútbol"
     }
 ]
