@@ -241,18 +241,6 @@
     },
     {
         "editIndex": "-1",
-        "title": "Inter Miami vs Orlando City SC",
-        "time": "20:15",
-        "subtitle": "Major League Soccer",
-        "channel_name": "MLS",
-        "target_channel_name": "MLS",
-        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png",
-        "category": "Fútbol"
-    },
-    {
-        "editIndex": "-1",
         "title": "Rubio Ñu vs Sportivo Luqueño",
         "time": "20:00",
         "subtitle": "Primera División de Paraguay",
@@ -261,6 +249,18 @@
         "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/49iqvp1611773192.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
+        "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Inter Miami vs Orlando City SC",
+        "time": "20:15",
+        "subtitle": "Major League Soccer",
+        "channel_name": "FOX Deportes",
+        "target_channel_name": "FOX Deportes",
+        "channel_logo_url": "https://i.ibb.co/VkzjWPZ/960px-FOX-Deportes-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png",
         "category": "Fútbol"
     }
 ]
