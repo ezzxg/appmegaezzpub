@@ -77,26 +77,28 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "7",
         "title": "Newcastle vs Brighton",
-        "subtitle": "Premier League",
         "time": "11:00",
-        "channel_name": "Disney+ Premium",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "8",
         "title": "Wolverhampton vs Sunderland",
-        "subtitle": "Premier League",
         "time": "11:00",
-        "channel_name": "Disney+ Premium",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -190,17 +192,6 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Cruzeiro vs Atlético Mineiro",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
-    },
-    {
         "editIndex": "18",
         "title": "PSG vs Lorient",
         "time": "12:00",
@@ -247,5 +238,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Inter Miami vs Orlando City SC",
+        "time": "20:15",
+        "subtitle": "Major League Soccer",
+        "channel_name": "MLS",
+        "target_channel_name": "MLS",
+        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png",
+        "category": "Fútbol"
     }
 ]
