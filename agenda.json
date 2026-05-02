@@ -181,15 +181,16 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "16",
         "title": "Palmeiras vs Santos",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE SPORTS 2",
+        "target_channel_name": "PREMIERE SPORTS 2",
+        "channel_logo_url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/PremierSports_IVP_LAND_917x516.jpg",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "18",
