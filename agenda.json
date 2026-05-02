@@ -263,5 +263,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Philadelphia 76ers vs Boston Celtics",
+        "time": "20:30",
+        "subtitle": "NBA",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
+        "category": "Básquet"
     }
 ]
