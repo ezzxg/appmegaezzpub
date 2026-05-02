@@ -254,23 +254,11 @@
     {
         "editIndex": "-1",
         "title": "Rubio Ñu vs Sportivo Luqueño",
-        "time": "00:00",
-        "subtitle": "Primera División de Paraguay",
-        "channel_name": "Eventos1",
-        "target_channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/49iqvp1611773192.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
-        "category": "Fútbol"
-    },
-    {
-        "editIndex": "-1",
-        "title": "Rubio Ñu vs Sportivo Luqueño",
         "time": "20:00",
         "subtitle": "Primera División de Paraguay",
-        "channel_name": "Eventos1",
-        "target_channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/49iqvp1611773192.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
         "category": "Fútbol"
