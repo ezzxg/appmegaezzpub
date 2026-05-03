@@ -48,6 +48,11 @@
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
     },
     {
+      "name": "filemoon",
+      "regex": "filemoon\\.sx/(e|d)/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/filemoon.js"
+    },
+    {
       "name": "movie_universal",
       "regex": ".*\\/detail\\/(movie|drama|tv|series)\\/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
