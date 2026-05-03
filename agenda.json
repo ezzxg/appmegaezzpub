@@ -33,15 +33,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "3",
         "title": "Belgrano vs Sarmiento",
-        "subtitle": "Torneo Apertura",
         "time": "16:00",
-        "channel_name": "TNT Sports AR (FL)",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
+        "subtitle": "Torneo Apertura",
+        "channel_name": "TNT HD",
+        "target_channel_name": "TNT HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
