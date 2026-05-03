@@ -77,15 +77,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "7",
         "title": "Aston Villa vs Tottenham",
-        "subtitle": "Premier League",
         "time": "15:00",
-        "channel_name": "Disney+ Premium",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "9",
@@ -155,5 +156,29 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+    },
+    {
+        "editIndex": "-1",
+        "title": "GP: Miami - Carrera (Disney +)",
+        "time": "14:00",
+        "subtitle": "Fórmula 1",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN (COL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
+        "away_logo": "",
+        "category": "Automovilismo"
+    },
+    {
+        "editIndex": "-1",
+        "title": "GP: Miami - Carrera (FOX)",
+        "time": "14:00",
+        "subtitle": "Fórmula 1",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
+        "away_logo": "",
+        "category": "Automovilismo"
     }
 ]
