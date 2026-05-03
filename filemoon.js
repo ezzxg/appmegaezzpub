@@ -1,53 +1,32 @@
 /**
- * [v55.120] Driver Nitro Cloud: FILEMOON.SX
- * Soporta rastreo de iframes dinámicos y desempaquetado de Packer.
+ * [v55.121] Driver Nitro Cloud: FILEMOON.SX (Direct Mode)
+ * Extracción directa desde el embed principal sin saltos.
  */
 async function extract(url) {
-    nitro.log("🔍 Nitro Driver Cloud: Filemoon.sx activado");
+    nitro.log("🔍 Nitro Driver Cloud: Filemoon.sx (Direct) activado");
     
-    // 1. Obtener HTML de la página de entrada
+    // 1. Cargar el embed directamente
     const html = nitro.fetch(url, JSON.stringify({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "https://filemoon.sx/"
     }));
 
     if (!html) {
-        nitro.log("❌ No se pudo cargar la página de Filemoon");
+        nitro.log("❌ Error cargando el embed");
         return null;
     }
 
-    // 2. Buscar el iframe del reproductor (a veces el link directo está en un iframe)
-    const iframeMatch = html.match(/<iframe\s+[^>]*src=["']([^"']+)["']/i);
-    let targetHtml = html;
-    let currentUrl = url;
-
-    if (iframeMatch) {
-        let iframeUrl = iframeMatch[1];
-        if (iframeUrl.startsWith("//")) iframeUrl = "https:" + iframeUrl;
-        
-        nitro.log("🌐 Saltando al iframe: " + iframeUrl);
-        const iframeHtml = nitro.fetch(iframeUrl, JSON.stringify({
-            "Referer": url,
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-        }));
-        
-        if (iframeHtml) {
-            targetHtml = iframeHtml;
-            currentUrl = iframeUrl;
-        }
-    }
-
-    // 3. Buscar el bloque Packer en el HTML (estándar de Filemoon)
+    // 2. Buscar Packer directamente en la página principal
     const packerRegex = /eval\s*\(\s*function\s*\(p\s*,\s*a\s*,\s*c\s*,\s*k\s*[,e\s*|,\s*d\s*]*\).*?\}\s*\(\s*['"](.*?)['"]\s*,\s*(\d+)\s*,\s*(\d+)\s*,\s*['"](.*?)['"]\.split\(['"]\|['"]\)/;
-    const pMatch = targetHtml.match(packerRegex);
+    const pMatch = html.match(packerRegex);
     
     if (pMatch) {
         try {
-            nitro.log("📦 Detectado bloque Packer, desempaquetando...");
+            nitro.log("📦 Packer detectado en el embed principal, procesando...");
             const unpacked = nitro.unpack(pMatch[1], parseInt(pMatch[2]), JSON.stringify(pMatch[4].split('|')));
             
             // Buscar m3u8 en el código desempaquetado
             const m3u8Match = unpacked.match(/file\s*:\s*["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i) || 
-                              unpacked.match(/sources\s*:\s*\[\s*{\s*file\s*:\s*["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i) ||
                               unpacked.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i);
             
             if (m3u8Match) {
@@ -57,29 +36,33 @@ async function extract(url) {
                 return {
                     url: streamUrl,
                     headers: {
-                        "Referer": currentUrl,
+                        "Referer": url,
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                        "Origin": new URL(currentUrl).origin
+                        "Origin": "https://filemoon.sx"
                     }
                 };
             }
         } catch (e) {
-            nitro.log("⚠️ Error desempaquetando Packer: " + e.message);
+            nitro.log("⚠️ Error en desempaquetado: " + e.message);
         }
     }
 
-    // 4. Intento de búsqueda directa si Packer falla
-    const directMatch = targetHtml.match(/file\s*:\s*["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i);
+    // 3. Búsqueda HEURÍSTICA directa (si no está empaquetado)
+    const directMatch = html.match(/file\s*:\s*["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i) ||
+                        html.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i);
+    
     if (directMatch) {
+        const streamUrl = directMatch[1].replace(/\\\//g, "/");
+        nitro.log("🎯 Stream directo capturado: " + streamUrl);
         return {
-            url: directMatch[1].replace(/\\\//g, "/"),
+            url: streamUrl,
             headers: {
-                "Referer": currentUrl,
+                "Referer": url,
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
             }
         };
     }
 
-    nitro.log("❌ No se encontró señal de video en Filemoon");
+    nitro.log("❌ No se encontró señal m3u8 en el embed principal");
     return null;
 }
