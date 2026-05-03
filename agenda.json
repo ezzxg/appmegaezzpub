@@ -205,5 +205,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Guaraní vs Nacional",
+        "time": "20:00",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
+        "category": "Fútbol"
     }
 ]
