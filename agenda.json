@@ -192,5 +192,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
         "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Bournemouth vs Crystal Palace",
+        "time": "10:00",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "category": "Fútbol"
     }
 ]
