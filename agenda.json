@@ -79,37 +79,40 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "7",
         "title": "Juventud vs Atlético Mineiro",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "Dsports (v45)",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports (v45)",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "8",
         "title": "Puerto Cabello vs Cienciano",
-        "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "DSports+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "DSports+",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/a04fro1639001630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "9",
         "title": "Recoleta vs Santos",
-        "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "Dsports (v45)",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports (v45)",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "10",
@@ -144,5 +147,17 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Barcelona SC vs Boca",
+        "time": "21:00",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN (COL)",
+        "target_channel_name": "ESPN (COL)",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "category": "Fútbol"
     }
 ]
