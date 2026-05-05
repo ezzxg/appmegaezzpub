@@ -48,6 +48,11 @@
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
     },
     {
+      "name": "lpfplay",
+      "regex": "lpfplay\\.com/player/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/lpfplay.js"
+    },
+    {
       "name": "filemoon",
       "regex": "filemoon\\.sx/(e|d)/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/filemoon.js"
