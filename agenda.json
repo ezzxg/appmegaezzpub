@@ -69,15 +69,16 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "6",
         "title": "Independiente vs Caracas",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
+        "subtitle": "Copa Sudamericana",
         "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png"
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "7",
