@@ -66,5 +66,29 @@
         "target_channel_name": "ESPN 3 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Philadelphia 76ers vs New York Knicks",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Minnesota Timberwolves vs San Antonio Spurs",
+        "time": "22:30",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+        "category": "Básquet"
     }
 ]
