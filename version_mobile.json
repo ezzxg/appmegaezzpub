@@ -1,0 +1,8 @@
+{
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "downloadUrl": "URL_DE_TU_APK_MOVIL",
+  "changelog": "Versión inicial móvil.",
+  "forceUpdate": false,
+  "minVersionCode": 1
+}
