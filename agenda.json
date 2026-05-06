@@ -44,15 +44,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "4",
         "title": "Tolima vs Nacional",
-        "subtitle": "Copa Libertadores",
         "time": "23:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 2 UY",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "5",
@@ -78,15 +79,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/62site1756091114.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "7",
         "title": "Audax vs Vasco",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "DSports+",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "DSports+",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -144,5 +146,29 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Philadelphia 76ers vs New York Knicks",
+        "time": "20:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 4 AR",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Minnesota Timberwolves vs San Antonio Spurs",
+        "time": "22:30",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 4 AR",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+        "category": "Básquet"
     }
 ]
