@@ -121,5 +121,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Carabobo vs River",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yeu8bn1639000596.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+        "category": "Fútbol"
     }
 ]
