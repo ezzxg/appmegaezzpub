@@ -89,15 +89,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "8",
         "title": "Blooming vs Bragantino",
-        "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "DSports+",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "DSports+",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
