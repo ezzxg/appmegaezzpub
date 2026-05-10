@@ -56,28 +56,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Crystal Palace vs Everton",
-        "subtitle": "Premier League",
-        "time": "10:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nottingham Forest vs Newcastle",
-        "subtitle": "Premier League",
-        "time": "10:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "West Ham vs Arsenal",
         "subtitle": "Premier League",
         "time": "12:30",
@@ -155,15 +133,16 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "13",
         "title": "Milan vs Atalanta",
-        "subtitle": "Serie A Enilive",
         "time": "15:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Bein Sports EN",
+        "target_channel_name": "Bein Sports EN",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "27",
@@ -223,5 +202,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "New York Knicks vs Philadelphia 76ers",
+        "time": "16:30",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
+        "category": "Básquet"
     }
 ]
