@@ -181,30 +181,6 @@
     },
     {
         "editIndex": "-1",
-        "title": "Sportivo San Lorenzo vs Olimpia",
-        "time": "17:45",
-        "subtitle": "Primera División de Paraguay",
-        "channel_name": "Eventos Tigo",
-        "target_channel_name": "Eventos Tigo",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yi6fi91579991071.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
-        "category": "Fútbol"
-    },
-    {
-        "editIndex": "-1",
-        "title": "Sportivo Luqueño vs Club Libertad",
-        "time": "20:00",
-        "subtitle": "Primera División de Paraguay",
-        "channel_name": "Eventos Tigo 2",
-        "target_channel_name": "Eventos Tigo 2",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
-        "category": "Fútbol"
-    },
-    {
-        "editIndex": "-1",
         "title": "New York Knicks vs Philadelphia 76ers",
         "time": "16:30",
         "subtitle": "NBA",
@@ -226,5 +202,29 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
         "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Sportivo Luqueño vs Club Libertad",
+        "time": "20:00",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
+        "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Sportivo San Lorenzo vs Olimpia",
+        "time": "17:45",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yi6fi91579991071.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
+        "category": "Fútbol"
     }
 ]
