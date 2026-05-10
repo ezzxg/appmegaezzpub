@@ -214,5 +214,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
         "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Minnesota Timberwolves vs San Antonio Spurs",
+        "time": "20:30",
+        "subtitle": "NBA",
+        "channel_name": "Eventos3",
+        "target_channel_name": "Eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+        "category": "Básquet"
     }
 ]
