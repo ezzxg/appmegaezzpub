@@ -56,5 +56,29 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Cleveland Cavaliers vs Detroit Pistons",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "TNT Sports",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+        "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Los Angeles Lakers vs Oklahoma City Thunder",
+        "time": "00:00",
+        "subtitle": "NBA",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
+        "category": "Básquet"
     }
 ]
