@@ -7,7 +7,7 @@
   "url_banner": "http://vps-5182765-x.dattaweb.com/megaezzapp/banner_prin.json",
   "url_version": "https://appmegaezz.pages.dev/version.json",
   "url_version_mobile": "https://appmegaezz.pages.dev/version_mobile.json",
-  "epg_urls": "https://www.open-epg.com/files/brazil1.xml,https://iptv-epg.org/files/epg-ar.xml,https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz",
+  "epg_urls": "https://www.open-epg.com/files/brazil1.xml.gz,https://iptv-epg.org/files/epg-ar.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz",
   
   "max_sessions": "3",
   "max_sessions_mobile": "1",
