@@ -119,5 +119,17 @@
         "target_channel_name": "ESPN 3 AR",
         "home_logo": "",
         "away_logo": ""
+    },
+    {
+        "editIndex": "-1",
+        "title": "Juventude vs São Paulo",
+        "time": "19:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
     }
 ]
