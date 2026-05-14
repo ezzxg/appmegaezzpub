@@ -90,5 +90,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cqkwxs1675845340.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Vitória vs Flamengo",
+        "time": "21:30",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "FOX Deportes",
+        "target_channel_name": "FOX Deportes",
+        "channel_logo_url": "https://i.ibb.co/VkzjWPZ/960px-FOX-Deportes-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "category": "Fútbol"
     }
 ]
