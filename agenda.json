@@ -54,5 +54,17 @@
         "home_logo": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
         "away_logo": "",
         "category": "Tenis"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Martin Landaluce (ESP) vs. Daniil Medvedev (RUS)",
+        "time": "14:00",
+        "subtitle": "ATP",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
+        "away_logo": "",
+        "category": "Tenis"
     }
 ]
