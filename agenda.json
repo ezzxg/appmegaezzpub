@@ -1,125 +1,58 @@
 [
     {
         "category": "Fútbol",
-        "title": "Rosario Central vs Racing",
-        "subtitle": "Torneo Apertura",
-        "time": "18:45",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "River vs Gimnasia (LP)",
-        "subtitle": "Torneo Apertura",
-        "time": "21:30",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Platense vs San Martín (SJ)",
-        "subtitle": "Copa Argentina",
-        "time": "16:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l7j84h1517769215.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Manchester City vs Crystal Palace",
-        "subtitle": "Premier League",
-        "time": "16:00",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Villarreal vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Espanyol vs Athletic Bilbao",
+        "title": "Valencia vs Rayo Vallecano",
         "subtitle": "LALIGA EA SPORTS",
         "time": "14:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png"
     },
     {
         "category": "Fútbol",
-        "title": "Alavés vs Barcelona",
+        "title": "Girona vs Real Sociedad",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "15:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Real Madrid vs Oviedo",
         "subtitle": "LALIGA EA SPORTS",
         "time": "16:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Getafe vs Mallorca",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "16:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lazio vs Inter",
-        "subtitle": "Copa de Italia",
-        "time": "16:00",
         "channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png"
     },
     {
-        "editIndex": "9",
-        "title": "Cincinnati vs Inter Miami",
-        "time": "20:30",
-        "subtitle": "MLS",
-        "channel_name": "MLS",
-        "target_channel_name": "MLS",
-        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvhsqc1707631046.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "category": "Fútbol"
+        "category": "Fútbol",
+        "title": "Huracán vs Independiente",
+        "subtitle": "Torneo Proyección",
+        "time": "13:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
         "editIndex": "-1",
-        "title": "Juventude vs São Paulo",
-        "time": "19:00",
-        "subtitle": "Copa de Brasil",
-        "channel_name": "FOX Deportes",
-        "target_channel_name": "FOX Deportes",
-        "channel_logo_url": "https://i.ibb.co/VkzjWPZ/960px-FOX-Deportes-logo.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1ntter1766506778.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "category": "Fútbol"
+        "title": "Sorana Cirstea (ROU) vs. Coco Gauff (USA)",
+        "time": "10:00",
+        "subtitle": "WTA",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://static.futbolenlatv.com/img/32/20130618113307-tenis.png",
+        "away_logo": "",
+        "category": "Tenis"
     }
 ]
