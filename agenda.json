@@ -21,5 +21,17 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/asdltq1678857586.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2wagn81677994133.png",
         "category": "Fútbol"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Olimpia vs Deportivo Recoleta",
+        "time": "09:30",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png/medium",
+        "category": "Fútbol"
     }
 ]
