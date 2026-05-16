@@ -71,9 +71,9 @@
         "title": "Palmeiras vs Cruzeiro",
         "time": "21:00",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
         "category": "Fútbol"
@@ -92,7 +92,7 @@
     {
         "editIndex": "-1",
         "title": "UFC Vegas 117",
-        "time": "19:00",
+        "time": "17:15",
         "subtitle": "UFC Fight Night",
         "channel_name": "Por Definir",
         "target_channel_name": "Por Definir",
