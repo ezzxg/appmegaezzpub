@@ -34,37 +34,28 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Internacional vs Vasco",
-        "subtitle": "Brasileirao Serie A",
-        "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
-    },
-    {
-        "category": "Fútbol",
+        "editIndex": "4",
         "title": "Atlético Mineiro vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "5",
         "title": "Fluminense vs São Paulo",
-        "subtitle": "Brasileirao Serie A",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 3 HD",
+        "target_channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
     },
     {
         "editIndex": "6",
