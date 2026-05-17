@@ -66,15 +66,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "6",
         "title": "Real Sociedad vs Valencia",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "14:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Sky Sports LaLiga",
+        "target_channel_name": "Sky Sports LaLiga",
+        "channel_logo_url": "https://i.ibb.co/Z6DL6Pxj/latest.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -182,9 +183,9 @@
         "title": "Nashville SC vs Los Angeles FC",
         "time": "21:00",
         "subtitle": "MLS",
-        "channel_name": "MLS",
-        "target_channel_name": "MLS",
-        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
         "category": "Fútbol"
