@@ -23,28 +23,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Everton vs Sunderland",
-        "subtitle": "Premier League",
-        "time": "11:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Wolverhampton vs Fulham",
-        "subtitle": "Premier League",
-        "time": "11:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Leeds vs Brighton",
         "subtitle": "Premier League",
         "time": "11:00",
@@ -53,28 +31,6 @@
         "target_channel_name": "ESPN AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Brentford vs Crystal Palace",
-        "subtitle": "Premier League",
-        "time": "11:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Newcastle vs West Ham",
-        "subtitle": "Premier League",
-        "time": "13:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
     },
     {
         "category": "Fútbol",
@@ -119,17 +75,6 @@
         "target_channel_name": "ESPN AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Osasuna vs Espanyol",
-        "subtitle": "LALIGA EA SPORTS",
-        "time": "14:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png"
     },
     {
         "category": "Fútbol",
