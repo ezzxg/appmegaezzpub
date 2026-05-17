@@ -12,17 +12,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Manchester United vs Nottingham Forest",
-        "subtitle": "Premier League",
-        "time": "08:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Leeds vs Brighton",
         "subtitle": "Premier League",
         "time": "11:00",
@@ -165,26 +154,28 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "14",
         "title": "Bartolomé Mit. vs San Martín (F)",
-        "subtitle": "Federal A",
         "time": "16:00",
+        "subtitle": "Federal A",
         "channel_name": "Fox Sports 3 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
         "target_channel_name": "Fox Sports 3 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xydfx91740929585.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fdpydg1678851279.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "15",
         "title": "Inter Miami vs Portland",
-        "subtitle": "MLS",
         "time": "19:00",
-        "channel_name": "Apple TV+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Apple TV+",
+        "subtitle": "MLS",
+        "channel_name": "MLS",
+        "target_channel_name": "MLS",
+        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -196,5 +187,17 @@
         "target_channel_name": "Apple TV+",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
         "away_logo": ""
+    },
+    {
+        "editIndex": "-1",
+        "title": "Detroit Pistons vs Cleveland Cavaliers",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+        "category": "Básquet"
     }
 ]
