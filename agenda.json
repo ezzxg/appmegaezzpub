@@ -91,5 +91,17 @@
         "home_logo": "https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Image-HD.png",
         "away_logo": "",
         "category": "Otro"
+    },
+    {
+        "editIndex": "-1",
+        "title": "UFC Vegas 117",
+        "time": "22:00",
+        "subtitle": "UFC Fight Night",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Image-HD.png",
+        "away_logo": "",
+        "category": "Otro"
     }
 ]
