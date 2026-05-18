@@ -1,25 +1,27 @@
 [
     {
-        "category": "Fútbol",
+        "editIndex": "0",
         "title": "Defensores de Belgrano vs Chaco For Ever",
-        "subtitle": "Primera Nacional",
         "time": "15:30",
+        "subtitle": "Primera Nacional",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9wxhp31678848859.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9wxhp31678848859.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "1",
         "title": "All Boys vs Morón",
-        "subtitle": "Primera Nacional",
         "time": "20:00",
+        "subtitle": "Primera Nacional",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zo4vm01578824142.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/iamiej1578821893.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/iamiej1578821893.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -33,15 +35,16 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "3",
         "title": "Italiano vs Laferrere",
-        "subtitle": "B Metropolitana",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
-        "away_logo": ""
+        "away_logo": "",
+        "category": "Fútbol"
     },
     {
         "editIndex": "-1",
