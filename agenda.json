@@ -54,5 +54,29 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
         "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Los Angeles Dodgers vs San Diego Padres",
+        "time": "22:30",
+        "subtitle": "MLB",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/32uxn21778269451.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png/medium",
+        "category": "Otro"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Chicago White Sox vs Seattle Mariners",
+        "time": "22:30",
+        "subtitle": "MLB",
+        "channel_name": "Fox Sports 3 AR",
+        "target_channel_name": "Fox Sports 3 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png/medium",
+        "category": "Otro"
     }
 ]
