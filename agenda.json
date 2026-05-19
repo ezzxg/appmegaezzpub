@@ -166,5 +166,17 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1nj5uk1517769025.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+    },
+    {
+        "editIndex": "-1",
+        "title": "New York Knicks vs Cleveland Cavaliers",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+        "category": "Básquet"
     }
 ]
