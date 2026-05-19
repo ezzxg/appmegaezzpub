@@ -123,6 +123,17 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png"
     },
     {
+        "category": "Fútbol",
+        "title": "Quilmes vs Lanús",
+        "subtitle": "Torneo Proyección",
+        "time": "15:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1nj5uk1517769025.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+    },
+    {
         "editIndex": "11",
         "title": "Deportivo Cuenca vs Recoleta",
         "time": "23:00",
@@ -135,15 +146,28 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Bournemouth vs Manchester City",
-        "subtitle": "Premier League",
-        "time": "15:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        "editIndex": "-1",
+        "title": "New York Knicks vs Cleveland Cavaliers",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+        "category": "Básquet"
+    },
+    {
+        "editIndex": "-1",
+        "title": "Boca vs Cruzeiro (Relato Closs)",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 5 AR",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -158,25 +182,13 @@
     },
     {
         "category": "Fútbol",
-        "title": "Quilmes vs Lanús",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1nj5uk1517769025.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
-    },
-    {
-        "editIndex": "-1",
-        "title": "New York Knicks vs Cleveland Cavaliers",
-        "time": "21:00",
-        "subtitle": "NBA",
-        "channel_name": "ESPN 3 AR",
-        "target_channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
-        "category": "Básquet"
+        "title": "Bournemouth vs Manchester City",
+        "subtitle": "Premier League",
+        "time": "15:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
     }
 ]
