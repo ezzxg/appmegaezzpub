@@ -12,15 +12,16 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "1",
         "title": "Coquimbo vs Tolima",
-        "subtitle": "Copa Libertadores",
         "time": "19:00",
-        "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
-        "target_channel_name": "Fox Sports 2 AR",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN CO",
+        "target_channel_name": "ESPN (COL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
