@@ -91,15 +91,16 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "editIndex": "8",
         "title": "Boston River vs O'Higgins",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
-        "away_logo": ""
+        "away_logo": "",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
