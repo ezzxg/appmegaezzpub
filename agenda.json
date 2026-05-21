@@ -97,5 +97,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cf4ozx1655760184.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png/medium",
         "category": "Fútbol"
+    },
+    {
+        "title": "Wolfsburg vs Paderborn",
+        "time": "15:30",
+        "subtitle": "Bundesliga",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20107.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kddvva1566048058.png/medium",
+        "category": "Fútbol"
     }
 ]
