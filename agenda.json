@@ -66,8 +66,8 @@
         "category": "Fútbol"
     },
     {
-        "title": "GP de Canadá: Entrenamientos #1",
-        "time": "11:30",
+        "title": "GP de Canadá: Clasificación Sprint",
+        "time": "17:30",
         "subtitle": "Fórmula 1",
         "channel_name": "Fox Sports AR",
         "target_channel_name": "Fox Sports AR",
@@ -75,5 +75,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "2 de Mayo vs Sportivo San Lorenzo",
+        "time": "00:00",
+        "subtitle": "Primera División de Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yi6fi91579991071.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Mexico vs Ghana",
+        "time": "23:00",
+        "subtitle": "Amistoso Internacional",
+        "channel_name": "FOX Deportes",
+        "target_channel_name": "FOX Deportes",
+        "channel_logo_url": "https://i.ibb.co/VkzjWPZ/960px-FOX-Deportes-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png",
+        "category": "Fútbol"
     }
 ]
