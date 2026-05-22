@@ -64,5 +64,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png/medium",
         "category": "Fútbol"
+    },
+    {
+        "title": "GP de Canadá: Entrenamientos #1",
+        "time": "11:30",
+        "subtitle": "Fórmula 1",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
+        "away_logo": "",
+        "category": "Automovilismo"
     }
 ]
