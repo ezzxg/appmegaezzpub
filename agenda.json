@@ -218,5 +218,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9xcx0p1770828600.png/medium",
         "category": "Fútbol"
+    },
+    {
+        "title": "Grêmio vs Santos",
+        "time": "19:00",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 3 HD",
+        "target_channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "category": "Fútbol"
     }
 ]
