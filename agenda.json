@@ -218,5 +218,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "Napoli vs Udinese",
+        "time": "13:00",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "beIN ENGLISH 3",
+        "target_channel_name": "beIN ENGLISH 3",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "AC Milan vs Cagliari",
+        "time": "15:45",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Bein Sports EN",
+        "target_channel_name": "Bein Sports EN",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+        "category": "Fútbol"
     }
 ]
