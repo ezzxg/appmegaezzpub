@@ -89,17 +89,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Brighton vs Manchester United",
-        "subtitle": "Premier League",
-        "time": "12:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Crystal Palace vs Arsenal",
         "subtitle": "Premier League",
         "time": "12:00",
@@ -250,6 +239,17 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "West Ham United vs Leeds United",
+        "time": "12:00",
+        "subtitle": "Premier League",
+        "channel_name": "Universo",
+        "target_channel_name": "Universo",
+        "channel_logo_url": "https://i.ibb.co/0pqDMnz1/330px-UNIVERSO-LOGO-color-black.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
         "category": "Fútbol"
     }
 ]
