@@ -240,5 +240,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Liverpool vs Brentford",
+        "time": "12:00",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+        "category": "Fútbol"
     }
 ]
