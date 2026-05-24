@@ -11,6 +11,17 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
     },
     {
+        "title": "River vs Belgrano",
+        "time": "15:30",
+        "subtitle": "Torneo Apertura",
+        "channel_name": "TNT Sports",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Acassuso vs Defensores de Belgrano",
         "time": "14:00",
         "subtitle": "Primera Nacional",
