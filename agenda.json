@@ -9,5 +9,38 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "New York Yankees vs Kansas City Royals",
+        "time": "16:30",
+        "subtitle": "MLB",
+        "channel_name": "ESPN 4",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png/medium",
+        "category": "Otro"
+    },
+    {
+        "title": "Philadelphia Phillies vs. San Diego Padres",
+        "time": "19:30",
+        "subtitle": "MLB",
+        "channel_name": "ESPN 5",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png/medium",
+        "category": "Otro"
+    },
+    {
+        "title": "New York Knicks vs Cleveland Cavaliers",
+        "time": "21:00",
+        "subtitle": "NBA",
+        "channel_name": "ESPN 3",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+        "category": "Básquet"
     }
 ]
