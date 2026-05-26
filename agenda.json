@@ -33,15 +33,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f50g3b1678411414.png"
     },
     {
-        "category": "Fútbol",
         "title": "Universitario vs Tolima",
-        "subtitle": "Copa Libertadores",
         "time": "21:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Bein Sports Xtra (Es)",
+        "target_channel_name": "Bein Sports Xtra (Es)",
+        "channel_logo_url": "https://i.ibb.co/yFP5Ldf1/large-white.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xt290m1603137966.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -209,25 +209,14 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Marruecos vs Burundi",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "12:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nigeria vs Zimbabue",
-        "subtitle": "Amistosos de Selecciones",
+        "title": "Greuther Fürth vs Rot-Weiss Essen",
         "time": "15:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Bundesliga",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/87n1901608237004.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h9lz2d1580150937.png/medium",
+        "category": "Fútbol"
     }
 ]
