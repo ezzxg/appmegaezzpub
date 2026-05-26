@@ -218,5 +218,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/87n1901608237004.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h9lz2d1580150937.png/medium",
         "category": "Fútbol"
+    },
+    {
+        "title": "Oklahoma City Thunder vs San Antonio Spurs",
+        "time": "21:30",
+        "subtitle": "NBA",
+        "channel_name": "TNT Sports",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+        "category": "Básquet"
     }
 ]
