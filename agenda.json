@@ -36,9 +36,9 @@
         "title": "Universitario vs Tolima",
         "time": "21:30",
         "subtitle": "Copa Libertadores",
-        "channel_name": "Bein Sports Xtra (Es)",
-        "target_channel_name": "Bein Sports Xtra (Es)",
-        "channel_logo_url": "https://i.ibb.co/yFP5Ldf1/large-white.png",
+        "channel_name": "ESPN 2",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xt290m1603137966.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
         "category": "Fútbol"
@@ -66,15 +66,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2rxjt61603137804.png"
     },
     {
-        "category": "Fútbol",
         "title": "Palestino vs Riestra",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/62site1756091114.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
