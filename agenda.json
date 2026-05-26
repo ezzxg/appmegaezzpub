@@ -132,92 +132,70 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
-        "title": "Flandria vs Arsenal",
-        "subtitle": "B Metropolitana",
+        "title": "Flandria vs Arsenal de Sarandí",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jfai201677557874.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/t5yzu71580842576.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Camioneros vs San Carlos",
-        "subtitle": "B Metropolitana",
+        "title": "Deportivo Camioneros vs Villa San Carlos",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cn9o0z1775838733.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/aac7ul1626207505.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Dock Sud vs Real Pilar",
-        "subtitle": "B Metropolitana",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zd1crc1677993995.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h7bo2a1626208066.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Armenio vs Argentino (M)",
-        "subtitle": "B Metropolitana",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 4",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7m7dub1677993920.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/a4eow81769467113.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Brown de Adrogué vs Talleres (RE)",
-        "subtitle": "B Metropolitana",
         "time": "19:00",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 5",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u0he2t1578823947.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f08ex91690264922.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Merlo vs Liniers",
-        "subtitle": "B Metropolitana",
+        "title": "Deportivo Merlo vs Liniers",
         "time": "19:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Comunicaciones vs UAI Urquiza",
         "subtitle": "B Metropolitana",
-        "time": "19:00",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 6",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Ituzaingó vs Laferrere",
-        "subtitle": "B Metropolitana",
-        "time": "19:30",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/fali7v1626632772.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9e023s1678854956.png/medium",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -229,61 +207,6 @@
         "target_channel_name": "ESPN 4 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "San Martín(SJ) vs Colón",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l72gz21712750680.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Huracán vs Ferro Carril R",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Estudiantes RC vs Boca",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Racing vs Tigre",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Argentinos vs Banfield",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png"
     },
     {
         "category": "Fútbol",
