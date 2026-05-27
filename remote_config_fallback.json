@@ -30,11 +30,17 @@
   "ad_action_type_2": "channel",
   "ad_action_value_2": "Aun no es el dia",
 
-  "ad_mini_player_url_3": "https://i.ibb.co/SwRnFZzy/f1banner-app.jpg",
-  "ad_title_3": "Toda la F1 en vivo",
-  "ad_subtitle_3": "No te lo pierdas en la agenda",
+  "ad_mini_player_url_3": "https://r2.thesportsdb.com/images/media/event/thumb/1vmg4s1774811189.jpg",
+  "ad_title_3": "River vs Blooming",
+  "ad_subtitle_3": "Miercoles 21:30",
   "ad_action_type_3": "channel",
-  "ad_action_value_3": "Aun no es el dia",
+  "ad_action_value_3": "ESPN AR",
+
+  "ad_mini_player_url_4": "https://i.ibb.co/SwRnFZzy/f1banner-app.jpg",
+  "ad_title_4": "Toda la F1 en vivo",
+  "ad_subtitle_4": "No te lo pierdas en la agenda",
+  "ad_action_type_4": "channel",
+  "ad_action_value_4": "Aun no es el dia",
 
   "cat_map_deportes": "deportes, sports, espn, fox sports, tyc, dazn, fútbol",
   "cat_map_cine": "cine, películas, movies, series, hbo, star, cinema",
