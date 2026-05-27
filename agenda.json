@@ -36,23 +36,23 @@
         "title": "Universitario vs Tolima",
         "time": "21:30",
         "subtitle": "Copa Libertadores",
-        "channel_name": "ESPN 2",
-        "target_channel_name": "ESPN 2 UY",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "channel_name": "ESPN",
+        "target_channel_name": "ESPN (COL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xt290m1603137966.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Nacional vs Coquimbo",
-        "subtitle": "Copa Libertadores",
         "time": "21:30",
-        "channel_name": "Fox Sports 3 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
-        "target_channel_name": "Fox Sports 3 AR",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 5 AR",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
