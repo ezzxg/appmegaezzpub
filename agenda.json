@@ -99,15 +99,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Caracas vs Botafogo",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "Dsports",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports +",
+        "target_channel_name": "Dsports +",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
