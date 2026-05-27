@@ -44,15 +44,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Fluminense vs La Guaira",
-        "subtitle": "Copa Libertadores",
         "time": "21:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 5",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/c7p2081766113170.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/c7p2081766113170.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -143,15 +143,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png"
     },
     {
-        "category": "Fútbol",
         "title": "Bragantino vs Carabobo",
-        "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Bein Sports Xtra (Es)",
+        "target_channel_name": "Bein Sports Xtra (Es)",
+        "channel_logo_url": "https://i.ibb.co/yFP5Ldf1/large-white.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yeu8bn1639000596.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yeu8bn1639000596.png",
+        "category": "Fútbol"
     },
     {
         "title": "Crystal Palace vs Rayo Vallecano",
