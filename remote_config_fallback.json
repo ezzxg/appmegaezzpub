@@ -39,8 +39,8 @@
   "ad_mini_player_url_4": "https://i.ibb.co/SwRnFZzy/f1banner-app.jpg",
   "ad_title_4": "Toda la F1 en vivo",
   "ad_subtitle_4": "No te lo pierdas en la agenda",
-  "ad_action_type_4": "channel",
-  "ad_action_value_4": "Aun no es el dia",
+  "ad_action_type_4": "category",
+  "ad_action_value_4": "deportes",
 
   "cat_map_deportes": "deportes, sports, espn, fox sports, tyc, dazn, fútbol",
   "cat_map_cine": "cine, películas, movies, series, hbo, star, cinema",
