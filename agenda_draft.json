@@ -1,0 +1,36 @@
+[
+    {
+        "category": "Fútbol",
+        "title": "Tottenham vs Leeds",
+        "subtitle": "Premier League",
+        "time": "16:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Rayo Vallecano vs Girona",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png"
+    },
+    {
+        "editIndex": "2",
+        "title": "Nápoles vs Bolonia",
+        "time": "15:45",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+        "category": "Fútbol"
+    }
+]

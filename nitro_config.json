@@ -1,0 +1,66 @@
+{
+  "nitro_version": "55.120.0",
+  "cache_expiry_seconds": 3600,
+  "whitelist_domains": [
+    "hglink.to",
+    "hanerix.com",
+    "premilkyway.com",
+    "secureresearch.cfd",
+    "bysedikamoum.com",
+    "f75s.com",
+    "dintezuvio.com",
+    "ecommerceplatform.shop",
+    "managementadvisory.sbs",
+    "player.videasy.net",
+    "apl401.me",
+    "azplay31.me",
+    "zonalive.click",
+    "eveningbad.net",
+    "r-limit",
+    "vod-limit",
+    "stream-limit",
+    "limit-vid"
+  ],
+  "extractors": [
+    {
+      "name": "hglink",
+      "regex": "hglink\\.to/e/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/hglink.js"
+    },
+    {
+      "name": "bysedikamoum",
+      "regex": "(bysedikamoum\\.com|f75s\\.com|dintezuvio\\.com)/(e|ec4ok|wxx|embed)/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/bysedikamoum.js"
+    },
+    {
+      "name": "videasy",
+      "regex": "player\\.videasy\\.net/(movie|tv)/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/videasy.js"
+    },
+    {
+      "name": "apl401",
+      "regex": "emb\\.apl401\\.me/player/live\\.php\\?id=.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/apl401.js"
+    },
+    {
+      "name": "zonalive",
+      "regex": "zonalive\\.click/player/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zonalive.js"
+    },
+    {
+      "name": "lpfplay",
+      "regex": "lpfplay\\.com/player/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/lpfplay.js"
+    },
+    {
+      "name": "filemoon",
+      "regex": "filemoon\\.sx/(e|d)/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/filemoon.js"
+    },
+    {
+      "name": "movie_universal",
+      "regex": ".*\\/detail\\/(movie|drama|tv|series)\\/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
+    }
+  ]
+}

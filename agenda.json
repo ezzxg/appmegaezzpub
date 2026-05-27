@@ -1,0 +1,200 @@
+[
+    {
+        "title": "Independiente del Valle vs Rosario Central",
+        "time": "19:00",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Club Libertad vs Universidad Central",
+        "time": "19:00",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Corinthians vs Platense",
+        "subtitle": "Copa Libertadores",
+        "time": "21:30",
+        "channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "target_channel_name": "Fox Sports AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
+    },
+    {
+        "title": "Bolívar vs Independiente (M)",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Fluminense vs La Guaira",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 5",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/c7p2081766113170.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Peñarol vs Santa Fe",
+        "subtitle": "Copa Libertadores",
+        "time": "21:30",
+        "channel_name": "Fox Sports 3 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
+        "target_channel_name": "Fox Sports 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png"
+    },
+    {
+        "title": "Vasco vs Barracas",
+        "time": "19:00",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 2 UY",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Racing Club vs Independiente Petrolero",
+        "time": "19:00",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Olimpia vs Audax",
+        "time": "19:00",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Caracas vs Botafogo",
+        "time": "19:00",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports +",
+        "target_channel_name": "Dsports +",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Atlético Mineiro vs Puerto Cabello",
+        "subtitle": "Copa Sudamericana",
+        "time": "19:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/a04fro1639001630.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Cienciano vs Juventud",
+        "subtitle": "Copa Sudamericana",
+        "time": "19:00",
+        "channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "target_channel_name": "ESPN 3 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "River vs Blooming",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png"
+    },
+    {
+        "title": "Bragantino vs Carabobo",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Bein Sports Xtra (Es)",
+        "target_channel_name": "Bein Sports Xtra (Es)",
+        "channel_logo_url": "https://i.ibb.co/yFP5Ldf1/large-white.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yeu8bn1639000596.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Crystal Palace vs Rayo Vallecano",
+        "time": "16:00",
+        "subtitle": "Conference League FINAL",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Sportivo Italiano vs San Martín de Burzaco",
+        "time": "15:30",
+        "subtitle": "B Metropolitana",
+        "channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vk4mou1734570321.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j6flp21730784326.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Defensores Unidos vs Villa Dálmine",
+        "time": "15:30",
+        "subtitle": "B Metropolitana",
+        "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mdnsl41677636971.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nknweg1652125618.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Argentino de Quilmes vs Excursionistas",
+        "time": "15:30",
+        "subtitle": "B Metropolitana",
+        "channel_name": "LPF Play",
+        "target_channel_name": "LPF 3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2wagn81677994133.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/km1lou1730784872.png/medium",
+        "category": "Fútbol"
+    }
+]

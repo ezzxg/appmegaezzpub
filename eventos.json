@@ -1,0 +1,20 @@
+[
+    {
+        "title": "¡Felices Fiestas! ",
+        "description": "Gracias por ser parte de este proyecto!",
+        "image": "https://i.imgur.com/ykyEjL2.png",
+        "targetChannelName": "TNT Sports AR"
+    },
+    {
+        "title": "Toda la champions está aca!",
+        "description": "Todos los partidos en nuestra agenda",
+        "image": "https://editorial.uefa.com/resources/0246-0e98e0aed53b-074f228dc0a2-1000/ucl_branding.jpeg",
+        "targetChannelName": "Fox Sports AR"
+    },
+    {
+        "title": "Mira la Liga de España",
+        "description": "Canal DAZN LaLiga HD",
+        "image": "https://i.ibb.co/HLRK3rRG/image.jpg",
+        "targetChannelName": "Fox Sports AR"
+    }
+]
