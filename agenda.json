@@ -6,7 +6,7 @@
         "channel_name": "Fox Sports AR",
         "target_channel_name": "Fox Sports AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
         "category": "Fútbol"
     },
@@ -33,15 +33,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
     },
     {
-        "category": "Fútbol",
         "title": "Bolívar vs Independiente (M)",
-        "subtitle": "Copa Libertadores",
         "time": "21:30",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/medium",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -77,15 +77,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Racing vs Independiente",
-        "subtitle": "Copa Sudamericana",
+        "title": "Racing Club vs Independiente Petrolero",
         "time": "19:00",
+        "subtitle": "Copa Sudamericana",
         "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png/medium",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -165,113 +165,36 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Italiano vs San Martín (B)",
-        "subtitle": "B Metropolitana",
+        "title": "Sportivo Italiano vs San Martín de Burzaco",
         "time": "15:30",
+        "subtitle": "B Metropolitana",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vk4mou1734570321.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j6flp21730784326.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Defensores Unidos vs Villa Dálmine",
+        "time": "15:30",
         "subtitle": "B Metropolitana",
-        "time": "15:30",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mdnsl41677636971.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nknweg1652125618.png/medium",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Argentino (Q) vs Excursionistas",
+        "title": "Argentino de Quilmes vs Excursionistas",
+        "time": "15:30",
         "subtitle": "B Metropolitana",
-        "time": "15:30",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Riestra vs Estudiantes (LP)",
-        "subtitle": "Torneo Proyección",
-        "time": "13:30",
-        "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "target_channel_name": "ESPN 4 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Vélez vs Instituto",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Newell's vs A Rafaela",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Atlético Tucumán vs Godoy Cruz",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Independiente (M) vs Central Córdoba",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Belgrano vs Quilmes",
-        "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1nj5uk1517769025.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "India vs Jamaica",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "15:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2wagn81677994133.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/km1lou1730784872.png/medium",
+        "category": "Fútbol"
     }
 ]
