@@ -66,15 +66,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png"
     },
     {
-        "category": "Fútbol",
         "title": "Vasco vs Barracas",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 2 UY",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+        "category": "Fútbol"
     },
     {
         "title": "Racing Club vs Independiente Petrolero",
