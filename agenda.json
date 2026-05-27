@@ -121,15 +121,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Santos vs Dep. Cuenca",
-        "subtitle": "Copa Sudamericana",
+        "title": "Santos vs Deportivo Cuenca",
         "time": "21:30",
-        "channel_name": "Dsports 2",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
-        "target_channel_name": "Dsports 2",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports CL",
+        "target_channel_name": "Dsports CL",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lb2br81736221977.png",
+        "category": "Fútbol"
     },
     {
         "title": "Flandria vs Arsenal de Sarandí",
