@@ -88,15 +88,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Olimpia vs Audax",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
