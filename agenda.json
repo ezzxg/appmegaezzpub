@@ -22,12 +22,23 @@
         "category": "Fútbol"
     },
     {
-        "title": "Boca Juniors vs Universidad Católica",
+        "title": "Boca vs U Católica",
         "time": "21:30",
         "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports AR",
         "target_channel_name": "Fox Sports AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Boca vs U Católica (Relato Closs)",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "ESPN 2",
+        "target_channel_name": "ESPN 2 UY",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png",
         "category": "Fútbol"
