@@ -1,22 +1,22 @@
 [
     {
-        "category": "Fútbol",
         "title": "Cerro Porteño vs Cristal",
-        "subtitle": "Copa Libertadores",
         "time": "19:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports 3 AR",
+        "target_channel_name": "Fox Sports 3 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png",
+        "category": "Fútbol"
     },
     {
         "title": "Palmeiras vs Junior",
         "time": "19:00",
         "subtitle": "Copa Libertadores",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zzarls1576161686.png",
         "category": "Fútbol"
