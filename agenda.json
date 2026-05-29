@@ -11,14 +11,14 @@
         "category": "Fútbol"
     },
     {
-        "title": "Colombia vs Costa Rica",
-        "time": "17:00",
-        "subtitle": "Amistoso Internacional",
-        "channel_name": "Eventos1",
-        "target_channel_name": "Eventos1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png/medium",
+        "title": "Nice vs St Etienne",
+        "time": "15:45",
+        "subtitle": "Ligue 1",
+        "channel_name": "ESPN 4 AR",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/medium",
         "category": "Fútbol"
     }
 ]
