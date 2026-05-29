@@ -11,47 +11,14 @@
         "category": "Fútbol"
     },
     {
-        "title": "Iran vs Gambia",
-        "time": "10:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
+        "title": "Colombia vs Costa Rica",
+        "time": "17:00",
+        "subtitle": "Amistoso Internacional",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1mjbil1742102551.png/medium",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Andorra vs Iraq",
-        "time": "13:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Lebanon vs Sudan",
-        "time": "13:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/r4tooj1597862894.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2pm8l1728750407.png/medium",
-        "category": "Fútbol"
-    },
-    {
-        "title": "South Africa vs Nicaragua",
-        "time": "13:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/up3xrd1718413389.png/medium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png/medium",
         "category": "Fútbol"
     }
 ]
