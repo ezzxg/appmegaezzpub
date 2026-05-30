@@ -1,24 +1,24 @@
 [
     {
-        "title": "Racing (C) vs Ferro",
-        "time": "21:00",
-        "subtitle": "Primera Nacional",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF 1",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jeqlsn1677638050.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qv5l9p1578822488.png/medium",
-        "category": "Fútbol"
+        "category": "Fútbol",
+        "title": "PSG vs Arsenal",
+        "subtitle": "Champions League",
+        "time": "13:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
     },
     {
-        "title": "Nice vs St Etienne",
-        "time": "15:45",
-        "subtitle": "Ligue 1",
-        "channel_name": "ESPN 4 AR",
-        "target_channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png/medium",
+        "title": "Gimnasia Jujuy vs Belgrano",
+        "time": "15:30",
+        "subtitle": "Copa Argentina",
+        "channel_name": "TyC Sports HD",
+        "target_channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jxpz51677637810.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
         "category": "Fútbol"
     }
 ]
