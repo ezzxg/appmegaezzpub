@@ -20,5 +20,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jxpz51677637810.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Mexico vs Ecuador",
+        "time": "22:00",
+        "subtitle": "Amistoso Internacional",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
+        "category": "Fútbol"
     }
 ]
