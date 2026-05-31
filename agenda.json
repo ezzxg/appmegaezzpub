@@ -11,26 +11,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
     },
     {
-        "category": "Fútbol",
         "title": "Racing vs Defensa y Justicia",
-        "subtitle": "Copa Argentina",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Copa Argentina",
+        "channel_name": "TyC Sports HD",
+        "target_channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Atlanta vs Gimnasia Tiro",
-        "subtitle": "Primera Nacional",
-        "time": "13:30",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bsmb5i1578822943.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -77,70 +66,37 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Rep. Checa vs Kosovo",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Cabo Verde vs Serbia",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "12:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Polonia vs Ucrania",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "12:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Alemania vs Finlandia",
-        "subtitle": "Amistosos de Selecciones",
+        "title": "Germany vs Finlandia",
         "time": "15:45",
+        "subtitle": "Amistosos de Selecciones",
         "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "target_channel_name": "ESPN AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png",
+        "away_logo": "",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Estados Unidos vs Senegal",
-        "subtitle": "Amistosos de Selecciones",
+        "title": "USA vs Senegal",
         "time": "16:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png"
+        "subtitle": "Amistosos de Selecciones",
+        "channel_name": "Universo",
+        "target_channel_name": "Universo",
+        "channel_logo_url": "https://i.ibb.co/0pqDMnz1/330px-UNIVERSO-LOGO-color-black.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Brasil vs Panamá",
-        "subtitle": "Amistosos de Selecciones",
+        "title": "Brazil vs Panama",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Amistosos de Selecciones",
+        "channel_name": "SporTV Brazil",
+        "target_channel_name": "SporTV Brazil",
+        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
+        "category": "Fútbol"
     },
     {
         "title": "Bragantino vs Internacional",
@@ -157,9 +113,9 @@
         "title": "Palmeiras vs Chapecoense",
         "time": "16:00",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
         "category": "Fútbol"
@@ -179,9 +135,9 @@
         "title": "Cruzeiro vs Fluminense",
         "time": "20:30",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "category": "Fútbol"
