@@ -22,26 +22,26 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Deportivo Madryn vs Acassuso",
-        "subtitle": "Primera Nacional",
         "time": "15:00",
+        "subtitle": "Primera Nacional",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2recn1626207994.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/81kew41677993637.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/81kew41677993637.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Almagro vs Güemes",
-        "subtitle": "Primera Nacional",
         "time": "15:30",
+        "subtitle": "Primera Nacional",
         "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zv7sju1578825975.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pvd49s1615822794.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pvd49s1615822794.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
