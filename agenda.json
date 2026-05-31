@@ -121,15 +121,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Vasco vs Atlético Mineiro",
-        "subtitle": "Brasileirao Serie A",
         "time": "16:00",
-        "channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "category": "Fútbol"
     },
     {
         "title": "Cruzeiro vs Fluminense",
@@ -143,14 +143,14 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Remo vs São Paulo",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
     }
 ]
