@@ -55,17 +55,6 @@
         "category": "Fútbol"
     },
     {
-        "title": "Canadá vs Uzbekistán",
-        "time": "22:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png/medium",
-        "category": "Fútbol"
-    },
-    {
         "title": "Argentino (Q) vs Ituzaingó",
         "time": "15:30",
         "subtitle": "B Metropolitana",
@@ -80,7 +69,7 @@
         "title": "Fénix vs Cañuelas",
         "time": "15:30",
         "subtitle": "Primera C",
-        "channel_name": "Por Definir",
+        "channel_name": "LPF Play",
         "target_channel_name": "LPF 2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qti6qf1677993533.png",
@@ -91,7 +80,7 @@
         "title": "Sportivo Barracas vs CA Atlas",
         "time": "15:30",
         "subtitle": "Primera C",
-        "channel_name": "Por Definir",
+        "channel_name": "LPF Play",
         "target_channel_name": "LPF 3",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ank5xo1626208135.png",
