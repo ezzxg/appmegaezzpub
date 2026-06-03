@@ -14,9 +14,9 @@
         "title": "Gibraltar vs IV Británicas",
         "time": "14:00",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/l5eevk1655237355.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1lr4nx1600955147.png/medium",
         "category": "Fútbol"
@@ -25,9 +25,9 @@
         "title": "Albania vs Israel",
         "time": "15:00",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vonacg1717365654.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/me4lfd1515700405.png/medium",
         "category": "Fútbol"
@@ -36,9 +36,9 @@
         "title": "RD Congo vs Dinamarca",
         "time": "15:00",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e13arj1717365623.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png/medium",
         "category": "Fútbol"
@@ -47,9 +47,9 @@
         "title": "Polonia vs Nigeria",
         "time": "15:45",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "SporTV Brazil",
+        "target_channel_name": "SporTV Brazil",
+        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ttvrxy1455466076.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png/medium",
         "category": "Fútbol"
@@ -58,11 +58,11 @@
         "title": "Luxemburgo vs Italia",
         "time": "15:45",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
+        "channel_name": "Disney+5",
+        "target_channel_name": "Disney+5",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsakoo1713725395.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fxijcp1726167035.png/small",
         "category": "Fútbol"
     },
     {
@@ -91,23 +91,23 @@
         "title": "Rep. Corea vs El Salvador",
         "time": "22:00",
         "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "SporTV Brazil",
+        "target_channel_name": "SporTV Brazil",
+        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/a8nqfs1589564916.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/gjc22e1598134820.png/medium",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Sacachispas vs Berazategui",
-        "subtitle": "Primera C",
         "time": "15:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera C",
+        "channel_name": "LPF Play",
+        "target_channel_name": "LPF 2",
+        "channel_logo_url": "https://lpf.vod.immergo.tv/lpf-immergo/uploaded/c0146dd1-dd1c-46b8-83e6-4ecb8fa8ca02.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nx840e1652125601.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -121,14 +121,14 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
     },
     {
-        "category": "Fútbol",
         "title": "Estudiantes (LP) vs Independiente (M)",
-        "subtitle": "Torneo Proyección",
         "time": "15:00",
+        "subtitle": "Torneo Proyección",
         "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
+        "target_channel_name": "LPF 1",
+        "channel_logo_url": "https://lpf.vod.immergo.tv/lpf-immergo/uploaded/c0146dd1-dd1c-46b8-83e6-4ecb8fa8ca02.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/medium",
+        "category": "Fútbol"
     }
 ]
