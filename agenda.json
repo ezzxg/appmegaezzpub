@@ -1,46 +1,35 @@
 [
     {
+        "title": "San Martín (B) vs Villa Dálmine",
+        "time": "20:00",
+        "subtitle": "B Metropolitana",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j6flp21730784326.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nknweg1652125618.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Juv Antoniana vs Sarmiento (LB)",
+        "time": "22:00",
+        "subtitle": "Federal A",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jif6v1734116809.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/328paa1734117044.png/medium",
+        "category": "Fútbol"
+    },
+    {
         "category": "Fútbol",
-        "title": "Pakistan vs Afghanistan",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "13:00",
+        "title": "Cambaceres vs Berazategui",
+        "subtitle": "Primera C",
+        "time": "18:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4x1akh1597935271.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6qwyw21597850099.png"
-    },
-    {
-        "title": "Portugal vs Nigeria",
-        "time": "16:45",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "ESPN AR",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png/medium",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Inglaterra vs Costa Rica",
-        "time": "17:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "ESPN AR",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png/medium",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Bolivia vs Argelia",
-        "time": "21:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rrwpry1455460218.png/medium",
-        "category": "Fútbol"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/r1otlo1640484692.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png"
     }
 ]
