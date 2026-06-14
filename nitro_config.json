@@ -19,7 +19,8 @@
     "r-limit",
     "vod-limit",
     "stream-limit",
-    "limit-vid"
+    "limit-vid",
+    "junkieembeds.pages.dev"
   ],
   "extractors": [
     {
@@ -61,6 +62,11 @@
       "name": "movie_universal",
       "regex": ".*\\/detail\\/(movie|drama|tv|series)\\/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
+    },
+    {
+      "name": "JunkieEmbeds",
+      "regex": "junkieembeds\\.pages\\.dev",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/junkie.js"
     }
   ]
 }
