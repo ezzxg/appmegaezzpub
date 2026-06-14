@@ -15,6 +15,12 @@ async function extract(url) {
         iframe.style.border = 'none';
         iframe.setAttribute('allow', 'autoplay; fullscreen');
         
+        // [NUEVO] El atributo sandbox es la CLAVE contra jnbhi.com.
+        // Permitimos scripts y el mismo origen (para JWPlayer), pero NO permitimos 
+        // 'allow-top-navigation' ni 'allow-popups'. 
+        // Esto BLOQUEA COMPLETAMENTE que el script de publicidad refresque o redirija la página!
+        iframe.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-presentation');
+        
         document.body.style.margin = '0';
         document.body.style.backgroundColor = '#000';
         document.body.appendChild(iframe);
