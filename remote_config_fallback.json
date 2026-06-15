@@ -2,7 +2,7 @@
     "url_channels": "https://appmegaezz.pages.dev/cana.json",
     "url_movies": "https://appmegaezz.pages.dev/peliculas.json",
     "url_series": "https://appmegaezz.pages.dev/series.json",
-    "url_agenda": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/agenda.json",
+    "url_agenda": "https://megaezz.site/app/agenda.json",
     "url_users": "http://vps-5182765-x.dattaweb.com/megaezzapp/u.json",
     "url_banner": "http://vps-5182765-x.dattaweb.com/megaezzapp/banner_prin.json",
     "url_version": "https://appmegaezz.pages.dev/version.json",
@@ -10,8 +10,8 @@
     "epg_urls": "https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml,https://www.open-epg.com/files/argentina4.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz",
     "max_sessions": "3",
     "max_sessions_mobile": "3",
-    "session_check_interval": "300000",
-    "session_timeout": "1800000",
+    "session_check_interval": "1800000",
+    "demo_check_interval": "60000",
     "force_refresh_timestamp": "0",
     "trending_title": "🎬NUEVOS ESTRENOS",
     "trending_content": "Spider-Noir, Barrabrava, Berlín y la dama del armiño, Jack Ryan de Tom Clancy: Guerra fantasma, The Punisher: La última muerte, Ápex, Te Van A Matar, Bolas arriba, La Casa de los Espiritus",
@@ -38,5 +38,7 @@
     "cat_map_musica": "musica, music, mtv, vh1, vibe, htv, vclassic",
     "cat_map_premium": "premium, hbo, pack, vips, universal",
     "cat_map_cultura": "documentales, cultura, history, discovery, natgeo",
-    "cat_map_internacional": "internacional,international,mundo,global,world"
+    "cat_map_internacional": "internacional,international,mundo,global,world",
+    "url_mundial_background": "https://i.ibb.co/nsTSqvCD/World-Cup-2026-umbrella-FTR-1.jpg"
+    
 }
