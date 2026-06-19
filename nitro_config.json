@@ -20,7 +20,8 @@
     "vod-limit",
     "stream-limit",
     "limit-vid",
-    "junkieembeds.pages.dev"
+    "junkieembeds.pages.dev",
+    "zstream.mov"
   ],
   "extractors": [
     {
@@ -67,6 +68,11 @@
       "name": "JunkieEmbeds",
       "regex": "junkieembeds\\.pages\\.dev",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/junkie.js"
+    },
+    {
+      "name": "zstream",
+      "regex": "zstream\\.mov/media/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zstream.js"
     }
   ]
 }
