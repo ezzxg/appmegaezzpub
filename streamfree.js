@@ -55,7 +55,15 @@ async function extract(url) {
             
             if (apiResp.is_external && apiResp.external_url) {
                 nitro.log("Stream externo encontrado.");
-                return resolve(apiResp.external_url);
+                let result = {
+                    url: apiResp.external_url,
+                    headers: {
+                        "Referer": baseUrl + "/",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                        "Origin": baseUrl
+                    }
+                };
+                return resolve(result);
             }
             
             let serverName = apiResp.server_name || 'origin';
@@ -72,7 +80,16 @@ async function extract(url) {
             if (p && p._t && p._e && p._n) {
                 m3u8Url += `?_t=${p._t}&_e=${p._e}&_n=${p._n}`;
                 nitro.log("URL M3U8 construida con exito.");
-                resolve(m3u8Url);
+                
+                let result = {
+                    url: m3u8Url,
+                    headers: {
+                        "Referer": baseUrl + "/",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                        "Origin": baseUrl
+                    }
+                };
+                resolve(result);
             } else {
                 // Si el token para la calidad no existe, forzamos WebView
                 nitro.log("Token para la calidad no encontrado. Usando WebView...");
