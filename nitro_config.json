@@ -20,7 +20,7 @@
     "vod-limit",
     "stream-limit",
     "limit-vid",
-    "junkieembeds.pages.dev",
+    "streamfree.app",
     "zstream.mov"
   ],
   "extractors": [
@@ -65,9 +65,9 @@
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/movie321.js"
     },
     {
-      "name": "JunkieEmbeds",
-      "regex": "junkieembeds\\.pages\\.dev",
-      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/junkie.js"
+      "name": "streamfree",
+      "regex": "streamfree\\.app/embed/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamfree.js"
     },
     {
       "name": "zstream",
