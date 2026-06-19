@@ -1,13 +1,10 @@
 async function extract(url) {
     return new Promise((resolve, reject) => {
         try {
-            nitro.log("Iniciando extraccion de JunkieEmbeds (via Fetch+Write con Parche de Texto)...");
+            nitro.log("Iniciando extraccion de JunkieEmbeds (via Iframe-SrcDoc + Spoofing de Referrer)...");
             
-            // 1. Definir referer falso en el prototipo del Documento
-            Object.defineProperty(Document.prototype, 'referrer', {
-                get: function() { return "https://timstreams.net/"; },
-                configurable: true
-            });
+            // 1. Limpiar el cuerpo por si acaso
+            document.body.innerHTML = '';
 
             // 2. Fetch HTML con cabeceras correctas
             let headers = JSON.stringify({
@@ -38,23 +35,48 @@ async function extract(url) {
                 html = '<base href="' + baseUrl + '">' + html;
             }
             
-            // Forzar a la pagina a creer que es un Iframe 
-            html = html.replace(/window\.self\s*!==\s*window\.top/g, 'true');
-            html = html.replace(/window\.self\s*===\s*window\.top/g, 'false');
-
-            // 4. ELIMINAR EL SCRIPT MALICIOSO DE RAIZ
-            // La etiqueta script estaba directamente en el texto HTML. 
-            // Reemplazamos su nombre para que cargue un archivo que no existe (Error 404) y muera ahí.
+            // ELIMINAR EL SCRIPT MALICIOSO DE RAIZ
             html = html.replace(/disable-devtool/g, 'falso-archivo');
 
-            // 5. Inyectar HTML parcheado
-            document.open();
-            document.write(html);
-            document.close();
-            
-            nitro.log("HTML inyectado. Script malicioso eliminado. Esperando M3U8...");
+            // 4. Crear el Iframe
+            let iframe = document.createElement('iframe');
+            iframe.style.width = '100%';
+            iframe.style.height = '100%';
+            iframe.style.border = 'none';
+            document.body.appendChild(iframe);
 
-            // 6. Timeout
+            // 5. Configurar el entorno DENTRO del Iframe ANTES de inyectar
+            let idoc = iframe.contentDocument || iframe.contentWindow.document;
+            let iwin = iframe.contentWindow;
+
+            // Falsificar el Referrer DENTRO del iframe
+            Object.defineProperty(idoc.constructor.prototype, 'referrer', {
+                get: function() { return "https://timstreams.net/"; },
+                configurable: true
+            });
+
+            // Silenciar la consola dentro del iframe por seguridad extra
+            const noop = function(){};
+            const fakeConsole = { log: noop, warn: noop, error: noop, info: noop, debug: noop, clear: noop };
+            try {
+                Object.defineProperty(iwin, 'console', {
+                    value: Object.freeze(fakeConsole),
+                    writable: false,
+                    configurable: false
+                });
+            } catch(e) {
+                iwin.console.log = noop;
+            }
+
+            // 6. Inyectar HTML en el Iframe
+            // Al usar document.write en un iframe, Chrome NO bloquea los scripts cross-site (a diferencia del Main Frame)
+            idoc.open();
+            idoc.write(html);
+            idoc.close();
+            
+            nitro.log("HTML inyectado en IFRAME. Script malicioso eliminado. Esperando M3U8...");
+
+            // 7. Timeout
             setTimeout(() => {
                 reject("Timeout: No se detectó M3U8 en JunkieEmbeds");
             }, 30000);
