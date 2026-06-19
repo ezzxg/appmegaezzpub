@@ -1,55 +1,35 @@
 async function extract(url) {
     return new Promise((resolve, reject) => {
         try {
-            nitro.log("Iniciando extraccion de JunkieEmbeds...");
+            nitro.log("Iniciando extraccion de JunkieEmbeds (via Iframe)...");
             
-            let html = nitro.fetch(url);
-            if (!html) return reject("Error obteniendo HTML");
+            // Limpiar el body del WebView
+            document.body.innerHTML = '';
+            document.body.style.backgroundColor = 'black';
+            document.body.style.margin = '0';
+            document.body.style.padding = '0';
             
-            // Inyectar <base> y rescatar querySelector NATIVO al mismísimo principio del <head>
-            // Esto vence al script inline de blast.js que hookea el DOM!
-            let inyeccionSalvavidas = `
-                <base href='https://junkieembeds.pages.dev/'>
-                <script>
-                    window._nq = document.querySelector.bind(document);
-                </script>
-            `;
+            // Crear un iframe para evadir la comprobación 'window.self === window.top'
+            // de junkieembeds. Al estar en un iframe, isIframed sera true.
+            let iframe = document.createElement('iframe');
+            iframe.style.width = "100%";
+            iframe.style.height = "100%";
+            iframe.style.border = "none";
+            iframe.setAttribute("allowfullscreen", "true");
+            iframe.src = url;
             
-            if (html.includes("<head>")) {
-                html = html.replace("<head>", "<head>" + inyeccionSalvavidas);
-            } else {
-                html = inyeccionSalvavidas + html;
-            }
+            document.body.appendChild(iframe);
             
-            // ELIMINAR LA TRAMPA!
-            html = html.replace(/<div id="embedBtn"[^>]*>[\s\S]*?<\/div>/g, "");
-            html = html.replace(/<div id="embedModal"[^>]*>[\s\S]*?<\/div>\s*<\/div>/g, "");
+            nitro.log("Iframe inyectado. Esperando resolucion nativa del WebView (.m3u8)...");
             
-            // Escribir el DOM limpio
-            document.open();
-            document.write(html);
-            document.close();
+            // No necesitamos hacer resolve() aqui porque NitroScriptEngine capturará 
+            // el .m3u8 directamente a traves de 'shouldInterceptRequest' 
+            // cuando el iframe comience la reproduccion.
             
-            let attempts = 0;
-            let clickTimer = setInterval(() => {
-                let qs = window._nq || document.querySelector.bind(document);
-                
-                let jwBtn = qs('.jw-display-icon-container') || qs('.vjs-big-play-button') || qs('button');
-                
-                if (jwBtn) {
-                    nitro.log("Junkie: Reproductor encontrado, forzando click...");
-                    jwBtn.click();
-                    
-                    if (window.jwplayer && typeof window.jwplayer === 'function') {
-                        try { window.jwplayer().play(); } catch(e) {}
-                    }
-                }
-                
-                if (++attempts > 150) { // 15 segundos
-                    clearInterval(clickTimer);
-                    reject("Timeout esperando el reproductor");
-                }
-            }, 100);
+            // Timeout de seguridad en caso de que no cargue nada
+            setTimeout(() => {
+                reject("Timeout: No se detectó M3U8 en JunkieEmbeds");
+            }, 30000);
             
         } catch(e) {
             reject(e.message);
