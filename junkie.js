@@ -1,7 +1,7 @@
 async function extract(url) {
     return new Promise((resolve, reject) => {
         try {
-            nitro.log("Iniciando extraccion de JunkieEmbeds (via Fetch+Write con Anti-DevTool bypass)...");
+            nitro.log("Iniciando extraccion de JunkieEmbeds (via Fetch+Write con Interceptor de Propiedades)...");
             
             // 1. Definir referer falso en el prototipo del Documento
             Object.defineProperty(Document.prototype, 'referrer', {
@@ -9,23 +9,32 @@ async function extract(url) {
                 configurable: true
             });
 
-            // 2. Bloquear inyeccion de scripts maliciosos (disable-devtool)
-            const origAppendChild = Node.prototype.appendChild;
-            Node.prototype.appendChild = function(child) {
-                if (child && child.tagName === 'SCRIPT' && child.src && child.src.includes('disable-devtool')) {
-                    nitro.log("🚫 Bloqueado script malicioso: " + child.src);
-                    return child; // Ignoramos la inyección
+            // 2. Interceptar HTMLScriptElement.prototype.src para anular 'disable-devtool'
+            const origSrcDesc = Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, 'src');
+            Object.defineProperty(HTMLScriptElement.prototype, 'src', {
+                set: function(val) {
+                    if (val && val.includes('disable-devtool')) {
+                        nitro.log("🚫 Script malicioso bloqueado en el Setter: " + val);
+                        val = 'about:blank';
+                    }
+                    if (origSrcDesc && origSrcDesc.set) {
+                        origSrcDesc.set.call(this, val);
+                    }
+                },
+                get: function() {
+                    if (origSrcDesc && origSrcDesc.get) return origSrcDesc.get.call(this);
+                    return this.getAttribute('src');
                 }
-                return origAppendChild.call(this, child);
-            };
+            });
 
-            const origInsertBefore = Node.prototype.insertBefore;
-            Node.prototype.insertBefore = function(child, ref) {
-                if (child && child.tagName === 'SCRIPT' && child.src && child.src.includes('disable-devtool')) {
-                    nitro.log("🚫 Bloqueado script malicioso: " + child.src);
-                    return child;
+            // Interceptar también setAttribute por si usan script.setAttribute('src', ...)
+            const origSetAttribute = Element.prototype.setAttribute;
+            Element.prototype.setAttribute = function(name, value) {
+                if (this.tagName === 'SCRIPT' && name.toLowerCase() === 'src' && value && value.includes('disable-devtool')) {
+                    nitro.log("🚫 Script malicioso bloqueado en setAttribute: " + value);
+                    value = 'about:blank';
                 }
-                return origInsertBefore.call(this, child, ref);
+                return origSetAttribute.call(this, name, value);
             };
 
             // 3. Fetch HTML con cabeceras correctas
@@ -57,7 +66,7 @@ async function extract(url) {
                 html = '<base href="' + baseUrl + '">' + html;
             }
             
-            // Forzar a la pagina a creer que es un Iframe
+            // Forzar a la pagina a creer que es un Iframe 
             html = html.replace(/window\.self\s*!==\s*window\.top/g, 'true');
             html = html.replace(/window\.self\s*===\s*window\.top/g, 'false');
 
