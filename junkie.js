@@ -1,41 +1,42 @@
 async function extract(url) {
     return new Promise((resolve, reject) => {
         try {
-            nitro.log("Iniciando extraccion de JunkieEmbeds (via Fetch+Write con Interceptor de Propiedades)...");
+            nitro.log("Iniciando extraccion de JunkieEmbeds (via Fetch+Write con Console Hack)...");
             
-            // 1. Definir referer falso en el prototipo del Documento
+            // 1. Deshabilitar y congelar la consola
+            // disable-devtool lanza trampas a la consola. En WebView, el WebChromeClient 
+            // serializa los objetos, disparando los getters y activando el bucle infinito.
+            // Si anulamos la consola, disable-devtool creerá que está cerrada.
+            const noop = function(){};
+            const fakeConsole = {
+                log: noop, warn: noop, error: noop, info: noop,
+                debug: noop, dir: noop, clear: noop, table: noop,
+                profile: noop, profileEnd: noop, count: noop,
+                time: noop, timeEnd: noop, trace: noop, group: noop,
+                groupEnd: noop, groupCollapsed: noop
+            };
+            
+            try {
+                Object.defineProperty(window, 'console', {
+                    value: Object.freeze(fakeConsole),
+                    writable: false,
+                    configurable: false
+                });
+            } catch(e) {
+                // Si no se puede redefinir toda la consola, anulamos sus métodos
+                window.console.log = noop;
+                window.console.warn = noop;
+                window.console.error = noop;
+                window.console.info = noop;
+                window.console.dir = noop;
+                window.console.clear = noop;
+            }
+
+            // 2. Definir referer falso en el prototipo del Documento
             Object.defineProperty(Document.prototype, 'referrer', {
                 get: function() { return "https://timstreams.net/"; },
                 configurable: true
             });
-
-            // 2. Interceptar HTMLScriptElement.prototype.src para anular 'disable-devtool'
-            const origSrcDesc = Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, 'src');
-            Object.defineProperty(HTMLScriptElement.prototype, 'src', {
-                set: function(val) {
-                    if (val && val.includes('disable-devtool')) {
-                        nitro.log("🚫 Script malicioso bloqueado en el Setter: " + val);
-                        val = 'about:blank';
-                    }
-                    if (origSrcDesc && origSrcDesc.set) {
-                        origSrcDesc.set.call(this, val);
-                    }
-                },
-                get: function() {
-                    if (origSrcDesc && origSrcDesc.get) return origSrcDesc.get.call(this);
-                    return this.getAttribute('src');
-                }
-            });
-
-            // Interceptar también setAttribute por si usan script.setAttribute('src', ...)
-            const origSetAttribute = Element.prototype.setAttribute;
-            Element.prototype.setAttribute = function(name, value) {
-                if (this.tagName === 'SCRIPT' && name.toLowerCase() === 'src' && value && value.includes('disable-devtool')) {
-                    nitro.log("🚫 Script malicioso bloqueado en setAttribute: " + value);
-                    value = 'about:blank';
-                }
-                return origSetAttribute.call(this, name, value);
-            };
 
             // 3. Fetch HTML con cabeceras correctas
             let headers = JSON.stringify({
@@ -75,7 +76,7 @@ async function extract(url) {
             document.write(html);
             document.close();
             
-            nitro.log("HTML inyectado y parcheado. Esperando M3U8...");
+            nitro.log("HTML inyectado y parcheado. Consola silenciada. Esperando M3U8...");
 
             // 6. Timeout
             setTimeout(() => {
