@@ -1,7 +1,7 @@
 async function extract(url) {
     return new Promise((resolve, reject) => {
         try {
-            nitro.log("Iniciando extraccion de JunkieEmbeds (via Iframe-SrcDoc + Spoofing de Referrer)...");
+            nitro.log("Iniciando extraccion de JunkieEmbeds (via Iframe-SrcDoc + Clic Interno)...");
             
             // 1. Limpiar el cuerpo por si acaso
             document.body.innerHTML = '';
@@ -40,8 +40,8 @@ async function extract(url) {
 
             // 4. Crear el Iframe
             let iframe = document.createElement('iframe');
-            iframe.style.width = '100%';
-            iframe.style.height = '100%';
+            iframe.style.width = '100vw';
+            iframe.style.height = '100vh';
             iframe.style.border = 'none';
             document.body.appendChild(iframe);
 
@@ -69,14 +69,32 @@ async function extract(url) {
             }
 
             // 6. Inyectar HTML en el Iframe
-            // Al usar document.write en un iframe, Chrome NO bloquea los scripts cross-site (a diferencia del Main Frame)
             idoc.open();
             idoc.write(html);
             idoc.close();
             
-            nitro.log("HTML inyectado en IFRAME. Script malicioso eliminado. Esperando M3U8...");
+            nitro.log("HTML inyectado en IFRAME. Esperando JWPlayer...");
 
-            // 7. Timeout
+            // 7. Clic Reactivo DENTRO del Iframe (El clicker de Kotlin no alcanza aquí)
+            let clickAttempts = 0;
+            let clickTimer = setInterval(() => {
+                try {
+                    let playBtn = idoc.querySelector('.jw-display-icon-container') ||
+                                  idoc.querySelector('.jw-video') ||
+                                  idoc.querySelector('video') ||
+                                  idoc.querySelector('div[role="button"]') ||
+                                  idoc.querySelector('button');
+                    
+                    if (playBtn) {
+                        nitro.log("👉 ¡Botón detectado en el Iframe! Simulando clic...");
+                        playBtn.click();
+                        clearInterval(clickTimer);
+                    }
+                } catch(e) {}
+                if (++clickAttempts > 150) clearInterval(clickTimer); // Timeout a los 30 seg
+            }, 200);
+
+            // 8. Timeout
             setTimeout(() => {
                 reject("Timeout: No se detectó M3U8 en JunkieEmbeds");
             }, 30000);
