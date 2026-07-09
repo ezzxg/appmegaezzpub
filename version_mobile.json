@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.0",
-  "versionCode": 1,
-  "downloadUrl": "URL_DE_TU_APK_MOVIL",
-  "changelog": "Versión inicial móvil.",
-  "forceUpdate": false,
-  "minVersionCode": 1
+  "versionName": "27.0",
+  "versionCode": 27,
+  "downloadUrl": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/m3gamovil.apk",
+  "changelog": "Actualización obligatoria: Nuevo sistema de sesiones centralizado.",
+  "forceUpdate": true,
+  "minVersionCode": 27
 }
