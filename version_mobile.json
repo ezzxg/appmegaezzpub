@@ -1,8 +1,8 @@
 {
-  "versionName": "27.0",
-  "versionCode": 27,
+  "versionName": "26.0",
+  "versionCode": 26,
   "downloadUrl": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/refs/heads/main/m3gamovil.apk",
   "changelog": "Actualización obligatoria: Nuevo sistema de sesiones centralizado.",
   "forceUpdate": true,
-  "minVersionCode": 27
+  "minVersionCode": 26
 }
