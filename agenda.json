@@ -86,16 +86,5 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Lanús vs San Lorenzo",
-        "subtitle": "Primera A Femenina",
-        "time": "15:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
     }
 ]
