@@ -1,57 +1,35 @@
 [
     {
-        "title": "GP Bélgica - Prácticas Libres #1",
-        "time": "08:30",
-        "subtitle": "Fórmula 1",
-        "channel_name": "Fox Sports AR",
-        "target_channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": "",
-        "category": "Automovilismo"
-    },
-    {
-        "title": "GP Bélgica - Prácticas Libres #2 ",
-        "time": "12:00",
-        "subtitle": "Fórmula 1",
-        "channel_name": "Fox Sports AR",
-        "target_channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": "",
-        "category": "Automovilismo"
-    },
-    {
-        "title": "San Lorenzo vs Deportivo Riestra",
-        "time": "18:45",
-        "subtitle": "Copa Argentina",
-        "channel_name": "TyC Sports HD",
-        "target_channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "title": "Nacional vs Tigre",
+        "time": "19:00",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
         "category": "Fútbol"
     },
     {
-        "title": "River Plate vs Aldosivi",
-        "time": "21:45",
-        "subtitle": "Copa Argentina",
-        "channel_name": "TyC Sports HD",
-        "target_channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Joel Mafauad vs. Elias Hidalgo",
-        "time": "22:00",
-        "subtitle": "ESPN KO",
-        "channel_name": "ESPN 2",
+        "title": "Universidad Central vs Santos",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN 2 AR",
         "target_channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "home_logo": "https://bestleague.world/img/box.png",
-        "away_logo": "",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Atlético Mineiro vs Bahía",
+        "time": "19:30",
+        "subtitle": "Brasileirao",
+        "channel_name": "Premiere 1 HD",
+        "target_channel_name": "Premiere 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
         "category": "Fútbol"
     }
 ]
