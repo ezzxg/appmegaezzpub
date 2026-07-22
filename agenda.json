@@ -1,35 +1,101 @@
 [
     {
-        "title": "Nacional vs Tigre",
+        "category": "Fútbol",
+        "title": "Medellín vs Vasco",
+        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "subtitle": "Copa Sudamericana",
         "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-        "category": "Fútbol"
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/f50g3b1678411414.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
     },
     {
-        "title": "Universidad Central vs Santos",
-        "time": "21:30",
+        "category": "Fútbol",
+        "title": "Lanús vs Cienciano",
         "subtitle": "Copa Sudamericana",
-        "channel_name": "ESPN AR",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
-        "category": "Fútbol"
+        "time": "21:30",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png"
     },
     {
-        "title": "Atlético Mineiro vs Bahía",
+        "category": "Fútbol",
+        "title": "Cristal vs Bragantino",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Coritiba vs Palmeiras",
+        "subtitle": "Brasileirao Serie A",
         "time": "19:30",
-        "subtitle": "Brasileirao",
-        "channel_name": "Premiere 1 HD",
-        "target_channel_name": "Premiere 1 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "category": "Fútbol"
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Internacional vs Cruzeiro",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Chapecoense vs Flamengo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "São Paulo vs Athletico PR",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tigre vs Rosario Central",
+        "subtitle": "Torneo Proyección",
+        "time": "15:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Lanús vs San Lorenzo",
+        "subtitle": "Primera A Femenina",
+        "time": "15:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
     }
 ]
