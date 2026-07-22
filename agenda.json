@@ -66,15 +66,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
     },
     {
-        "category": "Fútbol",
-        "title": "São Paulo vs Athletico PR",
-        "subtitle": "Brasileirao Serie A",
+        "title": "São Paulo vs Athletico Paranaense",
         "time": "21:30",
+        "subtitle": "Brasileirao Serie A",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
