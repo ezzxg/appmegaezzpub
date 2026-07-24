@@ -2,7 +2,7 @@
     {
         "title": "Gimnasia (M) vs Central Córdoba",
         "time": "16:45",
-        "subtitle": "Torneo Clausura",
+        "subtitle": "Torneo Clausura - Fecha 1",
         "channel_name": "TNT Sports AR (FL)",
         "target_channel_name": "TNT Sports AR (FL)",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
@@ -11,48 +11,48 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Racing vs Gimnasia (LP)",
-        "subtitle": "Torneo Clausura",
         "time": "19:00",
+        "subtitle": "Torneo Clausura - Fecha 1",
         "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Vélez vs Instituto",
-        "subtitle": "Torneo Clausura",
         "time": "19:00",
+        "subtitle": "Torneo Clausura - Fecha 1",
         "channel_name": "TNT Sports AR (FL)",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Huracán vs Banfield",
-        "subtitle": "Torneo Clausura",
         "time": "21:15",
+        "subtitle": "Torneo Clausura - Fecha 1",
         "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Platense vs Unión",
-        "subtitle": "Torneo Clausura",
         "time": "21:15",
+        "subtitle": "Torneo Clausura - Fecha 1",
         "channel_name": "TNT Sports AR (FL)",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
+        "category": "Fútbol"
     },
     {
         "title": "2 de Mayo vs Rubio Ñú",
