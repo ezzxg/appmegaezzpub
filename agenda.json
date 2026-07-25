@@ -44,50 +44,6 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png"
     },
     {
-        "title": "Estudiantes (BA) vs Ciudad Bolívar",
-        "time": "15:00",
-        "subtitle": "Primera Nacional",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tj6idn1766678690.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png",
-        "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Tristán Suárez vs Chacarita",
-        "subtitle": "Primera Nacional",
-        "time": "15:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/i4sx711677638374.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pjam301511624231.png"
-    },
-    {
-        "title": "Atlético Rafaela vs Nueva Chicago",
-        "time": "16:00",
-        "subtitle": "Primera Nacional",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v9b3yf1677638367.png/medium",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b37wr31677635658.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "San Martín (T) vs Temperley",
-        "time": "19:00",
-        "subtitle": "Primera Nacional",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xymq001532856832.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/48yf6p1517769378.png",
-        "category": "Fútbol"
-    },
-    {
         "title": "Montreal vs Inter Miami",
         "time": "20:30",
         "subtitle": "MLS",
