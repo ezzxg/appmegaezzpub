@@ -1,1 +1,101 @@
-[]
+[
+    {
+        "category": "Fútbol",
+        "title": "Tigre vs Nacional",
+        "subtitle": "Copa Sudamericana",
+        "time": "19:00",
+        "channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "target_channel_name": "ESPN AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png"
+    },
+    {
+        "title": "Santos vs UCV",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ok2ssk1766114071.png/medium",
+        "category": "Fútbol"
+    },
+    {
+        "title": "San Lorenzo vs Gimnasia (M)",
+        "time": "19:00",
+        "subtitle": "Torneo Clausura",
+        "channel_name": "ESPN Premium",
+        "target_channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Banfield vs Sarmiento",
+        "subtitle": "Torneo Clausura",
+        "time": "19:00",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Rosario Central vs Racing",
+        "subtitle": "Torneo Clausura",
+        "time": "21:15",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argentinos vs Estudiantes (RC)",
+        "subtitle": "Torneo Clausura",
+        "time": "21:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b6szbk1578822113.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boca vs Belgrano",
+        "subtitle": "Torneo Proyección",
+        "time": "17:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
+    },
+    {
+        "title": "Rubio Ñú vs Sp. Ameliano",
+        "time": "16:00",
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/49iqvp1611773192.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/g16ua11611773197.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "2 de Mayo vs Cerro Porteño",
+        "time": "18:30",
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
+        "category": "Fútbol"
+    }
+]
