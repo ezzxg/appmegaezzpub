@@ -1,55 +1,22 @@
 [
     {
-        "title": "Mirassol vs Clube Do Remo",
-        "time": "19:30",
-        "subtitle": "Brasileirao",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "category": "Fútbol"
-    },
-    {
         "title": "Internacional vs Flamengo",
         "time": "19:30",
         "subtitle": "Brasileirao",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Fluminense vs Bahia",
-        "time": "21:30",
-        "subtitle": "Brasileirao",
-        "channel_name": "Globo Int.",
-        "target_channel_name": "Globo Int.",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Vitoria vs Palmeiras",
-        "time": "21:30",
-        "subtitle": "Brasileirao",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "category": "Fútbol"
     },
     {
         "title": "Sp. Luqueño vs Sp. Trinidense",
         "time": "16:00",
         "subtitle": "Copa de Primera",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
         "category": "Fútbol"
