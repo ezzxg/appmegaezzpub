@@ -1,7 +1,9 @@
 {
-  "nitro_version": "55.120.0",
+  "nitro_version": "55.130.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
+    "streamtp99a.sbs",
+    "tudeporteshoy.xyz",
     "hglink.to",
     "hanerix.com",
     "premilkyway.com",
@@ -24,6 +26,11 @@
     "zstream.mov"
   ],
   "extractors": [
+    {
+      "name": "streamtp",
+      "regex": ".*(streamtp|global1\\.php).*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamtp.js"
+    },
     {
       "name": "hglink",
       "regex": "hglink\\.to/e/.*",
