@@ -1,112 +1,123 @@
 [
     {
-        "title": "Internacional vs Flamengo",
-        "time": "19:30",
-        "subtitle": "Brasileirao",
-        "channel_name": "FlowSports",
-        "target_channel_name": "FlowSports",
-        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Sp. Luqueño vs Sp. Trinidense",
-        "time": "16:00",
-        "subtitle": "Copa de Primera",
-        "channel_name": "Eventos Tigo",
-        "target_channel_name": "Eventos Tigo",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
-        "category": "Fútbol"
-    },
-    {
         "category": "Fútbol",
-        "title": "Vasco vs Medellín",
+        "title": "Grêmio vs Bolívar",
         "subtitle": "Copa Sudamericana",
         "time": "19:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png"
+    },
+    {
+        "title": "O'Higgins vs Boca",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
         "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f50g3b1678411414.png"
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/g44b1l1756095484.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
-        "title": "Cienciano vs Lanús",
+        "title": "Caracas vs Santa Fe",
         "subtitle": "Copa Sudamericana",
         "time": "21:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e87b3o1639000318.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png"
     },
     {
         "category": "Fútbol",
-        "title": "Bragantino vs Cristal",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Defensa y Justicia vs Riestra",
+        "title": "Talleres vs Vélez",
         "subtitle": "Torneo Clausura",
-        "time": "17:00",
-        "channel_name": "TNT Sports AR (FL)",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
-        "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Gimnasia (LP) vs River",
-        "subtitle": "Torneo Clausura",
-        "time": "19:15",
+        "time": "19:00",
         "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
     },
     {
         "category": "Fútbol",
-        "title": "Instituto vs Platense",
+        "title": "Independiente (M) vs Huracán",
         "subtitle": "Torneo Clausura",
-        "time": "21:30",
+        "time": "19:00",
         "channel_name": "TNT Sports AR (FL)",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png"
     },
     {
-        "title": "Nacional vs Olimpia",
-        "time": "18:30",
-        "subtitle": "Copa de Primera",
-        "channel_name": "Eventos Tigo",
-        "target_channel_name": "Eventos Tigo",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Barracas Central vs Aldosivi",
-        "time": "14:30",
+        "category": "Fútbol",
+        "title": "Independiente vs Newell’s",
         "subtitle": "Torneo Clausura",
-        "channel_name": "Espn Premium",
-        "target_channel_name": "Espn Premium",
+        "time": "21:15",
+        "channel_name": "ESPN Premium",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Central Córdoba vs Atlético Tucumán",
+        "subtitle": "Torneo Clausura",
+        "time": "21:15",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png"
+    },
+    {
+        "title": "Corinthians vs Athletico Paranaense",
+        "time": "19:30",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Coritiba vs Cruzeiro",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "San Lorenzo vs Guaraní",
+        "subtitle": "Primera Paraguay",
+        "time": "16:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Libertad vs Recoleta",
+        "subtitle": "Primera Paraguay",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png"
     }
 ]
