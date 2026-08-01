@@ -130,5 +130,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/byn6c21659694982.png/medium",
         "category": "Fútbol"
+    },
+    {
+        "title": "Vasco vs Fluminense",
+        "time": "17:30",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+        "category": "Fútbol"
     }
 ]
