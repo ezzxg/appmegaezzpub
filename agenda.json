@@ -135,9 +135,9 @@
         "title": "Vasco vs Fluminense",
         "time": "17:30",
         "subtitle": "Copa de Brasil",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "category": "Fútbol"
@@ -151,6 +151,17 @@
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Deportivo Maldonado vs Juve tud",
+        "time": "15:00",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
         "category": "Fútbol"
     }
 ]
