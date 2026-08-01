@@ -119,5 +119,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Porto vs Torreense",
+        "time": "16:15",
+        "subtitle": "Supercopa de Portugal",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/byn6c21659694982.png/medium",
+        "category": "Fútbol"
     }
 ]
