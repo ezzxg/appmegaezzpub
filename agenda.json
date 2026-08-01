@@ -141,5 +141,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Santos vs Remo",
+        "time": "21:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "category": "Fútbol"
     }
 ]
