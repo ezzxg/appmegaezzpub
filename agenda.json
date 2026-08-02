@@ -141,5 +141,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Wrexham vs Sunderland",
+        "time": "13:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Claro Sports",
+        "target_channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "category": "Fútbol"
     }
 ]
