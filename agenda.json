@@ -58,23 +58,23 @@
         "title": "Central Español vs Liverpool",
         "time": "15:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/small",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Nacional vs Progreso",
-        "subtitle": "Primera División Uruguay",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+4",
+        "target_channel_name": "Disney+4",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
+        "category": "Fútbol"
     },
     {
         "title": "Olimpia vs Rubio Ñú",
@@ -151,6 +151,39 @@
         "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Palmeiras vs Fortaleza",
+        "time": "16:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Liverpool vs Leeds United",
+        "time": "17:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Claro Sports",
+        "target_channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Chapecoense vs Cruzeiro",
+        "time": "18:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
         "category": "Fútbol"
     }
 ]
