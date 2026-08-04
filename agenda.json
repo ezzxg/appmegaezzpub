@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "category": "Fútbol",
+        "title": "Godoy Cruz vs Racing",
+        "subtitle": "Torneo Proyección",
+        "time": "15:00",
+        "channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+    }
+]
