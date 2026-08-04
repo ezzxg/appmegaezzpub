@@ -20,5 +20,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Boca Juniors vs Independiente Rivadavia",
+        "time": "19:00",
+        "subtitle": "Torneo Proyección",
+        "channel_name": "Tnt sports (FL)",
+        "target_channel_name": "Tnt sports (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/small",
+        "category": "Fútbol"
     }
 ]
