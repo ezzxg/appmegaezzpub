@@ -9,5 +9,16 @@
         "target_channel_name": "ESPN 2 AR",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+    },
+    {
+        "title": "Remos vs Santos",
+        "time": "21:30",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+        "category": "Fútbol"
     }
 ]
