@@ -20,5 +20,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "VitÓria vs Athletico Paranaense",
+        "time": "20:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "SporTV Brazil",
+        "target_channel_name": "SporTV Brazil",
+        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "category": "Fútbol"
     }
 ]
