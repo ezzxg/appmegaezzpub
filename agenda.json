@@ -1,123 +1,35 @@
 [
     {
         "category": "Fútbol",
-        "title": "Boca vs Estudiantes (LP)",
+        "title": "Unión vs Lanús",
         "subtitle": "Torneo Clausura",
         "time": "19:00",
         "channel_name": "TNT Sports AR (FL)",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Tigre vs Belgrano",
-        "subtitle": "Torneo Clausura",
-        "time": "21:15",
-        "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "target_channel_name": "ESPN Premium",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
-    },
-    {
-        "title": "Inter Miami vs San Luis",
-        "time": "20:30",
-        "subtitle": "Leagues Cup",
-        "channel_name": "Apple TV+",
-        "target_channel_name": "Apple TV+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2w3vja1503151371.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Estudiantes (RC) vs Lanús",
-        "time": "15:00",
-        "subtitle": "Torneo Proyección",
-        "channel_name": "ESPN 3 AR",
-        "target_channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b6szbk1578822113.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
-        "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Peñarol vs Wanderers",
-        "subtitle": "Primera División Uruguay",
+        "title": "Corinthians vs Internacional",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png"
-    },
-    {
-        "title": "Mallorca vs Psg",
-        "time": "16:00",
-        "subtitle": "Amistoso",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "AC Milan vs Inter",
-        "time": "08:00",
-        "subtitle": "Amistoso",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Chealsea vs Juventus",
-        "time": "08:30",
-        "subtitle": "Amistoso",
-        "channel_name": "Claro Sports",
-        "target_channel_name": "Claro Sports",
-        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
-        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "K-League All Star vs Manchester City",
-        "time": "08:00",
-        "subtitle": "Amistoso",
-        "channel_name": "ESPN 2 AR",
-        "target_channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/p9k1qn1628430716.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Arsenal vs Real Betis",
-        "time": "15:30",
-        "subtitle": "Amistoso",
-        "channel_name": "Claro Sports",
-        "target_channel_name": "Claro Sports",
-        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Fluminense vs Vasco",
-        "time": "21:30",
         "subtitle": "Copa de Brasil",
         "channel_name": "Dsports",
         "target_channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Bayern Munich vs Aston Villa",
+        "time": "21:30",
+        "subtitle": "Amistoso",
+        "channel_name": "Claro sports",
+        "target_channel_name": "Claro sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
         "category": "Fútbol"
     }
 ]
