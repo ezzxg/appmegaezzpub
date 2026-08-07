@@ -1,1 +1,222 @@
-[]
+[
+    {
+        "category": "Fútbol",
+        "title": "Atlético Tucumán vs Sarmiento",
+        "subtitle": "Torneo Clausura",
+        "time": "14:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Riestra vs Estudiantes (LP)",
+        "subtitle": "Torneo Clausura",
+        "time": "14:45",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Tigre vs River",
+        "subtitle": "Torneo Clausura",
+        "time": "17:00",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boca vs Vélez",
+        "subtitle": "Torneo Clausura",
+        "time": "19:15",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png"
+    },
+    {
+        "title": "Instituto vs Gimnasia (Mendoza)",
+        "time": "21:30",
+        "subtitle": "Torneo Clausura",
+        "channel_name": "ESPN Premium",
+        "target_channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Independiente vs Platense",
+        "subtitle": "Torneo Clausura",
+        "time": "21:30",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
+    },
+    {
+        "title": "Grêmio vs São Paulo",
+        "time": "16:00",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Remo vs Atlético Mineiro",
+        "subtitle": "Brasileirao Serie A",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Coritiba vs Chapecoense",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Botafogo vs Fluminense",
+        "subtitle": "Brasileirao Serie A",
+        "time": "21:00",
+        "channel_name": "Anal",
+        "channel_logo_url": "https://i.ibb.co/Kz9JjLMT/pngtree-18-icon-png-png-image-6034772.png",
+        "target_channel_name": "Anal",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
+    },
+    {
+        "title": "Inter Miami vs Monterrey",
+        "time": "21:00",
+        "subtitle": "Leagues Cup",
+        "channel_name": "Apple TV+",
+        "target_channel_name": "Apple TV+",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Central Español vs Progreso",
+        "time": "11:00",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Liverpool vs Albion",
+        "time": "15:00",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "City Torque vs Peñarol",
+        "subtitle": "Primera División Uruguay",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png"
+    },
+    {
+        "title": "Sp. Ameliano vs Cerro Porteño",
+        "time": "16:00",
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/g16ua11611773197.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "2 de Mayo vs Olimpia",
+        "subtitle": "Primera Paraguay",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png"
+    },
+    {
+        "title": "Juventus vs Inter Milan",
+        "time": "08:00",
+        "subtitle": "Amistoso",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Chelsea vs AC Milan",
+        "time": "09:00",
+        "subtitle": "Amistoso",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Ferencváros vs Real Madrid",
+        "time": "14:00",
+        "subtitle": "Amistoso",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wk17od1688115265.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "PSG vs Manchester United",
+        "time": "12:00",
+        "subtitle": "Amistoso",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+        "category": "Fútbol"
+    }
+]
