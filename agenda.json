@@ -36,9 +36,9 @@
         "title": "Bochum vs Hertha",
         "time": "15:30",
         "subtitle": "2. Bundesliga",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png/small",
         "category": "Fútbol"
