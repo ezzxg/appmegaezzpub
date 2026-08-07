@@ -75,5 +75,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Cerro Largo vs Juventud",
+        "time": "19:00",
+        "subtitle": "Liga Uruguaya",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Juventud Antoniana vs Alvarado",
+        "time": "22:00",
+        "subtitle": "Federal A",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jif6v1734116809.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+        "category": "Fútbol"
     }
 ]
