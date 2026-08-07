@@ -1,35 +1,35 @@
 [
     {
         "category": "Fútbol",
-        "title": "Unión vs Lanús",
+        "title": "Rosario Central vs Aldosivi",
         "subtitle": "Torneo Clausura",
-        "time": "19:00",
+        "time": "19:30",
         "channel_name": "TNT Sports AR (FL)",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png"
     },
     {
-        "title": "Corinthians vs Internacional",
-        "time": "20:00",
-        "subtitle": "Copa de Brasil",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "category": "Fútbol"
+        "category": "Fútbol",
+        "title": "Independiente (M) vs Estudiantes (RC)",
+        "subtitle": "Torneo Clausura",
+        "time": "21:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b6szbk1578822113.png"
     },
     {
-        "title": "VitÓria vs Athletico Paranaense",
-        "time": "20:00",
-        "subtitle": "Copa de Brasil",
-        "channel_name": "SporTV Brazil",
-        "target_channel_name": "SporTV Brazil",
-        "channel_logo_url": "https://i.ibb.co/3ZVHQjT/Spor-TV-2021.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "title": "Bayern Munich vs Aston Villa",
+        "time": "14:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Claro sports",
+        "target_channel_name": "Claro sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
         "category": "Fútbol"
     }
 ]
