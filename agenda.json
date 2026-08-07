@@ -31,5 +31,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Bochum vs Hertha Berlin",
+        "time": "15:30",
+        "subtitle": "2. Bundesliga",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
+        "category": "Fútbol"
     }
 ]
