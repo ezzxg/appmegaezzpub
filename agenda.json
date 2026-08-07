@@ -53,5 +53,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/s1ke3v1761710614.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Wycombe vs Stevenage",
+        "time": "15:45",
+        "subtitle": "EFL Carabao Cup",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/avi3bu1688678934.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
+        "category": "Fútbol"
     }
 ]
