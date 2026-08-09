@@ -132,15 +132,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Zwolle vs Ajax",
-        "subtitle": "Eredivisie",
         "time": "09:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Eredivisie",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -217,6 +217,17 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Arsenal vs Borussia Dortmund",
+        "time": "10:00",
+        "subtitle": "Emirates cup",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
         "category": "Fútbol"
     }
 ]
