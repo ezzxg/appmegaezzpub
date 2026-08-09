@@ -113,8 +113,8 @@
         "title": "Rotterdam vs Feyenoord",
         "time": "07:15",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
+        "channel_name": "DISNEY+ 1",
+        "target_channel_name": "Disney+1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png/small",
@@ -124,8 +124,8 @@
         "title": "Groningen vs Utrecht",
         "time": "09:30",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
+        "channel_name": "DISNEY+ 1",
+        "target_channel_name": "Disney+1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/f36qnp1666107447.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png/small",
@@ -206,6 +206,17 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Manchester city vs Atlético Madrid",
+        "time": "08:00",
+        "subtitle": "Amistoso",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
         "category": "Fútbol"
     }
 ]
