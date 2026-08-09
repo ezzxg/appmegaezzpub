@@ -77,23 +77,23 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Bragantino vs Corinthians",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 2 HD",
+        "target_channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "category": "Fútbol"
     },
     {
         "title": "Santos vs Athletico Paranaense",
         "time": "18:30",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "PREMIERE 3 HD",
+        "target_channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "category": "Fútbol"
@@ -143,17 +143,6 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Heerenveen vs Twente",
-        "subtitle": "Eredivisie",
-        "time": "11:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
         "title": "Danubio vs Cerro",
         "time": "11:00",
         "subtitle": "Primera División Uruguay",
@@ -176,15 +165,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Nacional vs Boston River",
-        "subtitle": "Primera División Uruguay",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+10",
+        "target_channel_name": "Disney+10",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
