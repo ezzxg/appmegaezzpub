@@ -229,5 +229,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Liverpool vs Monaco",
+        "time": "10:30",
+        "subtitle": "Amistoso",
+        "channel_name": "CLARO SPORTS",
+        "target_channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small",
+        "category": "Fútbol"
     }
 ]
