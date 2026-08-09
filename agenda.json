@@ -44,17 +44,6 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Cruzeiro vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
-        "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
-    },
-    {
         "title": "Bahia vs Vasco",
         "time": "16:00",
         "subtitle": "Brasileirao Serie A",
@@ -176,23 +165,23 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "San Lorenzo vs Luqueño",
-        "subtitle": "Primera Paraguay",
+        "title": "Sp. San Lorenzo vs Sp. Luqueño",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
-        "away_logo": ""
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yi6fi91579991071.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Club Nacional vs Guaraní",
         "time": "18:30",
         "subtitle": "Primera Paraguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png",
         "category": "Fútbol"
