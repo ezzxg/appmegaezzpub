@@ -22,15 +22,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Maldonado vs Racing",
-        "subtitle": "Primera División Uruguay",
+        "title": "Maldonado vs Racing (M)",
         "time": "19:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -42,5 +42,16 @@
         "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png"
+    },
+    {
+        "title": "Plymouth Argyle vs Exeter City",
+        "time": "16:00",
+        "subtitle": "Carabao Cup",
+        "channel_name": "DISNEY+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png/small",
+        "category": "Fútbol"
     }
 ]
