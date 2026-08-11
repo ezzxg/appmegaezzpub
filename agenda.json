@@ -1,57 +1,90 @@
 [
     {
-        "category": "Fútbol",
-        "title": "Banfield vs Belgrano",
-        "subtitle": "Torneo Clausura",
+        "title": "Johor Darul vs Chelsea",
+        "time": "08:00",
+        "subtitle": "AMISTOSO",
+        "channel_name": "Claro Sports",
+        "target_channel_name": "Claro Sports",
+        "channel_logo_url": "https://i.ibb.co/PZwS36H6/330px-Claro-Sports-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8cq3lk1752771555.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Fluminense vs Independiente Rivadavia",
         "time": "19:00",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Estudiantes (LP) vs Univ Católica",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Tolima vs Independiente del Valle",
+        "time": "21:30",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boca vs Recoleta",
+        "subtitle": "Copa Sudamericana",
+        "time": "19:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png"
+    },
+    {
+        "title": "Bolívar vs São Paulo",
+        "time": "21:30",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Talleres vs Lanús",
+        "subtitle": "Torneo Clausura",
+        "time": "21:00",
         "channel_name": "TNT Sports AR (FL)",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "target_channel_name": "TNT Sports AR (FL)",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Unión vs Central Córdoba",
-        "subtitle": "Torneo Clausura",
-        "time": "21:15",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png"
-    },
-    {
-        "title": "Maldonado vs Racing (M)",
-        "time": "19:00",
-        "subtitle": "Primera División Uruguay",
-        "channel_name": "DISNEY+1",
-        "target_channel_name": "Disney+1",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Libertad vs Trinidense",
-        "time": "18:30",
-        "subtitle": "Primera Paraguay",
-        "channel_name": "Eventos Tigo",
-        "target_channel_name": "Eventos Tigo",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/np5lsg1579989360.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oi8bxo1766423607.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Plymouth Argyle vs Exeter City",
-        "time": "16:00",
-        "subtitle": "Carabao Cup",
-        "channel_name": "DISNEY+1",
-        "target_channel_name": "Disney+1",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png/small",
+        "title": "Juventus vs Palermo",
+        "time": "07:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
         "category": "Fútbol"
     }
 ]
