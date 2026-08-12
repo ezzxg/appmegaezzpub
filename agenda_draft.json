@@ -66,26 +66,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
-        "category": "Fútbol",
-        "title": "PSG vs Aston Villa",
-        "subtitle": "Supercopa Europea",
-        "time": "16:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Inter Miami vs León",
-        "subtitle": "Leagues Cup",
         "time": "20:30",
+        "subtitle": "Leagues Cup",
         "channel_name": "Apple TV+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Apple TV+",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Newcastle vs Everton",
@@ -118,6 +107,39 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "PSG vs Aston Villa",
+        "time": "16:00",
+        "subtitle": "Supercopa de Europa",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "La Coruña vs Real Madrid",
+        "time": "16:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Olimpo vs Villa Mitre",
+        "time": "19:00",
+        "subtitle": "Federal A",
+        "channel_name": "Fox Sports 3 AR",
+        "target_channel_name": "Fox Sports 3 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew3.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/smg4f41704297909.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wth47o1678851818.png/small",
         "category": "Fútbol"
     }
 ]
