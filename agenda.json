@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "category": "Fútbol",
+        "title": "Racing vs Banfield",
+        "subtitle": "Torneo Clausura",
+        "time": "20:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Cagliari vs Arezzo",
+        "subtitle": "Copa de Italia",
+        "time": "13:30",
+        "channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "target_channel_name": "Dsports 2 HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Monza vs Avellino",
+        "subtitle": "Copa de Italia",
+        "time": "15:45",
+        "channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "target_channel_name": "Dsports 2 HD",
+        "home_logo": "",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Fiorentina vs Benevento",
+        "subtitle": "Copa de Italia",
+        "time": "16:15",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boston River vs Danubio",
+        "subtitle": "Primera División Uruguay",
+        "time": "19:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Recoleta vs 2 de Mayo",
+        "subtitle": "Primera Paraguay",
+        "time": "18:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png"
+    }
+]
