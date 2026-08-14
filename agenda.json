@@ -55,15 +55,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Recoleta vs 2 de Mayo",
-        "subtitle": "Primera Paraguay",
         "time": "18:30",
-        "channel_name": "Por Definir",
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
+        "category": "Fútbol"
     },
     {
         "title": "Parma vs Catania",
