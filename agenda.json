@@ -22,37 +22,37 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Monza vs Avellino",
-        "subtitle": "Copa de Italia",
         "time": "15:45",
-        "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
-        "target_channel_name": "Dsports 2 HD",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Fiorentina vs Benevento",
         "subtitle": "Copa de Italia",
-        "time": "16:15",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
-        "away_logo": ""
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/swsu5p1579724964.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "title": "Fiorentina vs Benevento",
+        "time": "16:15",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvwtpt1426870819.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Boston River vs Danubio",
-        "subtitle": "Primera División Uruguay",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -64,5 +64,38 @@
         "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png"
+    },
+    {
+        "title": "Parma vs Catania",
+        "time": "13:00",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mov8wk1677499346.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Galatasaray vs Çorum",
+        "time": "15:30",
+        "subtitle": "Superliga Turquía",
+        "channel_name": "DISNEY+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ivoq4l1679510278.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Wolverhampton vs Blackburn Rovers",
+        "time": "16:00",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png/small",
+        "category": "Fútbol"
     }
 ]
