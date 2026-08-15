@@ -220,15 +220,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Cerro vs Albion",
-        "subtitle": "Primera División Uruguay",
         "time": "10:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -242,26 +242,26 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png"
     },
     {
-        "category": "Fútbol",
         "title": "Racing vs Nacional",
-        "subtitle": "Primera División Uruguay",
         "time": "16:30",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Wanderers vs Cerro Largo",
-        "subtitle": "Primera División Uruguay",
         "time": "19:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f2lnua1580234598.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Guaraní vs Rubio Ñú",
