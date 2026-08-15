@@ -179,9 +179,9 @@
         "title": "Utrecht vs AZ",
         "time": "13:45",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+8",
+        "target_channel_name": "Disney+8",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
         "category": "Fútbol"
@@ -190,9 +190,9 @@
         "title": "Excelsior vs PSV",
         "time": "15:00",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+10",
+        "target_channel_name": "Disney+10",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
         "category": "Fútbol"
@@ -231,15 +231,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Juventud vs City Torque",
-        "subtitle": "Primera División Uruguay",
         "time": "13:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+5",
+        "target_channel_name": "Disney+5",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
+        "category": "Fútbol"
     },
     {
         "title": "Racing vs Nacional",
