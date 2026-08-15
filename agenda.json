@@ -306,5 +306,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Tottenham vs Hoffenheim",
+        "time": "11:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png",
+        "category": "Fútbol"
     }
 ]
