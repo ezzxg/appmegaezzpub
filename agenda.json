@@ -121,15 +121,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Nashville vs Inter Miami",
-        "subtitle": "MLS",
         "time": "21:30",
-        "channel_name": "Apple TV+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Apple TV+",
+        "subtitle": "MLS",
+        "channel_name": "MLS",
+        "target_channel_name": "MLS",
+        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "category": "Fútbol"
     },
     {
         "title": "Fluminense vs Palmeiras",
