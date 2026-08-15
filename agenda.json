@@ -350,5 +350,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Sheffield United vs Birmingham City",
+        "time": "13:30",
+        "subtitle": "Championship",
+        "channel_name": "Disney+7",
+        "target_channel_name": "Disney+7",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png/small",
+        "category": "Fútbol"
     }
 ]
