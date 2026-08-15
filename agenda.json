@@ -102,9 +102,9 @@
         "title": "Venecia vs Modena",
         "time": "15:45",
         "subtitle": "Copa de Italia",
-        "channel_name": "Dsports 2 HD",
-        "target_channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "channel_name": "Dsports +",
+        "target_channel_name": "Dsports +",
+        "channel_logo_url": "https://i.ibb.co/9m2JmzJ2/latest-1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/whytwt1708234121.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/93n2wm1656015823.png/small",
         "category": "Fútbol"
@@ -113,9 +113,9 @@
         "title": "Torino vs Carrarese",
         "time": "16:15",
         "subtitle": "Copa de Italia",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/njh6tl1651779724.png/small",
         "category": "Fútbol"
@@ -146,9 +146,9 @@
         "title": "Athletico Paranaense vs Bragantino",
         "time": "18:30",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
         "category": "Fútbol"
@@ -220,17 +220,6 @@
         "category": "Fútbol"
     },
     {
-        "title": "Cerro vs Albion",
-        "time": "10:00",
-        "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
-        "category": "Fútbol"
-    },
-    {
         "title": "Juventud vs City Torque",
         "time": "13:00",
         "subtitle": "Primera División Uruguay",
@@ -245,22 +234,11 @@
         "title": "Racing vs Nacional",
         "time": "16:30",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+13",
+        "target_channel_name": "Disney+13",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Wanderers vs Cerro Largo",
-        "time": "19:00",
-        "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f2lnua1580234598.png/small",
         "category": "Fútbol"
     },
     {
