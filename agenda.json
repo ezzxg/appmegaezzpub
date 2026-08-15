@@ -317,5 +317,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Newcastle vs Bayer Leverkusen",
+        "time": "11:00",
+        "subtitle": "Amistoso",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Borussia Dortmund vs Roma",
+        "time": "12:30",
+        "subtitle": "Amistoso",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+        "category": "Fútbol"
     }
 ]
