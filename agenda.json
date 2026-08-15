@@ -289,9 +289,9 @@
         "title": "Newcastle vs Bayer Leverkusen",
         "time": "11:00",
         "subtitle": "Amistoso",
-        "channel_name": "ESPN 2 AR",
-        "target_channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
         "category": "Fútbol"
