@@ -339,5 +339,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Inter Milan vs Resl Betis",
+        "time": "14:30",
+        "subtitle": "Amistoso",
+        "channel_name": "TyC Sports HD",
+        "target_channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+        "category": "Fútbol"
     }
 ]
