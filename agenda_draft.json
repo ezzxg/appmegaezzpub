@@ -55,15 +55,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Santander vs Villarreal",
-        "subtitle": "LALIGA EA SPORTS",
+        "title": "Racing de Santander vs Villarreal",
         "time": "12:00",
+        "subtitle": "LALIGA EA SPORTS",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png"
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -77,48 +77,48 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png"
     },
     {
-        "category": "Fútbol",
         "title": "Frosinone vs Juve Stabia",
-        "subtitle": "Copa de Italia",
         "time": "13:00",
+        "subtitle": "Copa de Italia",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/aojsvb1677257282.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Génova vs Ascoli",
-        "subtitle": "Copa de Italia",
+        "title": "Genoa vs Ascoli",
         "time": "13:30",
+        "subtitle": "Copa de Italia",
         "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "target_channel_name": "Dsports 2 HD",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mi2bsf1579708272.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Hellas Verona vs Virtus",
-        "subtitle": "Copa de Italia",
         "time": "15:45",
+        "subtitle": "Copa de Italia",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/c7yb5u1693457662.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Lazio vs Mantova",
-        "subtitle": "Copa de Italia",
         "time": "16:15",
+        "subtitle": "Copa de Italia",
         "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6mz7tb1648579351.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -187,70 +187,70 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
     },
     {
-        "category": "Fútbol",
         "title": "Lens vs PSG",
-        "subtitle": "Supercopa de Francia",
         "time": "15:45",
+        "subtitle": "Supercopa de Francia",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "ADO vs Groningen",
-        "subtitle": "Eredivisie",
+        "title": "ADO den haag vs Groningen",
         "time": "07:15",
+        "subtitle": "Eredivisie",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/25pb661770394991.png",
-        "away_logo": ""
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpvtqt1473534732.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f36qnp1666107447.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Twente vs Zwolle",
-        "subtitle": "Eredivisie",
         "time": "09:30",
+        "subtitle": "Eredivisie",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Feyenoord vs Go Ahead",
-        "subtitle": "Eredivisie",
         "time": "09:30",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Ajax vs Heerenveen",
         "subtitle": "Eredivisie",
-        "time": "11:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Besiktas vs Eyüp",
-        "subtitle": "Trendyol SüperLig",
+        "title": "Ajax vs Heerenveen",
+        "time": "11:45",
+        "subtitle": "Eredivisie",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/surtsx1473534841.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Besiktas vs Eyüpspor",
         "time": "15:30",
+        "subtitle": "Trendyol SüperLig",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
