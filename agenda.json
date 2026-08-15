@@ -328,5 +328,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Middlesbrough vs Lincoln Vity",
+        "time": "11:00",
+        "subtitle": "Championship",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Brentford vs Eintratch Frankfurt",
+        "time": "11:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Disney+4",
+        "target_channel_name": "Disney+4",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+        "category": "Fútbol"
     }
 ]
