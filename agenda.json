@@ -372,5 +372,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/a5cjf41662659789.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Gençlerbirliği vs Fenerbahçe",
+        "time": "15:30",
+        "subtitle": "Trendyol SüperLig",
+        "channel_name": "Disney+11",
+        "target_channel_name": "Disney+11",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
+        "category": "Fútbol"
     }
 ]
