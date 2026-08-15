@@ -328,5 +328,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Cerro vs Albion",
+        "time": "10:00",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
+        "category": "Fútbol"
     }
 ]
