@@ -350,5 +350,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Corinthians vs Cruzeiro",
+        "time": "19:30",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Win Sports +",
+        "target_channel_name": "Win Sports +",
+        "channel_logo_url": "https://i.ibb.co/Fq7K0xZ2/640px-Win-F-tbol-logo-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "category": "Fútbol"
     }
 ]
