@@ -339,5 +339,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/fk1fam1767928408.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y9j7hv1781237442.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Newcastle vs Racing Strasbourg",
+        "time": "12:00",
+        "subtitle": "Amistoso",
+        "channel_name": "Espn 5 AR",
+        "target_channel_name": "Espn 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png/small",
+        "category": "Fútbol"
     }
 ]
