@@ -81,7 +81,7 @@
         "time": "16:15",
         "subtitle": "Copa de Italia",
         "channel_name": "Dsports +",
-        "target_channel_name": "Dsposrts +",
+        "target_channel_name": "Dsports +",
         "channel_logo_url": "https://i.ibb.co/9m2JmzJ2/latest-1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
@@ -97,17 +97,6 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
         "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Samsun vs Göztepe",
-        "subtitle": "Trendyol SüperLig",
-        "time": "15:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
     },
     {
         "title": "Cardiff City vs Wrexam",
