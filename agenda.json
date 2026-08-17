@@ -66,48 +66,48 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Sassuolo vs Cesena",
-        "subtitle": "Copa de Italia",
         "time": "13:30",
+        "subtitle": "Copa de Italia",
         "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9l00zr1677256723.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Cremonese vs Sampdoria",
-        "subtitle": "Copa de Italia",
         "time": "15:45",
-        "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
-        "target_channel_name": "Dsports 2 HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Palermo vs Lecce",
         "subtitle": "Copa de Italia",
-        "time": "16:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "title": "Palermo vs Lecce",
+        "time": "16:15",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports +",
+        "target_channel_name": "Dsposrts +",
+        "channel_logo_url": "https://i.ibb.co/9m2JmzJ2/latest-1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Internacional vs Remo",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -119,5 +119,16 @@
         "target_channel_name": "Por Definir",
         "home_logo": "",
         "away_logo": ""
+    },
+    {
+        "title": "Cardiff City vs Wrexam",
+        "time": "16:00",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
+        "category": "Fútbol"
     }
 ]
