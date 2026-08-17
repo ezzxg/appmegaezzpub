@@ -1,1 +1,134 @@
-[]
+[
+    {
+        "category": "Fútbol",
+        "title": "Deportivo vs Elche",
+        "subtitle": "La Liga",
+        "time": "16:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Estudiantes (RC) vs Atlético Tucumán",
+        "subtitle": "Torneo Clausura",
+        "time": "14:45",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b6szbk1578822113.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Lanús vs Independiente",
+        "subtitle": "Torneo Clausura",
+        "time": "17:00",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Vélez vs Defensa y Justicia",
+        "subtitle": "Torneo Clausura",
+        "time": "19:15",
+        "channel_name": "TNT Sports AR (FL)",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
+        "target_channel_name": "TNT Sports AR (FL)",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Gimnasia (M) vs Talleres",
+        "subtitle": "Torneo Clausura",
+        "time": "21:30",
+        "channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "target_channel_name": "ESPN Premium",
+        "home_logo": "",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Deportivo vs Elche",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:00",
+        "channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Pisa vs Empoli",
+        "subtitle": "Copa de Italia",
+        "time": "13:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Sassuolo vs Cesena",
+        "subtitle": "Copa de Italia",
+        "time": "13:30",
+        "channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "target_channel_name": "Dsports 2 HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Cremonese vs Sampdoria",
+        "subtitle": "Copa de Italia",
+        "time": "15:45",
+        "channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "target_channel_name": "Dsports 2 HD",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "away_logo": ""
+    },
+    {
+        "category": "Fútbol",
+        "title": "Palermo vs Lecce",
+        "subtitle": "Copa de Italia",
+        "time": "16:15",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Internacional vs Remo",
+        "subtitle": "Brasileirao Serie A",
+        "time": "20:00",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Samsun vs Göztepe",
+        "subtitle": "Trendyol SüperLig",
+        "time": "15:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "",
+        "away_logo": ""
+    }
+]
