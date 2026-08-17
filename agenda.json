@@ -1,17 +1,6 @@
 [
     {
         "category": "Fútbol",
-        "title": "Deportivo vs Elche",
-        "subtitle": "La Liga",
-        "time": "16:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Estudiantes (RC) vs Atlético Tucumán",
         "subtitle": "Torneo Clausura",
         "time": "14:45",
@@ -44,26 +33,26 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
     },
     {
-        "category": "Fútbol",
         "title": "Gimnasia (M) vs Talleres",
-        "subtitle": "Torneo Clausura",
         "time": "21:30",
+        "subtitle": "Torneo Clausura",
         "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png"
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Deportivo vs Elche",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
+        "subtitle": "LALIGA EA SPORTS",
         "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png"
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://www.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
