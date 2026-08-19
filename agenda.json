@@ -77,26 +77,26 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Slovan B. vs Celje",
-        "subtitle": "Champions League",
+        "title": "Slovan Bratislava vs Celje",
         "time": "16:00",
+        "subtitle": "Champions League",
         "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "target_channel_name": "ESPN 3 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/amvs371681106952.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "NEC vs Bodo Glimt",
-        "subtitle": "Champions League",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Champions League",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -110,15 +110,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
-        "title": "Celtic vs Linz",
-        "subtitle": "Champions League",
+        "title": "Celtic vs Lask",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
-        "away_logo": ""
+        "subtitle": "Champions League",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
