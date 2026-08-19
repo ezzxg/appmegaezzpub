@@ -11,15 +11,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
     },
     {
-        "category": "Fútbol",
         "title": "Cerro Porteño vs Palmeiras",
-        "subtitle": "Copa Libertadores",
         "time": "19:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "target_channel_name": "Fox Sports AR",
+        "subtitle": "Copa Libertadores",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
