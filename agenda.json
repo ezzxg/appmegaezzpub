@@ -121,15 +121,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Atlético Madrid vs Málaga",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
+        "subtitle": "LALIGA EA SPORTS",
         "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
