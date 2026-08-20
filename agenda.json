@@ -33,15 +33,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
     },
     {
-        "category": "Fútbol",
         "title": "Olimpia vs Vasco",
-        "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
+        "subtitle": "Copa Sudamericana",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
