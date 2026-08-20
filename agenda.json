@@ -1,145 +1,68 @@
 [
     {
         "category": "Fútbol",
-        "title": "Coquimbo vs Platense",
+        "title": "LDU Quito vs Mirassol",
         "subtitle": "Copa Libertadores",
         "time": "19:00",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
-    },
-    {
-        "title": "Cerro Porteño vs Palmeiras",
-        "time": "19:00",
-        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports 2 AR",
-        "target_channel_name": "Fox Sports 2 AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
-        "category": "Fútbol"
+        "target_channel_name": "Fox Sports 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
     },
     {
         "category": "Fútbol",
-        "title": "Flamengo vs Cruzeiro",
+        "title": "Corinthians vs Rosario Central",
         "subtitle": "Copa Libertadores",
         "time": "21:30",
-        "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "target_channel_name": "Fox Sports AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+        "channel_name": "Telefe",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina-mediano.png",
+        "target_channel_name": "Telefe",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png"
     },
     {
         "category": "Fútbol",
-        "title": "Atlético Mineiro vs Bragantino",
+        "title": "Macará vs Santos",
         "subtitle": "Copa Sudamericana",
         "time": "19:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
-    },
-    {
-        "title": "City Torque vs Tigre",
-        "time": "21:30",
-        "subtitle": "Copa Sudamericana",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-        "category": "Fútbol"
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bretri1579959665.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
     },
     {
         "category": "Fútbol",
-        "title": "Santa Fe vs River",
+        "title": "Olimpia vs Vasco",
         "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "target_channel_name": "ESPN AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Racing vs Belgrano",
-        "subtitle": "Copa Argentina",
-        "time": "19:15",
-        "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
-        "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png"
-    },
-    {
-        "title": "Slovan Bratislava vs Celje",
-        "time": "16:00",
-        "subtitle": "Champions League",
-        "channel_name": "ESPN 3 AR",
-        "target_channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/amvs371681106952.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "NEC vs Bodo Glimt",
-        "time": "16:00",
-        "subtitle": "Champions League",
+        "time": "19:00",
         "channel_name": "ESPN 2 AR",
-        "target_channel_name": "ESPN 2 AR",
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png/small",
-        "category": "Fútbol"
+        "target_channel_name": "ESPN 2 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png"
     },
     {
-        "title": "Beer Sheva vs Sabah",
-        "time": "16:00",
-        "subtitle": "Champions League",
-        "channel_name": "Fox Sports 2 AR",
-        "target_channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ar5zft1781239007.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5cw7q91723051971.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Celtic vs Lask",
-        "time": "16:00",
-        "subtitle": "Champions League",
-        "channel_name": "Fox Sports AR",
-        "target_channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Atlético Madrid vs Málaga",
-        "time": "16:00",
-        "subtitle": "LALIGA EA SPORTS",
+        "category": "Fútbol",
+        "title": "Botafogo vs Cienciano",
+        "subtitle": "Copa Sudamericana",
+        "time": "21:30",
         "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png/small",
-        "category": "Fútbol"
+        "target_channel_name": "Dsports",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png"
     },
     {
-        "title": "Philadelphia vs Inter Miami",
-        "time": "20:30",
-        "subtitle": "MLS",
-        "channel_name": "MLS",
-        "target_channel_name": "MLS",
-        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "category": "Fútbol"
+        "category": "Fútbol",
+        "title": "Rayo Vallecano vs Alavés",
+        "subtitle": "LALIGA EA SPORTS",
+        "time": "16:00",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png"
     }
 ]
