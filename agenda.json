@@ -113,8 +113,8 @@
         "title": "GP: Paises Bajos - Clasificación Sprint",
         "time": "11:30",
         "subtitle": "Fórmula 1",
-        "channel_name": "Disney+2",
-        "target_channel_name": "Disney+2",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
         "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": "",
@@ -140,6 +140,28 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c3hmf51769917631.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "The Strongest vs Universitario de Vinto",
+        "time": "19:30",
+        "subtitle": "Primera División Bolivia",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syfk6e1703003459.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/snysxt1703001779.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Oriente Petrolero vs San Antonio Bulo Bulo",
+        "time": "21:30",
+        "subtitle": "Primera División Bolivia",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yfvkiz1774884306.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
         "category": "Fútbol"
     }
 ]
