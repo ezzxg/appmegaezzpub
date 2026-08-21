@@ -152,5 +152,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "GP Países Bajos - CAM ON Board Colapinto",
+        "time": "11:30",
+        "subtitle": "Fórmula 1",
+        "channel_name": "Eventos5",
+        "target_channel_name": "Eventos5",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
+        "away_logo": "",
+        "category": "Automovilismo"
     }
 ]
