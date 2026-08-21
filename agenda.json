@@ -141,27 +141,5 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c3hmf51769917631.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png/small",
         "category": "Fútbol"
-    },
-    {
-        "title": "GP Países Bajos - Cámara ON Board",
-        "time": "11:30",
-        "subtitle": "Fórmula 1",
-        "channel_name": "Eventos4",
-        "target_channel_name": "Eventos4",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": "",
-        "category": "Automovilismo"
-    },
-    {
-        "title": "GP Países Bajos - CAM ON Board Colapinto",
-        "time": "11:30",
-        "subtitle": "Fórmula 1",
-        "channel_name": "Eventos5",
-        "target_channel_name": "Eventos5",
-        "channel_logo_url": "",
-        "home_logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png",
-        "away_logo": "",
-        "category": "Automovilismo"
     }
 ]
