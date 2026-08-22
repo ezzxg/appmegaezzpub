@@ -256,11 +256,11 @@
         "title": "Fortuna vs AZ",
         "time": "11:30",
         "subtitle": "Eredivisie",
-        "channel_name": "Disney+10",
-        "target_channel_name": "Disney+10",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
         "category": "Fútbol"
     },
     {
@@ -372,5 +372,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "Anthony Hernandez vs Gregory Rodriguez",
+        "time": "17:00",
+        "subtitle": "UFC",
+        "channel_name": "Por definir",
+        "target_channel_name": "Por definir",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png",
+        "away_logo": "",
+        "category": "Fútbol"
     }
 ]
