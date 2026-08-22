@@ -157,11 +157,22 @@
         "title": "Oriente Petrolero vs San Antonio Bulo Bulo",
         "time": "21:30",
         "subtitle": "Primera División Bolivia",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
+        "channel_name": "eventos3",
+        "target_channel_name": "eventos3",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yfvkiz1774884306.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Manuel Exposito vs Chris Mecate",
+        "time": "22:00",
+        "subtitle": "ESPN Knockout",
+        "channel_name": "Espn 3 AR",
+        "target_channel_name": "Espn 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/small",
+        "away_logo": "",
+        "category": "Boxeo"
     }
 ]
