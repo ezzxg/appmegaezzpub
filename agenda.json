@@ -1,14 +1,14 @@
 [
     {
-        "category": "Fútbol",
         "title": "Gimnasia (LP) vs Gimnasia (M)",
-        "subtitle": "Torneo Clausura",
         "time": "16:00",
+        "subtitle": "Torneo Clausura",
         "channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "target_channel_name": "ESPN Premium",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
