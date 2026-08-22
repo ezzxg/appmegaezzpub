@@ -176,15 +176,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Parma vs Cagliari",
-        "subtitle": "Serie A Enilive",
         "time": "15:45",
-        "channel_name": "Por Definir",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Eventos4",
+        "target_channel_name": "Eventos4",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+        "category": "Fútbol"
     },
     {
         "title": "Inter Miami vs Toronto",
