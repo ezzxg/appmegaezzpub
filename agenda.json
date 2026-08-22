@@ -88,15 +88,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Nottingham Forest vs Leeds",
-        "subtitle": "Premier League",
         "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "Disney+8",
+        "target_channel_name": "Disney+8",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+        "category": "Fútbol"
     },
     {
         "title": "Brentford vs Tottenham",
