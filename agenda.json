@@ -361,5 +361,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "GP: Paises Bajos - Cam on Board COLAPINTO",
+        "time": "11:00",
+        "subtitle": "Fórmula 1",
+        "channel_name": "Eventos F1 2",
+        "target_channel_name": "Eventos F1 2",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
+        "away_logo": "",
+        "category": "Automovilismo"
     }
 ]
