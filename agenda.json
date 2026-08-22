@@ -154,15 +154,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Udinese vs Como",
-        "subtitle": "Serie A Enilive",
         "time": "13:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Disney+13",
+        "target_channel_name": "Disney+13",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+        "category": "Fútbol"
     },
     {
         "title": "Genoa vs Nápoles",
@@ -234,9 +234,9 @@
         "title": "Lens vs Auxerre",
         "time": "12:15",
         "subtitle": "Ligue 1 McDonald's",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+11",
+        "target_channel_name": "Disney+11",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png/small",
         "category": "Fútbol"
@@ -253,15 +253,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Fortuna vs AZ",
-        "subtitle": "Eredivisie",
         "time": "11:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Eredivisie",
+        "channel_name": "Disney+10",
+        "target_channel_name": "Disney+10",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png",
+        "category": "Fútbol"
     },
     {
         "title": "Fenerbahçe vs Konyaspor",
