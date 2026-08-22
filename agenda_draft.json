@@ -99,56 +99,56 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
     },
     {
-        "category": "Fútbol",
         "title": "Brentford vs Tottenham",
-        "subtitle": "Premier League",
         "time": "13:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Athletic Bilbao vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "12:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+        "category": "Fútbol"
     },
     {
         "title": "Valencia vs Celta Vigo",
         "time": "14:30",
         "subtitle": "LALIGA EA SPORTS",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Espanyol vs Real Madrid",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+        "category": "Fútbol"
     },
     {
         "title": "Inter Milan vs Monza",
         "time": "13:30",
         "subtitle": "Serie A Enilive",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Espn 2 AR",
+        "target_channel_name": "Espn 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
         "category": "Fútbol"
@@ -187,15 +187,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png"
     },
     {
-        "category": "Fútbol",
         "title": "Inter Miami vs Toronto",
-        "subtitle": "MLS",
         "time": "20:30",
-        "channel_name": "Apple TV+",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Apple TV+",
+        "subtitle": "MLS",
+        "channel_name": "MLS",
+        "target_channel_name": "MLS",
+        "channel_logo_url": "https://i.ibb.co/Fq5m6rhX/250px-MLS-crest-logo-RGB-gradient-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -220,15 +220,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png"
     },
     {
-        "category": "Fútbol",
         "title": "Cruzeiro vs Flamengo",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "FlowSports",
+        "target_channel_name": "Flowsports",
+        "channel_logo_url": "https://i.ibb.co/Qz2nf1X/logo-flow.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "category": "Fútbol"
     },
     {
         "title": "Lens vs Auxerre",
@@ -267,9 +267,9 @@
         "title": "Fenerbahçe vs Konyaspor",
         "time": "15:30",
         "subtitle": "Trendyol SüperLig",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rxwptr1448203413.png/small",
         "category": "Fútbol"
@@ -319,14 +319,58 @@
         "category": "Fútbol"
     },
     {
-        "title": "GP: Paises Bajos - Clasificación Sprint",
+        "title": "GP: Paises Bajos - Sprint",
         "time": "07:00",
         "subtitle": "Fórmula 1",
-        "channel_name": "Eventos F1",
-        "target_channel_name": "Eventos F1",
-        "channel_logo_url": "",
+        "channel_name": "eventos F1",
+        "target_channel_name": "eventos F1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
         "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "GP: Paises Bajos - Clasificación",
+        "time": "11:00",
+        "subtitle": "Fórmula 1",
+        "channel_name": "eventos f1",
+        "target_channel_name": "eventos f1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
+        "away_logo": "",
+        "category": "Automovilismo"
+    },
+    {
+        "title": "Borussia Dortmund vs Bayern Munich",
+        "time": "15:30",
+        "subtitle": "Supercopa Alemana",
+        "channel_name": "Espn 2 AR",
+        "target_channel_name": "Espn 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Lincoln City vs Portsmouth",
+        "time": "08:30",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "West Ham vs Charlton Athletic",
+        "time": "11:00",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png/small",
+        "category": "Fútbol"
     }
 ]
