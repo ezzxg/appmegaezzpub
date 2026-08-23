@@ -223,9 +223,9 @@
         "title": "Angers vs Lille",
         "time": "10:00",
         "subtitle": "Ligue 1 McDonald's",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+6",
+        "target_channel_name": "Disney+6",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
         "category": "Fútbol"
@@ -239,17 +239,6 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Rennes vs PSG",
-        "time": "15:45",
-        "subtitle": "Ligue 1 McDonald's",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
         "category": "Fútbol"
     },
     {
