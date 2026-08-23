@@ -77,15 +77,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Newcastle vs Liverpool",
-        "subtitle": "Premier League",
         "time": "12:30",
-        "channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos 1",
+        "target_channel_name": "Eventos 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+        "category": "Fútbol"
     },
     {
         "title": "Atlético Madrid vs Villarreal",
