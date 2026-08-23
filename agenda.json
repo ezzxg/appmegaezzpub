@@ -275,26 +275,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "City Torque vs Wanderers",
-        "subtitle": "Primera División Uruguay",
-        "time": "15:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Nacional vs Progreso",
-        "subtitle": "Primera División Uruguay",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
+        "category": "Fútbol"
     },
     {
         "title": "Olimpia vs Cerro Porteño",
