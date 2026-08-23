@@ -66,15 +66,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Manchester City vs Bournemouth",
-        "subtitle": "Premier League",
         "time": "10:00",
-        "channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
