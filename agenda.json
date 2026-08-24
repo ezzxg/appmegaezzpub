@@ -66,15 +66,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
     },
     {
-        "category": "Fútbol",
         "title": "Osasuna vs Levante UD",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "14:30",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "ESPN 4 AR",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
+        "category": "Fútbol"
     },
     {
         "title": "Málaga vs Deportivo",
@@ -113,9 +113,9 @@
         "title": "Botafogo vs Athletico Paranaense",
         "time": "20:00",
         "subtitle": "Brasileirao Serie A",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Premiere 1 HD",
+        "target_channel_name": "Premiere 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "category": "Fútbol"
