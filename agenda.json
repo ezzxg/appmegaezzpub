@@ -99,15 +99,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Roma vs Fiorentina",
-        "subtitle": "Serie A Enilive",
         "time": "15:45",
-        "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
-        "target_channel_name": "ESPN 2 AR",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+        "category": "Fútbol"
     },
     {
         "title": "Botafogo vs Athletico Paranaense",
