@@ -185,5 +185,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f36lst1730017502.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Deportivo Santani vs Recoleta",
+        "time": "16:00",
+        "subtitle": "Copa Paraguay",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ar1lk1611773164.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Cristobal Colon JAS vs Olimpia",
+        "time": "18:30",
+        "subtitle": "Copa Paraguay",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ejqh1k1730832201.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4pw11747937818.png",
+        "category": "Fútbol"
     }
 ]
