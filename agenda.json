@@ -207,5 +207,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ejqh1k1730832201.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "San Antonio Bulo Bulo vs The Strongest",
+        "time": "16:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos 7",
+        "target_channel_name": "Eventos 7",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syfk6e1703003459.png",
+        "category": "Fútbol"
     }
 ]
