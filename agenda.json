@@ -229,5 +229,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v976og1579799083.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7rtter1774884498.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Bloming vs Real Oruro",
+        "time": "21:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos 7",
+        "target_channel_name": "Eventos 7",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yo9i1w1764347774.png/small",
+        "category": "Fútbol"
     }
 ]
