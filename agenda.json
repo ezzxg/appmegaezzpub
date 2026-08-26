@@ -168,9 +168,9 @@
         "title": "Palmeiras vs Santos",
         "time": "21:30",
         "subtitle": "Copa de Brasil",
-        "channel_name": "Por definir",
-        "target_channel_name": "Por definir",
-        "channel_logo_url": "",
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "category": "Fútbol"
@@ -205,7 +205,7 @@
         "target_channel_name": "Eventos Tigo 2",
         "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ejqh1k1730832201.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4pw11747937818.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png/small",
         "category": "Fútbol"
     }
 ]
