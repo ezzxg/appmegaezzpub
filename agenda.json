@@ -218,5 +218,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syfk6e1703003459.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Real Potosí vs Real Tomayapo",
+        "time": "19:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos 7",
+        "target_channel_name": "Eventos 7",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v976og1579799083.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7rtter1774884498.png/small",
+        "category": "Fútbol"
     }
 ]
