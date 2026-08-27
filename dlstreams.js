@@ -27,56 +27,73 @@ async function _dlstreams_extract(url) {
         if (h) watchHost = h[1];
     } catch(e) {}
 
-    // 2. FETCH de la watch page para localizar el iframe del embed
-    const pageJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
-        "User-Agent": UA,
-        "Referer": "https://" + watchHost + "/",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-    }));
-
-    let pageHtml = "";
-    try { pageHtml = JSON.parse(pageJson || "{}").body || ""; } catch(e) {}
-    if (!pageHtml) { nitro.log("❌ [DLStreams] No se obtuvo la watch page"); nitro.onResult(JSON.stringify(null)); return null; }
-
-    // 3. Extraer el iframe <iframe src="https://...romponalis.st/premiumtv/daddy{N}.php?id={id}">
-    const iframeMatch = pageHtml.match(/<iframe[^>]*src=["']([^"']*romponalis\.st[^"']*|premiumtv\/daddy[^"']*)["']/i);
-    let embedUrl = iframeMatch ? iframeMatch[1] : null;
-    if (embedUrl && embedUrl.startsWith("//")) embedUrl = "https:" + embedUrl;
-    if (!embedUrl) {
-        // fallback: cualquier iframe .php?id=
-        const anyIframe = pageHtml.match(/<iframe[^>]*src=["']([^"']+\.php\?id=\d+)["']/i);
-        embedUrl = anyIframe ? anyIframe[1] : null;
-    }
-    if (!embedUrl) { nitro.log("⚠️ [DLStreams] No se encontró iframe de embed"); nitro.onResult(JSON.stringify(null)); return null; }
-    nitro.log("🎯 [DLStreams] Embed iframe: " + embedUrl);
-
-    // 4. Derivar el Referer EXACTO del embed host (el .m3u8 lo exige)
-    let embedHost = "hamis.romponalis.st";
+    // id del canal (para construir el embed directo)
+    let channelId = null;
     try {
-        const eh = embedUrl.match(/https?:\/\/([^\/]+)/);
-        if (eh) embedHost = eh[1];
+        const im = url.match(/[?&]id=(\d+)/) || url.match(/(\d+)\.php/);
+        if (im) channelId = im[1];
     } catch(e) {}
-    const referer = "https://" + embedHost + "/";
-    nitro.log("🎯 [DLStreams] Referer para el m3u8: " + referer);
 
-    // 5. FETCH del embed (con Referer de la watch page)
-    const embedJson = nitro.fetchFull(embedUrl, "GET", null, JSON.stringify({
-        "User-Agent": UA,
-        "Referer": "https://" + watchHost + "/",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
-    }));
-
+    // 2. VÍA RÁPIDA: probar el embed DIRECTAMENTE (ahorra la watch page de 640KB, ~5-6s)
+    //    El host del embed es estable (hamis.romponalis.st) y daddy/daddy4/daddy5
+    //    responden para cualquier id. Si uno tiene base64 válido, listo.
+    const EMBED_HOST = "hamis.romponalis.st";
+    const referer = "https://" + EMBED_HOST + "/";
     let embedHtml = "";
-    try { embedHtml = JSON.parse(embedJson || "{}").body || ""; } catch(e) {}
+    if (channelId) {
+        var variants = ["daddy4", "daddy", "daddy5"];
+        for (var vi = 0; vi < variants.length; vi++) {
+            var embedUrl = "https://" + EMBED_HOST + "/premiumtv/" + variants[vi] + ".php?id=" + channelId;
+            var embedJson = nitro.fetchFull(embedUrl, "GET", null, JSON.stringify({
+                "User-Agent": UA,
+                "Referer": "https://" + watchHost + "/",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            }));
+            var tmpHtml = "";
+            try { tmpHtml = JSON.parse(embedJson || "{}").body || ""; } catch(e) {}
+            if (tmpHtml && /atob\(["']([A-Za-z0-9+/=]+)["']\)/.test(tmpHtml)) {
+                embedHtml = tmpHtml;
+                nitro.log("🎯 [DLStreams] Vía rápida: embed directo " + variants[vi] + ".php?id=" + channelId);
+                break;
+            }
+        }
+    }
+
+    // 3. FALLBACK: si la vía rápida no dio, leer la watch page para localizar el iframe
+    if (!embedHtml) {
+        nitro.log("⚠️ [DLStreams] Vía rápida sin éxito, leyendo watch page...");
+        const pageJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
+            "User-Agent": UA,
+            "Referer": "https://" + watchHost + "/",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }));
+        let pageHtml = "";
+        try { pageHtml = JSON.parse(pageJson || "{}").body || ""; } catch(e) {}
+        if (!pageHtml) { nitro.log("❌ [DLStreams] No se obtuvo la watch page"); nitro.onResult(JSON.stringify(null)); return null; }
+        const iframeMatch = pageHtml.match(/<iframe[^>]*src=["']([^"']*romponalis\.st[^"']*|premiumtv\/daddy[^"']*)["']/i);
+        let iframeUrl = iframeMatch ? iframeMatch[1] : null;
+        if (iframeUrl && iframeUrl.startsWith("//")) iframeUrl = "https:" + iframeUrl;
+        if (!iframeUrl) {
+            const anyIframe = pageHtml.match(/<iframe[^>]*src=["']([^"']+\.php\?id=\d+)["']/i);
+            iframeUrl = anyIframe ? anyIframe[1] : null;
+        }
+        if (!iframeUrl) { nitro.log("⚠️ [DLStreams] No se encontró iframe de embed"); nitro.onResult(JSON.stringify(null)); return null; }
+        const embedJson = nitro.fetchFull(iframeUrl, "GET", null, JSON.stringify({
+            "User-Agent": UA,
+            "Referer": "https://" + watchHost + "/",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+        }));
+        try { embedHtml = JSON.parse(embedJson || "{}").body || ""; } catch(e) {}
+    }
     if (!embedHtml) { nitro.log("❌ [DLStreams] No se obtuvo el embed"); nitro.onResult(JSON.stringify(null)); return null; }
 
-    // 6. Extraer el base64 de window.atob('...')   (comillas simples o dobles)
+    // 4. Extraer el base64 de window.atob('...')   (comillas simples o dobles)
     let b64 = null;
     const b64Match = embedHtml.match(/atob\(["']([A-Za-z0-9+/=]+)["']\)/);
     if (b64Match) b64 = b64Match[1];
     if (!b64) { nitro.log("⚠️ [DLStreams] No se encontró base64 atob en el embed"); nitro.onResult(JSON.stringify(null)); return null; }
 
-    // 7. Decodificar base64 -> m3u8
+    // 5. Decodificar base64 -> m3u8
     // Usar atob + decodeURIComponent/escape (robusto en WebView, el m3u8 es ASCII).
     let m3u8Url = null;
     try {
@@ -98,13 +115,13 @@ async function _dlstreams_extract(url) {
     }
     nitro.log("🎯 [DLStreams] m3u8 obtenido: " + m3u8Url);
 
-    // 8. Devolver URL + headers (Referer EXACTO del embed host)
+    // 6. Devolver URL + headers (Referer EXACTO del embed host)
     const result = {
         url: m3u8Url,
         headers: {
             "User-Agent": UA,
             "Referer": referer,
-            "Origin": "https://" + embedHost
+            "Origin": "https://" + EMBED_HOST
         }
     };
     nitro.log("✅ [DLStreams] Extracción exitosa, devolviendo con Referer");
