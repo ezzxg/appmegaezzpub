@@ -51,7 +51,7 @@
         "target_channel_name": "Eventos7",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/g7rlnw1618943620.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
         "category": "Fútbol"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
         "title": "Resistencia vs Cerro Porteño",
-        "time": "18;30",
+        "time": "18:30",
         "subtitle": "Copa Paraguay",
         "channel_name": "Eventos Tigo 2",
         "target_channel_name": "Eventos Tigo 2",
@@ -77,15 +77,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Estudiantes (LP) vs Barracas",
-        "subtitle": "Copa Argentina",
         "time": "19:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Copa Argentina",
+        "channel_name": "TyC Sports HD",
+        "target_channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+        "category": "Fútbol"
     },
     {
         "title": "Independiente Petrolero vs Guabirá",
@@ -110,25 +110,14 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Platense vs Instituto",
-        "subtitle": "Copa Argentina",
         "time": "21:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Copa Argentina",
+        "channel_name": "TyC Sports HD",
+        "target_channel_name": "TyC Sports HD",
+        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
-    },
-    {
-        "title": "Resistencia vs Cerro Porteño",
-        "time": "18:30",
-        "subtitle": "Copa Paraguay",
-        "channel_name": "Eventos Tigo 2",
-        "target_channel_name": "Eventos Tigo 2",
-        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9liee41652125663.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
         "category": "Fútbol"
     }
 ]
