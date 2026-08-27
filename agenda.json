@@ -66,6 +66,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Resistencia vs Cerro Porteño",
+        "time": "18;30",
+        "subtitle": "Copa Paraguay",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9liee41652125663.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
+        "category": "Fútbol"
+    },
+    {
         "category": "Fútbol",
         "title": "Estudiantes (LP) vs Barracas",
         "subtitle": "Copa Argentina",
@@ -110,14 +121,14 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png"
     },
     {
-        "title": "Bolívar vs Academia BB",
-        "time": "21:30",
-        "subtitle": "Primera Bolivia",
-        "channel_name": "Eventos7",
-        "target_channel_name": "Eventos7",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mbaccx1730933659.png/medium",
+        "title": "Resistencia vs Cerro Porteño",
+        "time": "18:30",
+        "subtitle": "Copa Paraguay",
+        "channel_name": "Eventos Tigo 2",
+        "target_channel_name": "Eventos Tigo 2",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9liee41652125663.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
         "category": "Fútbol"
     }
 ]
