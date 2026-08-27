@@ -26,7 +26,9 @@
     "zstream.mov",
     "dlstreams.st",
     "romponalis.st",
-    "phantemlis.top"
+    "phantemlis.top",
+    "streamxhd.com",
+    "futlivehd.com"
   ],
   "extractors": [
     {
@@ -88,6 +90,11 @@
       "name": "dlstreams",
       "regex": "dlstreams\\.st/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/dlstreams.js"
+    },
+    {
+      "name": "streamxhd",
+      "regex": "streamxhd\\.com/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamxhd.js"
     }
   ]
 }
