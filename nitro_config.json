@@ -23,7 +23,10 @@
     "stream-limit",
     "limit-vid",
     "streamfree.app",
-    "zstream.mov"
+    "zstream.mov",
+    "dlstreams.st",
+    "romponalis.st",
+    "phantemlis.top"
   ],
   "extractors": [
     {
@@ -80,6 +83,11 @@
       "name": "zstream",
       "regex": "zstream\\.mov/media/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/zstream.js"
+    },
+    {
+      "name": "dlstreams",
+      "regex": "dlstreams\\.st/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/dlstreams.js"
     }
   ]
 }
