@@ -99,6 +99,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Wrexham vs Birmingham City",
+        "time": "16:00",
+        "subtitle": "Championship",
+        "channel_name": "",
+        "target_channel_name": "",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Rio Ave vs Sporting",
         "time": "16:15",
         "subtitle": "Liga Portugal Betclic",
@@ -173,17 +184,6 @@
         "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/epmttr1678849271.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pjam301511624231.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Wrexham vs Birmingham City",
-        "time": "16:00",
-        "subtitle": "Championship",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png/small",
         "category": "Fútbol"
     }
 ]
