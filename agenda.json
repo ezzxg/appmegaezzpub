@@ -1,5 +1,16 @@
 [
     {
+        "title": "Eintracht Braunschweig vs Hertha BSC",
+        "time": "13:30",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lrrq0z1599820707.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Racing de Santander vs Elche",
         "time": "14:00",
         "subtitle": "LALIGA EA SPORTS",
