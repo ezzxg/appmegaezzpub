@@ -91,9 +91,9 @@
         "title": "Bournemouth vs Everton",
         "time": "11:00",
         "subtitle": "Premier League",
-        "channel_name": "ESPN AR",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
         "category": "Fútbol"
