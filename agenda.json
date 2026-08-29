@@ -278,8 +278,8 @@
         "title": "Galatasaray vs Göztepe",
         "time": "15:30",
         "subtitle": "Trendyol SüperLig",
-        "channel_name": "Eventos4",
-        "target_channel_name": "Eventos4",
+        "channel_name": "Eventos5",
+        "target_channel_name": "Eventos5",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jwk7o1513952059.png/small",
@@ -418,15 +418,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Atlético Mineiro vs Vitória",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "category": "Fútbol"
     },
     {
         "title": "Recoleta vs Olimpia",
@@ -451,15 +451,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "São Paulo vs Bragantino",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 3 HD",
+        "target_channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+        "category": "Fútbol"
     },
     {
         "title": "Inter Miami vs Montreal",
