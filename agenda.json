@@ -22,6 +22,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Middlesbrough vs West Bromwich",
+        "time": "08:30",
+        "subtitle": "Championship",
+        "channel_name": "ESPN 7",
+        "target_channel_name": "ESPN 7",
+        "channel_logo_url": "https://bestleague.world/img/espn7.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Elversberg vs Leverkusen",
         "time": "10:30",
         "subtitle": "Bundesliga",
