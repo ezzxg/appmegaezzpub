@@ -33,6 +33,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Chelsea vs Brighton",
+        "time": "10:00",
+        "subtitle": "Premier League",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Sunderland vs Fulham",
         "time": "10:00",
         "subtitle": "Premier League",
@@ -52,17 +63,6 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Chelsea vs Brighton",
-        "time": "10:00",
-        "subtitle": "Premier League",
-        "channel_name": "ESPN AR",
-        "target_channel_name": "ESPN AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
         "category": "Fútbol"
     },
     {
