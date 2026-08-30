@@ -330,15 +330,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Mirassol vs Palmeiras",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "category": "Fútbol"
     },
     {
         "title": "Grêmio vs Chapecoense",
