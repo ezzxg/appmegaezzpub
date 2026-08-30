@@ -286,15 +286,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Flamengo vs Botafogo",
-        "subtitle": "Brasileirao Serie A",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+        "category": "Fútbol"
     },
     {
         "title": "Celta Vigo vs Athletic Bilbao",
@@ -341,15 +341,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
     },
     {
-        "category": "Fútbol",
         "title": "Grêmio vs Chapecoense",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "category": "Fútbol"
     },
     {
         "title": "Cerro Largo vs Liverpool",
