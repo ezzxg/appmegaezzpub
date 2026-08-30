@@ -99,6 +99,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Telstar vs Ajax",
+        "time": "11:45",
+        "subtitle": "Eredivisie",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Real Madrid vs Málaga",
         "time": "12:00",
         "subtitle": "LALIGA EA SPORTS",
