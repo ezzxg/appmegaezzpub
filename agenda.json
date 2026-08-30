@@ -374,15 +374,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Bahia vs Internacional",
-        "subtitle": "Brasileirao Serie A",
         "time": "19:30",
-        "channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "category": "Fútbol"
     },
     {
         "title": "Independiente (M) vs Racing",
