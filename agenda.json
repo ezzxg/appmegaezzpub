@@ -11,23 +11,23 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Osasuna vs Getafe",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "14:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "DSPORTS",
+        "target_channel_name": "DSPORTS",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
+        "category": "Fútbol"
     },
     {
         "title": "Besiktas vs Çorum",
         "time": "15:30",
         "subtitle": "Trendyol SüperLig",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "ESPN 5",
+        "target_channel_name": "ESPN 5",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ivoq4l1679510278.png/small",
         "category": "Fútbol"
@@ -36,9 +36,9 @@
         "title": "Racing Montevideo vs Albion",
         "time": "15:30",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "DISNEY+1",
+        "target_channel_name": "DISNEY+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
         "category": "Fútbol"
@@ -55,37 +55,37 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Aston Villa vs Arsenal",
-        "subtitle": "Premier League",
         "time": "16:00",
-        "channel_name": "Disney+ Premium",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+        "category": "Fútbol"
     },
     {
         "title": "Benfica vs Estoril",
         "time": "16:15",
         "subtitle": "Liga Portugal Betclic",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "DSPORTS 2 HD",
+        "target_channel_name": "DSPORTS 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lq9h8m1628854051.png/small",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Barcelona vs Rayo Vallecano",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -110,45 +110,45 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png"
     },
     {
-        "category": "Fútbol",
         "title": "Los Andes vs Acassuso",
-        "subtitle": "Primera Nacional",
         "time": "19:00",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
+        "subtitle": "Primera Nacional",
+        "channel_name": "LPF 1",
+        "target_channel_name": "LPF 1",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yjfgav1626632717.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/81kew41677993637.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/81kew41677993637.png",
+        "category": "Fútbol"
     },
     {
         "title": "Comunicaciones vs Deportivo Merlo",
         "time": "19:00",
         "subtitle": "B Metropolitana",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "LPF 2",
+        "target_channel_name": "LPF 2",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/asdltq1678857586.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fali7v1626632772.png/small",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Remo vs Coritiba",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+        "category": "Fútbol"
     },
     {
         "title": "Gimnasia (J) vs Agropecuario",
         "time": "21:00",
         "subtitle": "Primera Nacional",
-        "channel_name": "LPF Play",
-        "target_channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "LPF 3",
+        "target_channel_name": "LPF 3",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jxpz51677637810.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jt027i1766678890.png",
         "category": "Fútbol"
