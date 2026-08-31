@@ -33,6 +33,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Amed SK vs Trabzonspor",
+        "time": "15:30",
+        "subtitle": "Trendyol SüperLig",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4fqdgh1783788571.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Racing Montevideo vs Albion",
         "time": "15:30",
         "subtitle": "Primera División Uruguay",
