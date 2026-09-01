@@ -64,5 +64,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Atlético Mineiro vs Cruzeiro",
+        "time": "21:00",
+        "subtitle": "Copa de Brasil",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "category": "Fútbol"
     }
 ]
