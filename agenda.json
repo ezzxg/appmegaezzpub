@@ -1,14 +1,14 @@
 [
     {
-        "category": "Fútbol",
         "title": "Parma vs Cremonese",
-        "subtitle": "Copa de Italia",
         "time": "13:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "category": "Fútbol"
     },
     {
         "title": "Torino vs Monza",
@@ -52,6 +52,17 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Stoke city vs Norwich City",
+        "time": "16:00",
+        "subtitle": "Championship",
+        "channel_name": "Fox Sports AR",
+        "target_channel_name": "Fox Sports AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lz89v21781718914.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png/small",
         "category": "Fútbol"
     }
 ]
