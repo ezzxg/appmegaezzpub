@@ -1,14 +1,14 @@
 [
     {
-        "category": "Fútbol",
         "title": "Sassuolo vs Frosinone",
-        "subtitle": "Copa de Italia",
         "time": "10:00",
-        "channel_name": "Dsports",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports HD CL",
+        "target_channel_name": "Dsports HD CL",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Udinese vs Venezia",
@@ -25,9 +25,9 @@
         "title": "Osnabruck vs Bayern Munich",
         "time": "15:45",
         "subtitle": "Copa de Alemania",
-        "channel_name": "",
-        "target_channel_name": "",
-        "channel_logo_url": "",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tjs2611565193747.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
         "category": "Fútbol"
@@ -66,15 +66,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Flamengo vs Mirassol",
-        "subtitle": "Brasileirao Serie A",
         "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
+        "category": "Fútbol"
     },
     {
         "title": "Colegiales vs Midland",
@@ -102,8 +102,8 @@
         "title": "Santos vs Palmeiras",
         "time": "21:30",
         "subtitle": "Copa de Brasil",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
+        "channel_name": "Dsports HD CL",
+        "target_channel_name": "Dsports HD CL",
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
