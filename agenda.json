@@ -251,5 +251,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1jif6v1734116809.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l53nr11734114727.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Andy Ruiz vs Damian Knyba",
+        "time": "21:00",
+        "subtitle": "ESPN Knockout",
+        "channel_name": "ESPN 4 AR",
+        "target_channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/small",
+        "away_logo": "",
+        "category": "Boxeo"
     }
 ]
