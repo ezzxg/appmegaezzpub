@@ -31,8 +31,8 @@ async function extract(url) {
         return null;
     }
 
-    // Buscar const playbackURL = "https://..."
-    const match = html.match(/const playbackURL\s*=\s*["']([^"']+)["']/);
+    // Buscar var|const playbackURL = "https://..."
+    const match = html.match(/(?:var|const)\s+playbackURL\s*=\s*["']([^"']+)["']/);
     if (!match || !match[1]) {
         nitro.log("⚠️ [tvf90] No se encontró playbackURL en el HTML");
         nitro.onResult(JSON.stringify(null));
