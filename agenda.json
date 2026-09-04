@@ -36,22 +36,11 @@
         "title": "Hannover 96 vs Karlsruher",
         "time": "13:30",
         "subtitle": "2. Bundesliga",
-        "channel_name": "Fox Sports 2 AR",
-        "target_channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Arminia Bielefeld vs St Pauli",
-        "time": "13:30",
-        "subtitle": "2. Bundesliga",
         "channel_name": "Eventos1",
         "target_channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xrrwpx1447591964.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png/small",
         "category": "Fútbol"
     },
     {
