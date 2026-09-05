@@ -132,15 +132,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Fulham vs Crystal Palace",
-        "subtitle": "Premier League",
         "time": "11:00",
-        "channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "Eventos8",
+        "target_channel_name": "Eventos8",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "category": "Fútbol"
     },
     {
         "title": "Athletic Bilbao vs Atlético Madrid",
@@ -547,6 +547,17 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yfvkiz1774884306.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/g7rlnw1618943620.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Burnley vs Bristol City",
+        "time": "11:00",
+        "subtitle": "Championship",
+        "channel_name": "FOX SPORTS 2 AR",
+        "target_channel_name": "FOX SPORTS 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png/small",
         "category": "Fútbol"
     }
 ]
