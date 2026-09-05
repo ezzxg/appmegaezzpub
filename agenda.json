@@ -537,5 +537,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
         "away_logo": "",
         "category": "Automovilismo"
+    },
+    {
+        "title": "Oriente Petrolero vs Always Ready",
+        "time": "20:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos7",
+        "target_channel_name": "Eventos7",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yfvkiz1774884306.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/g7rlnw1618943620.png",
+        "category": "Fútbol"
     }
 ]
