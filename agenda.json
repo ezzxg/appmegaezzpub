@@ -385,15 +385,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Bragantino vs Bahia",
-        "subtitle": "Brasileirao Serie A",
         "time": "16:00",
-        "channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Ev",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+        "category": "Fútbol"
     },
     {
         "title": "Guabirá vs Real Potosí",
@@ -531,9 +531,9 @@
         "title": "G.P Italia - Clasificación",
         "time": "11:00",
         "subtitle": "Fórmula 1",
-        "channel_name": "DAZN F1",
-        "target_channel_name": "Dazn F1",
-        "channel_logo_url": "",
+        "channel_name": "Canal 5 MX",
+        "target_channel_name": "Canal 5 MX",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
         "away_logo": "",
         "category": "Automovilismo"
