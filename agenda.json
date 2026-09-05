@@ -396,6 +396,17 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
     },
     {
+        "title": "Guabirá vs Real Potosí",
+        "time": "16:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos7",
+        "target_channel_name": "Eventos7",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/84bxl51579798562.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v976og1579799083.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Gimnasia (M) vs Boca",
         "time": "16:30",
         "subtitle": "Torneo Clausura",
@@ -426,6 +437,17 @@
         "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Aurora vs GV San José",
+        "time": "18:15",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos7",
+        "target_channel_name": "Eventos7",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nwqcop1706108669.png/small",
         "category": "Fútbol"
     },
     {
