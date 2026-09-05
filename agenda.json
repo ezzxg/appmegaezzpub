@@ -110,15 +110,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Brighton vs Leeds",
-        "subtitle": "Premier League",
         "time": "11:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Premier League",
+        "channel_name": "Disney+13",
+        "target_channel_name": "Disney+13",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+        "category": "Fútbol"
     },
     {
         "title": "Manchester City vs Coventry",
@@ -190,9 +190,9 @@
         "title": "Hull City vs Aston Villa",
         "time": "13:30",
         "subtitle": "Premier League",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
         "category": "Fútbol"
