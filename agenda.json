@@ -143,15 +143,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Espanyol vs Sevilla",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -220,15 +220,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Marsella vs Paris FC",
-        "subtitle": "Ligue 1 McDonald's",
+        "title": "Marsella vs París FC",
         "time": "15:45",
-        "channel_name": "Por Definir",
+        "subtitle": "Ligue 1 McDonald's",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Hamburgo vs Mainz",
