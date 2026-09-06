@@ -253,15 +253,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
-        "title": "Cerro vs Racing",
-        "subtitle": "Primera División Uruguay",
+        "title": "Cerro vs Racing Montevideo",
         "time": "10:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -338,6 +338,28 @@
         "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "G.P. Italia - Carrera",
+        "time": "10:00",
+        "subtitle": "Fórmula 1",
+        "channel_name": "DAZN F1",
+        "target_channel_name": "Dazn F1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/small",
+        "away_logo": "",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Birmingham vs Wolverhampton",
+        "time": "08:00",
+        "subtitle": "Championship",
+        "channel_name": "ESPN 7",
+        "target_channel_name": "ESPN 7",
+        "channel_logo_url": "https://bestleague.world/img/espn7.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
         "category": "Fútbol"
     }
 ]
