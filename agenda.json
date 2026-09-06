@@ -361,5 +361,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Tranzonspor vs Gençlerbirliği",
+        "time": "14:00",
+        "subtitle": "Superliga Turquía",
+        "channel_name": "ESPN 7",
+        "target_channel_name": "ESPN 7",
+        "channel_logo_url": "https://bestleague.world/img/espn7.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png/small",
+        "category": "Fútbol"
     }
 ]
