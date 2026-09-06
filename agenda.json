@@ -256,23 +256,23 @@
         "title": "Cerro vs Racing Montevideo",
         "time": "10:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png",
+        "channel_name": "Disney+10",
+        "target_channel_name": "Disney+10",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Central Esp. vs Def. Sporting",
-        "subtitle": "Primera División Uruguay",
+        "title": "Central Español vs Defensor Sporting",
         "time": "13:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -286,15 +286,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png"
     },
     {
-        "category": "Fútbol",
         "title": "Liverpool vs Boston River",
-        "subtitle": "Primera División Uruguay",
         "time": "19:30",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
+        "category": "Fútbol"
     },
     {
         "title": "Trinidense vs Olimpia",
