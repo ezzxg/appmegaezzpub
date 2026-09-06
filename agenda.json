@@ -198,15 +198,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png"
     },
     {
-        "category": "Fútbol",
         "title": "Botafogo vs Palmeiras",
-        "subtitle": "Brasileirao Serie A",
         "time": "18:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "category": "Fútbol"
     },
     {
         "title": "River vs Independiente (M)",
