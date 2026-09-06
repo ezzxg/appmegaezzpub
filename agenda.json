@@ -66,15 +66,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Valencia vs Barcelona",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "11:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "category": "Fútbol"
     },
     {
         "title": "Angers vs Rennes",
@@ -231,15 +231,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Hamburgo vs Mainz",
-        "subtitle": "Bundesliga",
         "time": "10:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Bundesliga",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
