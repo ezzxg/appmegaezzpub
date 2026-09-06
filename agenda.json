@@ -165,17 +165,6 @@
         "category": "Fútbol"
     },
     {
-        "title": "Cruzeiro vs Athletico Paranaense",
-        "time": "16:00",
-        "subtitle": "Brasileirao Serie A",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
-        "category": "Fútbol"
-    },
-    {
         "category": "Fútbol",
         "title": "Lanús vs Defensa y Justicia",
         "subtitle": "Torneo Clausura",
@@ -185,6 +174,17 @@
         "target_channel_name": "ESPN Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
+    },
+    {
+        "title": "Cruzeiro vs Athletico Paranaense",
+        "time": "16:00",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -371,6 +371,17 @@
         "channel_logo_url": "https://bestleague.world/img/espn7.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Internacional vs Santos",
+        "time": "16:00",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 3 HD",
+        "target_channel_name": "PREMIERE 3 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
         "category": "Fútbol"
     }
 ]
