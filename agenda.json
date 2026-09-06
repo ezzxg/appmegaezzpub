@@ -254,17 +254,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Heerenveen vs AZ",
-        "subtitle": "Eredivisie",
-        "time": "09:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syrkoa1734118369.png"
-    },
-    {
-        "category": "Fútbol",
         "title": "Cerro vs Racing",
         "subtitle": "Primera División Uruguay",
         "time": "10:00",
@@ -339,5 +328,16 @@
         "target_channel_name": "Por Definir",
         "home_logo": "",
         "away_logo": ""
+    },
+    {
+        "title": "Hertha Berlin vs Magdeburg",
+        "time": "08:30",
+        "subtitle": "2. Bundesliga",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png/small",
+        "category": "Fútbol"
     }
 ]
