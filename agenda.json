@@ -44,6 +44,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Hamburgo vs Mainz",
+        "time": "10:30",
+        "subtitle": "Bundesliga",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Coritiba vs Mirassol",
         "time": "11:00",
         "subtitle": "Brasileirao Serie A",
@@ -52,17 +63,6 @@
         "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Bologna vs Sassuolo",
-        "time": "13:00",
-        "subtitle": "Serie A Enilive",
-        "channel_name": "Disney+15",
-        "target_channel_name": "Disney+15",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
         "category": "Fútbol"
     },
     {
@@ -96,6 +96,17 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Bologna vs Sassuolo",
+        "time": "13:00",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Disney+15",
+        "target_channel_name": "Disney+15",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
         "category": "Fútbol"
     },
     {
@@ -143,6 +154,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Marsella vs París FC",
+        "time": "15:45",
+        "subtitle": "Ligue 1 McDonald's",
+        "channel_name": "Eventos2",
+        "target_channel_name": "Eventos2",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Espanyol vs Sevilla",
         "time": "16:00",
         "subtitle": "LALIGA EA SPORTS",
@@ -151,6 +173,17 @@
         "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Cruzeiro vs Athletico Paranaense",
+        "time": "16:00",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 2 HD",
+        "target_channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "category": "Fútbol"
     },
     {
@@ -174,17 +207,6 @@
         "target_channel_name": "ESPN Premium",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png"
-    },
-    {
-        "title": "Cruzeiro vs Athletico Paranaense",
-        "time": "16:00",
-        "subtitle": "Brasileirao Serie A",
-        "channel_name": "PREMIERE 2 HD",
-        "target_channel_name": "PREMIERE 2 HD",
-        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
-        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -217,28 +239,6 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Marsella vs París FC",
-        "time": "15:45",
-        "subtitle": "Ligue 1 McDonald's",
-        "channel_name": "Eventos2",
-        "target_channel_name": "Eventos2",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Hamburgo vs Mainz",
-        "time": "10:30",
-        "subtitle": "Bundesliga",
-        "channel_name": "ESPN 3 AR",
-        "target_channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png",
         "category": "Fútbol"
     },
     {
