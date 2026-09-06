@@ -99,15 +99,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Alavés vs Osasuna",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "13:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
+        "category": "Fútbol"
     },
     {
         "title": "Malaga vs Levante UD",
@@ -267,8 +267,8 @@
         "title": "Central Español vs Defensor Sporting",
         "time": "13:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
+        "channel_name": "Eventos1",
+        "target_channel_name": "Eventos1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
