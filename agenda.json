@@ -3,8 +3,8 @@
         "title": "NEC vs Excelsior",
         "time": "13:45",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
+        "channel_name": "Eredivisie 1",
+        "target_channel_name": "Eredivisie 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png/small",
@@ -30,6 +30,17 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4nogst1602773624.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Al-Ittihad vs Al-Fayha",
+        "time": "15:00",
+        "subtitle": "Saudí Pro League",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png/small",
         "category": "Fútbol"
     },
     {
@@ -108,16 +119,5 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
         "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Ittihad vs Fayha",
-        "subtitle": "Saudí Pro League",
-        "time": "15:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
     }
 ]
