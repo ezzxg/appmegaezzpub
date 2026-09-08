@@ -44,6 +44,28 @@
         "category": "Fútbol"
     },
     {
+        "title": "Crystal Palace vs Middlesbrough",
+        "time": "15:45",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+5",
+        "target_channel_name": "Disney+5",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Bournemouth vs Lincoln City",
+        "time": "15:45",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+6",
+        "target_channel_name": "Disney+6",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Porto vs Manchester City",
         "time": "16:00",
         "subtitle": "Champions League",
@@ -118,6 +140,17 @@
         "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Sunderland vs Hull City",
+        "time": "15:45",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+7",
+        "target_channel_name": "Disney+7",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
         "category": "Fútbol"
     }
 ]
