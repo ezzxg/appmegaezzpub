@@ -110,6 +110,28 @@
         "category": "Fútbol"
     },
     {
+        "title": "Millwall vs Newcastle",
+        "time": "16:00",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+12",
+        "target_channel_name": "Disney+12",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Bolton Wanderers vs West Ham",
+        "time": "16:00",
+        "subtitle": "Championship",
+        "channel_name": "Disney+13",
+        "target_channel_name": "Disney+13",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "ABB vs San Antonio Bulo Bulo",
         "time": "16:00",
         "subtitle": "Copa Bolivia",
