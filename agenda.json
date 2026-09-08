@@ -110,6 +110,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "ABB vs San Antonio Bulo Bulo",
+        "time": "16:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos entel",
+        "target_channel_name": "Eventos entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mbaccx1730933659.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Fluminense vs Platense",
         "time": "19:00",
         "subtitle": "Copa Libertadores",
