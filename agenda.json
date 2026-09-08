@@ -112,7 +112,7 @@
     {
         "title": "ABB vs San Antonio Bulo Bulo",
         "time": "16:00",
-        "subtitle": "Primera Bolivia",
+        "subtitle": "Copa Bolivia",
         "channel_name": "Eventos entel",
         "target_channel_name": "Eventos entel",
         "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
@@ -143,6 +143,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Aurora vs Real Potosí",
+        "time": "19:30",
+        "subtitle": "Copa Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+        "category": "Fútbol"
+    },
+    {
         "title": "Boca vs São Paulo",
         "time": "21:30",
         "subtitle": "Copa Sudamericana",
@@ -154,14 +165,14 @@
         "category": "Fútbol"
     },
     {
-        "title": "Sunderland vs Hull City",
-        "time": "15:45",
-        "subtitle": "Carabao Cup",
-        "channel_name": "Disney+7",
-        "target_channel_name": "Disney+7",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+        "title": "Aurora vs Real Potosí",
+        "time": "19:30",
+        "subtitle": "Copa Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v976og1579799083.png/small",
         "category": "Fútbol"
     }
 ]
