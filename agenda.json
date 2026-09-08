@@ -111,17 +111,6 @@
     },
     {
         "category": "Fútbol",
-        "title": "Utrecht vs Go Ahead",
-        "subtitle": "Eredivisie",
-        "time": "09:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
         "title": "Ittihad vs Fayha",
         "subtitle": "Saudí Pro League",
         "time": "15:00",
