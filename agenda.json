@@ -22,6 +22,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Al-Nassr vs Al-Abha",
+        "time": "15:00",
+        "subtitle": "Saudí Pro League",
+        "channel_name": "FOX DEPORTES",
+        "target_channel_name": "FOX DEPORTES",
+        "channel_logo_url": "https://i.ibb.co/VkzjWPZ/960px-FOX-Deportes-logo.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/e00pwe1677530619.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Defensores de Belgrano vs Los Andes",
         "time": "15:30",
         "subtitle": "Primera Nacional",
@@ -191,17 +202,6 @@
         "title": "Twente vs Telstar",
         "subtitle": "Eredivisie",
         "time": "13:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Nassr vs Abha",
-        "subtitle": "Saudí Pro League",
-        "time": "15:00",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
