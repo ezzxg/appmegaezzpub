@@ -99,15 +99,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
     },
     {
-        "category": "Fútbol",
         "title": "Chelsea vs Leeds",
-        "subtitle": "Carabao Cup",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+9",
+        "target_channel_name": "Disney+9",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+        "category": "Fútbol"
     },
     {
         "title": "Real Oruro vs Nacional Potosí",
@@ -124,9 +124,9 @@
         "title": "Moreirense vs Benfica",
         "time": "16:45",
         "subtitle": "Liga Portugal Betclic",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
         "category": "Fútbol"
