@@ -1,16 +1,5 @@
 [
     {
-        "title": "Independiente del Valle vs Flamengo",
-        "time": "21:30",
-        "subtitle": "Copa Libertadores",
-        "channel_name": "Fox Sports AR",
-        "target_channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "category": "Fútbol"
-    },
-    {
         "title": "Fenerbahçe vs Roma",
         "time": "13:45",
         "subtitle": "Champions League",
@@ -19,6 +8,17 @@
         "channel_logo_url": "https://bestleague.world/img/foxnew.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "PSV vs Shakhtar",
+        "time": "13:45",
+        "subtitle": "Champions Lueage",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
         "category": "Fútbol"
     },
     {
@@ -66,25 +66,25 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Ind. del Valle vs Flamengo",
-        "subtitle": "Copa Libertadores",
+        "title": "Independiente del Valle vs Flamengo",
         "time": "21:30",
+        "subtitle": "Copa Libertadores",
         "channel_name": "Fox Sports AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
         "target_channel_name": "Fox Sports AR",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png"
+        "channel_logo_url": "https://bestleague.world/img/foxnew.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Cienciano vs City Torque",
-        "subtitle": "Copa Sudamericana",
-        "time": "21:30",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",
-        "target_channel_name": "Dsports",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png"
+        "title": "PSV vs Shakhtar",
+        "time": "13:45",
+        "subtitle": "Champions Lueage",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sqrxsr1421791799.png/small",
+        "category": "Fútbol"
     }
 ]
