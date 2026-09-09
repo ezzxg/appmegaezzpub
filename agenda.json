@@ -207,16 +207,5 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
         "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Twente vs Telstar",
-        "subtitle": "Eredivisie",
-        "time": "13:45",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
     }
 ]
