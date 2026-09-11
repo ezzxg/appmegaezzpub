@@ -31,7 +31,9 @@
     "futlivehd.com",
     "tvf90.com",
     "ftlycdn7.b-cdn.net",
-    "ftlycdn10.b-cdn.net"
+    "ftlycdn10.b-cdn.net",
+    "sensa.com.ar",
+    "smt-usr-edge02.sensa.com.ar"
   ],
   "extractors": [
     {
@@ -103,6 +105,11 @@
       "name": "tvf90",
       "regex": "tvf90\\.com/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/tvf90.js"
+    },
+    {
+      "name": "sensa",
+      "regex": "sensa\\.com\\.ar/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/sensa.js"
     }
   ]
 }
