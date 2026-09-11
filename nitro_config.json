@@ -108,7 +108,7 @@
     },
     {
       "name": "sensa",
-      "regex": "sensa\\.com\\.ar/.*",
+      "regex": "sensa\\.com\\.ar.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/sensa.js"
     }
   ]
