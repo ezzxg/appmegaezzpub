@@ -18,40 +18,18 @@ async function extract(url) {
     }));
     const html = (JSON.parse(resp || "{}").body || "");
 
-    // Buscar hlsManifestUrl directamente en el HTML
     const hlsMatch = html.match(/"hlsManifestUrl"\s*:\s*"([^"]+)"/);
     if (hlsMatch) {
         let hlsUrl = hlsMatch[1].replace(/\\u0026/g, "&");
-
-        // Inyectar maxh/4320 y siu/1 que el servidor necesita
-        // Insertar antes de /file/index.m3u8
-        if (hlsUrl.includes("/file/index.m3u8") && !hlsUrl.includes("maxh/")) {
-            hlsUrl = hlsUrl.replace("/file/index.m3u8", "/maxh/4320/siu/1/file/index.m3u8");
-        }
-
+        nitro.log("YouTube HLS URL: " + hlsUrl.substring(0, 200));
         return {
             url: hlsUrl,
-            headers: {}
+            headers: {
+                "Referer": "https://www.youtube.com/",
+                "Origin": "https://www.youtube.com"
+            }
         };
     }
 
-    // Fallback
-    const prMatch = html.match(/var ytInitialPlayerResponse\s*=\s*(\{.+?\});(?:var|<\/script)/s);
-    if (prMatch) {
-        try {
-            const pr = JSON.parse(prMatch[1]);
-            const streaming = pr.streamingData;
-            if (streaming && streaming.hlsManifestUrl) {
-                let hlsUrl = streaming.hlsManifestUrl;
-                if (hlsUrl.includes("/file/index.m3u8") && !hlsUrl.includes("maxh/")) {
-                    hlsUrl = hlsUrl.replace("/file/index.m3u8", "/maxh/4320/siu/1/file/index.m3u8");
-                }
-                return {
-                    url: hlsUrl,
-                    headers: {}
-                };
-            }
-        } catch(e) {}
-    }
     return null;
 }
