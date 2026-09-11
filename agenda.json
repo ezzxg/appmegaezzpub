@@ -69,9 +69,9 @@
         "title": "AZ vs Willem II",
         "time": "15:00",
         "subtitle": "Eredivisie",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Eredivisie 1",
+        "target_channel_name": "Eredivisie 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png/small",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png/small",
         "category": "Fútbol"
@@ -80,9 +80,9 @@
         "title": "Unión Berlín vs Schalke 04",
         "time": "15:30",
         "subtitle": "Bundesliga",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Bundesliga 1",
+        "target_channel_name": "Bundesliga 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png/small",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png/small",
         "category": "Fútbol"
@@ -91,8 +91,8 @@
         "title": "Rennes vs Marsella",
         "time": "15:45",
         "subtitle": "Ligue 1 McDonald's",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
+        "channel_name": "Ligue 1 1",
+        "target_channel_name": "Ligue 1 1",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
@@ -195,17 +195,6 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Nurnberg vs Hannover 96",
-        "time": "13:30",
-        "subtitle": "2. Bundesliga",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png/small",
         "category": "Fútbol"
     }
 ]
