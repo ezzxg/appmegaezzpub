@@ -33,6 +33,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Nurnberg vs Hannover 96",
+        "time": "13:30",
+        "subtitle": "2. Bundesliga",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Faisaly vs Ittihad",
         "time": "12:45",
         "subtitle": "Saudí Pro League",
@@ -187,14 +198,14 @@
         "category": "Fútbol"
     },
     {
-        "title": "Boca vs Central Córdoba",
-        "time": "21:30",
-        "subtitle": "Torneo Clausura",
-        "channel_name": "ESPN Premium",
-        "target_channel_name": "ESPN Premium",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_premium-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
+        "title": "Nurnberg vs Hannover 96",
+        "time": "13:30",
+        "subtitle": "2. Bundesliga",
+        "channel_name": "Por Definir",
+        "target_channel_name": "Por Definir",
+        "channel_logo_url": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png/small",
         "category": "Fútbol"
     }
 ]
