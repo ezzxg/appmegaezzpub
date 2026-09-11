@@ -229,5 +229,16 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Maximiliano Maidana vs Luciano Baldor",
+        "time": "22:00",
+        "subtitle": "ESPN Knockout",
+        "channel_name": "ESPN 3 AR",
+        "target_channel_name": "ESPN 3 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/small",
+        "away_logo": "",
+        "category": "Boxeo"
     }
 ]
