@@ -231,6 +231,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "Real Potosí vs Oriente Petrolero",
+        "time": "21:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v976og1579799083.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yfvkiz1774884306.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Maximiliano Maidana vs Luciano Baldor",
         "time": "22:00",
         "subtitle": "ESPN Knockout",
