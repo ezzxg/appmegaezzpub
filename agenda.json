@@ -187,6 +187,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "San Antonio Bulo Bulo vs Aurora",
+        "time": "19:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Defensa y Justicia vs Gimnasia (M)",
         "time": "19:15",
         "subtitle": "Torneo Clausura",
@@ -229,16 +240,5 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/small",
         "away_logo": "",
         "category": "Boxeo"
-    },
-    {
-        "title": "San Antonio Bulo Bulo vs Aurora",
-        "time": "19:00",
-        "subtitle": "Primera Bolivia",
-        "channel_name": "Eventos Entel",
-        "target_channel_name": "Eventos Entel",
-        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/cy8orr1706108672.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
-        "category": "Fútbol"
     }
 ]
