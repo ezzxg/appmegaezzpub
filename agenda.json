@@ -198,6 +198,17 @@
         "category": "Automovilismo"
     },
     {
+        "title": "Watford vs Stoke City",
+        "time": "11:00",
+        "subtitle": "Championship",
+        "channel_name": "Disney+13",
+        "target_channel_name": "Dismey+13",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lz89v21781718914.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Osasuna vs Espanyol",
         "time": "11:15",
         "subtitle": "LALIGA EA SPORTS",
