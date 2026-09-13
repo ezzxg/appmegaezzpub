@@ -264,23 +264,23 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "PSV vs Sparta",
-        "subtitle": "Eredivisie",
         "time": "15:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Eredivisie",
+        "channel_name": "Eredivisie 2",
+        "target_channel_name": "Eredivisie 2",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/5cdsu21725984946.png/small",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Benfica vs Gil Vicente",
         "time": "14:00",
         "subtitle": "Liga Portugal Betclic",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png/small",
         "category": "Fútbol"
@@ -289,9 +289,9 @@
         "title": "Famalicão vs Sporting",
         "time": "16:30",
         "subtitle": "Liga Portugal Betclic",
-        "channel_name": "Dsports",
-        "target_channel_name": "Dsports",
-        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "channel_name": "Dsports 2 HD",
+        "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/a3f4er1563653256.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small",
         "category": "Fútbol"
