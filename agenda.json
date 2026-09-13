@@ -209,26 +209,26 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
     },
     {
-        "category": "Fútbol",
         "title": "Le Mans vs Lens",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "12:15",
+        "subtitle": "Ligue 1 McDonald's",
         "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wjhziv1700145026.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Brest vs PSG",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "15:45",
+        "subtitle": "Ligue 1 McDonald's",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -249,28 +249,6 @@
         "channel_name": "Disney+ Premium",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Disney+ Premium",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Excelsior vs Utrecht",
-        "subtitle": "Eredivisie",
-        "time": "07:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Heerenveen vs Telstar",
-        "subtitle": "Eredivisie",
-        "time": "09:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
         "home_logo": "",
         "away_logo": ""
     },
