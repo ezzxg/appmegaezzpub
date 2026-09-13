@@ -138,7 +138,7 @@
         "channel_name": "Fox Sports AR",
         "target_channel_name": "Fox Sports AR",
         "channel_logo_url": "https://bestleague.world/img/foxnew.png",
-        "home_logo": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/005bl71766678503.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/818q3i1578818850.png",
         "category": "Fútbol"
     },
@@ -242,15 +242,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Elversberg vs Bayern Múnich",
-        "subtitle": "Bundesliga",
+        "title": "Elversberg vs Bayern Munich",
         "time": "12:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Bundesliga",
+        "channel_name": "Bundesliga 1",
+        "target_channel_name": "Bundesliga 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png/small",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/z079go1677573926.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -286,15 +286,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Famalicão vs Sporting",
-        "subtitle": "Liga Portugal Betclic",
         "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png"
+        "subtitle": "Liga Portugal Betclic",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/a3f4er1563653256.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -319,15 +319,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Progreso vs Cerro",
-        "subtitle": "Primera División Uruguay",
         "time": "10:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "DISNEY+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xkxqtz1652126507.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -377,9 +377,9 @@
         "title": "Rubio Ñú vs Club Nacional",
         "time": "18:30",
         "subtitle": "Primera Paraguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7ekav81786254985.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
         "category": "Fútbol"
