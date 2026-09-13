@@ -383,5 +383,38 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tjs2611565193747.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/aszcmz1782623817.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Always Ready vs Guabirá",
+        "time": "16:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/g7rlnw1618943620.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/84bxl51579798562.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Universitario de Vinto vs Independiente Petrolero",
+        "time": "18:15",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/snysxt1703001779.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Real Tomayapo vd Bolivar",
+        "time": "20:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7rtter1774884498.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png/small",
+        "category": "Fútbol"
     }
 ]
