@@ -539,26 +539,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Wanderers vs Nacional",
-        "subtitle": "Primera División Uruguay",
         "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Chapecoense vs Internacional",
-        "subtitle": "Brasileirao Serie A",
-        "time": "17:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
+        "category": "Fútbol"
     },
     {
         "title": "Quilmes vs San Martín (SJ)",
@@ -619,9 +608,9 @@
         "title": "Cerro Largo vs Central Español",
         "time": "20:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
         "category": "Fútbol"
@@ -630,8 +619,8 @@
         "title": "Inter Miami vs Nashville",
         "time": "20:30",
         "subtitle": "MLS",
-        "channel_name": "MLS",
-        "target_channel_name": "MLS",
+        "channel_name": "SENSEI",
+        "target_channel_name": "SENSEI",
         "channel_logo_url": "https://i.imgur.com/TuV0b9r.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
