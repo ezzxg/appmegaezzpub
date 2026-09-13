@@ -55,15 +55,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Levante UD vs Barcelona",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "11:15",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -91,9 +91,9 @@
         "title": "Getafe vs Deportivo",
         "time": "13:30",
         "subtitle": "LALIGA EA SPORTS",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/62bvwv1783013156.png/small",
         "category": "Fútbol"
@@ -143,15 +143,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Real Sociedad vs Atlético Madrid",
-        "subtitle": "LALIGA EA SPORTS",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "LALIGA EA SPORTS",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -297,15 +297,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Benfica vs Gil Vicente",
-        "subtitle": "Liga Portugal Betclic",
         "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Liga Portugal Betclic",
+        "channel_name": "Dsports",
+        "target_channel_name": "Dsports",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -404,6 +404,17 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7ekav81786254985.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Osnabruck vs hertha Berlin",
+        "time": "08:30",
+        "subtitle": "2. Bundesliga",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tjs2611565193747.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/aszcmz1782623817.png/small",
         "category": "Fútbol"
     }
 ]
