@@ -36,23 +36,23 @@
         "title": "Lecce vs Monza",
         "time": "10:00",
         "subtitle": "Serie A Enilive",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Serie A 1",
+        "target_channel_name": "Serie A 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png/small",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png/small",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Lille vs Troyes",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "10:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
-        "home_logo": "",
-        "away_logo": ""
+        "subtitle": "Ligue 1 McDonald's",
+        "channel_name": "Ligue 1 1",
+        "target_channel_name": "Ligue 1 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png/small",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/sl5kzg1766617559.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -363,15 +363,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Def. Sporting vs Maldonado",
-        "subtitle": "Primera División Uruguay",
+        "title": "Defensor Sporting vs Maldonado",
         "time": "16:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -385,15 +385,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png"
     },
     {
-        "category": "Fútbol",
         "title": "Olimpia vs Luqueño",
-        "subtitle": "Primera Paraguay",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera Paraguay",
+        "channel_name": "Eventos Tigo",
+        "target_channel_name": "Eventos Tigo",
+        "channel_logo_url": "https://i.ibb.co/4nmmZmXD/330px-Tigo-Sports-2025.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tyfnp11765859175.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Rubio Ñú vs Club Nacional",
@@ -402,7 +402,7 @@
         "channel_name": "Por Definir",
         "target_channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7ekav81786254985.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
         "category": "Fútbol"
     }
