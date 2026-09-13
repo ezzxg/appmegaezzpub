@@ -154,15 +154,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Mirassol vs Vitória",
-        "subtitle": "Brasileirao Serie A",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 2 HD",
+        "target_channel_name": "PREMIERE 2 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -176,15 +176,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ksqyvk1517768491.png"
     },
     {
-        "category": "Fútbol",
         "title": "Flamengo vs Corinthians",
-        "subtitle": "Brasileirao Serie A",
         "time": "17:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -319,37 +319,37 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Juventud vs Danubio",
-        "subtitle": "Primera División Uruguay",
         "time": "13:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png",
+        "category": "Fútbol"
     },
     {
         "title": "Defensor Sporting vs Maldonado",
         "time": "16:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Peñarol vs Albion",
-        "subtitle": "Primera División Uruguay",
         "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+4",
+        "target_channel_name": "Disney+4",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
+        "category": "Fútbol"
     },
     {
         "title": "Olimpia vs Luqueño",
