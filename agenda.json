@@ -22,15 +22,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
     },
     {
-        "category": "Fútbol",
         "title": "Gaziantep vs Fenerbahçe",
-        "subtitle": "Trendyol SüperLig",
         "time": "14:00",
+        "subtitle": "Trendyol SüperLig",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsssxv1448200175.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
