@@ -99,15 +99,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png"
     },
     {
-        "category": "Fútbol",
         "title": "City Torque vs Liverpool",
-        "subtitle": "Primera División Uruguay",
         "time": "19:00",
+        "subtitle": "Primera División Uruguay",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/small",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
