@@ -11,15 +11,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
     },
     {
-        "category": "Fútbol",
         "title": "Como vs Parma",
-        "subtitle": "Serie A Enilive",
         "time": "13:30",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Serie A Enilive",
+        "channel_name": "Serie A 1",
+        "target_channel_name": "Serie A 1",
+        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png/small",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+        "category": "Fútbol"
     },
     {
         "title": "Gaziantep vs Fenerbahçe",
@@ -31,17 +31,6 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsssxv1448200175.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
         "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Defensores de Belgrano vs Deportivo Madryn",
-        "subtitle": "Primera Nacional",
-        "time": "15:30",
-        "channel_name": "LPF Play",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "LPF Play",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2recn1626207994.png"
     },
     {
         "title": "Inter Milan vs Udinese",
@@ -102,23 +91,23 @@
         "title": "City Torque vs Liverpool",
         "time": "19:00",
         "subtitle": "Primera División Uruguay",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/small",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Bahia vs Remo",
-        "subtitle": "Brasileirao Serie A",
         "time": "20:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
