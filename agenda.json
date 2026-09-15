@@ -55,23 +55,23 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
     },
     {
-        "category": "Fútbol",
         "title": "West Ham vs Fulham",
-        "subtitle": "Carabao Cup",
         "time": "15:45",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+        "category": "Fútbol"
     },
     {
         "title": "Reading vs Brentford",
         "time": "16:00",
         "subtitle": "Carabao Cup",
-        "channel_name": "Disney+ Premium",
-        "target_channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
         "category": "Fútbol"
@@ -80,23 +80,23 @@
         "title": "Ipswich Town vs Arsenal",
         "time": "16:00",
         "subtitle": "Carabao Cup",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "channel_name": "Disney+4",
+        "target_channel_name": "Disney+4",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Liverpool vs Tottenham",
-        "subtitle": "Carabao Cup",
         "time": "16:00",
-        "channel_name": "Disney+ Premium",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Disney+ Premium",
+        "subtitle": "Carabao Cup",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
