@@ -36,9 +36,9 @@
         "title": "Ajax vs Willem II",
         "time": "15:00",
         "subtitle": "Eredivisie",
-        "channel_name": "ESPN 4 AR",
-        "target_channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "channel_name": "Disney+6",
+        "target_channel_name": "Disney+6",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png/medium",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png/medium",
         "category": "Fútbol"
@@ -99,15 +99,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Fiorentina vs Pisa",
-        "subtitle": "Copa de Italia",
         "time": "16:00",
-        "channel_name": "Dsports",
-        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
-        "target_channel_name": "Dsports",
+        "subtitle": "Copa de Italia",
+        "channel_name": "Dsports +",
+        "target_channel_name": "Dsports +",
+        "channel_logo_url": "https://i.ibb.co/9m2JmzJ2/latest-1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
