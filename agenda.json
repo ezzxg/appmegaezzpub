@@ -209,15 +209,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Botafogo vs Grêmio",
-        "subtitle": "Brasileirao Serie A",
         "time": "19:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+        "category": "Fútbol"
     },
     {
         "title": "Corinthians vs Estudiantes (LP)",
@@ -228,6 +228,50 @@
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Inter Miami vs Cruz Azul",
+        "time": "21:00",
+        "subtitle": "Champions Cup",
+        "channel_name": "Canal 5 MX",
+        "target_channel_name": "Canal 5 MX",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Guabirá vs Aurora",
+        "time": "16:00",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/84bxl51579798562.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/9jmurg1579798447.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Nacional Potosí vs Always Ready",
+        "time": "19:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/exe2i31579798886.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/g7rlnw1618943620.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Blooming vs Universitario de Vinto",
+        "time": "21:30",
+        "subtitle": "Primera Bolivia",
+        "channel_name": "Eventos Entel",
+        "target_channel_name": "Eventos Entel",
+        "channel_logo_url": "https://i.ibb.co/pjWhNm3h/Logo-Entel-Gol.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/mslln91766423827.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/snysxt1703001779.png/small",
         "category": "Fútbol"
     }
 ]
