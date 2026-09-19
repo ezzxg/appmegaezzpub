@@ -113,9 +113,9 @@
         "title": "Eintracht vs Friburgo",
         "time": "10:30",
         "subtitle": "Bundesliga",
-        "channel_name": "Bundesliga 4",
-        "target_channel_name": "Bundesliga 4",
-        "channel_logo_url": "https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png/small",
+        "channel_name": "ESPN 5 AR",
+        "target_channel_name": "ESPN 5 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_5-mediano.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png/small",
         "category": "Fútbol"
@@ -363,15 +363,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
     },
     {
-        "category": "Fútbol",
         "title": "Atlético Mineiro vs Chapecoense",
-        "subtitle": "Brasileirao Serie A",
         "time": "16:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "PREMIERE 1 HD",
+        "target_channel_name": "PREMIERE 1 HD",
+        "channel_logo_url": "https://i.ibb.co/jP501GgP/330px-Premiere-2017-logo.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+        "category": "Fútbol"
     },
     {
         "title": "Libertad vs Ameliano",
