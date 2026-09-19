@@ -504,5 +504,27 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "category": "Fútbol"
+    },
+    {
+        "title": "Real Pilar vs Arsenal",
+        "time": "15:00",
+        "subtitle": "Primera B",
+        "channel_name": "LPF 1",
+        "target_channel_name": "LPF 1",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/h7bo2a1626208066.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/t5yzu71580842576.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "San Martin de Burzaco vs Laferrere",
+        "time": "15:00",
+        "subtitle": "Primera B",
+        "channel_name": "LPF 2",
+        "target_channel_name": "LPF 2",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j6flp21730784326.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qwtl8h1678855823.png/small",
+        "category": "Fútbol"
     }
 ]
