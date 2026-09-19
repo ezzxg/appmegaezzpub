@@ -11,28 +11,6 @@
         "category": "Fútbol"
     },
     {
-        "title": "Kaiserslautern vs Eintracht Braunschweig",
-        "time": "08:00",
-        "subtitle": "2. Bundesliga",
-        "channel_name": "Disney+1",
-        "target_channel_name": "Disney+1",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lrrq0z1599820707.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "Holstein Kiel vs Osnabruck",
-        "time": "08:00",
-        "subtitle": "2. Bundesliga",
-        "channel_name": "Disney+2",
-        "target_channel_name": "Disney+2",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/tjs2611565193747.png/small",
-        "category": "Fútbol"
-    },
-    {
         "title": "Tottenham vs Aston Villa",
         "time": "08:30",
         "subtitle": "Premier League",
@@ -515,16 +493,5 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
         "category": "Fútbol"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Istanbul vs Gençlerbirliği",
-        "subtitle": "Trendyol SüperLig",
-        "time": "14:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": ""
     }
 ]
