@@ -418,6 +418,17 @@
         "category": "Fútbol"
     },
     {
+        "title": "UFC - Preliminares",
+        "time": "18:00",
+        "subtitle": "UFC",
+        "channel_name": "UFC Eventos",
+        "target_channel_name": "UFC Eventos",
+        "channel_logo_url": "https://tvlibreonline.st/agenda/ufc.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/small",
+        "away_logo": "",
+        "category": "Otro"
+    },
+    {
         "title": "Cerro Porteño vs Rubio Ñú",
         "time": "18:30",
         "subtitle": "Primera Paraguay",
