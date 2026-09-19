@@ -537,5 +537,38 @@
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/5h4q3o1734569689.png/small",
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/km1lou1730784872.png/small",
         "category": "Fútbol"
+    },
+    {
+        "title": "Ferro vs Ciudad Bolivar",
+        "time": "15:30",
+        "subtitle": "Primera Nacional",
+        "channel_name": "LPF 4",
+        "target_channel_name": "LPF 4",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qv5l9p1578822488.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/mgsv551730785508.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "San Miguel vs All Boys",
+        "time": "15:30",
+        "subtitle": "Primera Nacional",
+        "channel_name": "LPF 5",
+        "target_channel_name": "LPF 5",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qa48v11714064966.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zo4vm01578824142.png",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Temperley vs Almagro",
+        "time": "16:00",
+        "subtitle": "Primera Nacional",
+        "channel_name": "LPF 6",
+        "target_channel_name": "LPF 6",
+        "channel_logo_url": "https://i.ibb.co/QFsYyndc/unnamed.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/48yf6p1517769378.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zv7sju1578825975.png",
+        "category": "Fútbol"
     }
 ]
