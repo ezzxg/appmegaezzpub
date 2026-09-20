@@ -264,15 +264,15 @@
         "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
     },
     {
-        "category": "Fútbol",
-        "title": "Athletico PR vs Bahia",
-        "subtitle": "Brasileirao Serie A",
+        "title": "Athletico Paranaense vs Bahia",
         "time": "19:30",
+        "subtitle": "Brasileirao Serie A",
         "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+        "category": "Fútbol"
     },
     {
         "title": "Auxerre vs Brest",
@@ -363,70 +363,70 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Porto vs Benfica",
+        "time": "16:30",
         "subtitle": "Liga Portugal Betclic",
-        "time": "16:30",
         "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
         "target_channel_name": "Dsports 2 HD",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/dsports2.webp",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Fenerbahçe vs Eyüp",
-        "subtitle": "Trendyol SüperLig",
         "time": "11:00",
-        "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
-        "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Amed vs Besiktas",
         "subtitle": "Trendyol SüperLig",
-        "time": "14:00",
         "channel_name": "Fox Sports 2 AR",
-        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
         "target_channel_name": "Fox Sports 2 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png/small",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
+        "title": "Amed vs Besiktas",
+        "time": "14:00",
+        "subtitle": "Trendyol SüperLig",
+        "channel_name": "Fox Sports 2 AR",
+        "target_channel_name": "Fox Sports 2 AR",
+        "channel_logo_url": "https://bestleague.world/img/foxnew2.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/4fqdgh1783788571.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png/small",
+        "category": "Fútbol"
+    },
+    {
         "title": "Albion vs Juventud",
-        "subtitle": "Primera División Uruguay",
         "time": "10:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+1",
+        "target_channel_name": "Disney+1",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ne1nse1624645327.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/qxxqsw1464887423.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Danubio vs Wanderers",
-        "subtitle": "Primera División Uruguay",
         "time": "13:00",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+2",
+        "target_channel_name": "Disney+2",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Nacional vs Def. Sporting",
-        "subtitle": "Primera División Uruguay",
+        "title": "Nacional vs Defensor Sporting",
         "time": "16:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
+        "subtitle": "Primera División Uruguay",
+        "channel_name": "Disney+3",
+        "target_channel_name": "Disney+3",
+        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png",
-        "away_logo": ""
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/dx13rd1703003044.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
