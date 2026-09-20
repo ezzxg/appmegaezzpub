@@ -297,15 +297,15 @@
         "away_logo": ""
     },
     {
-        "category": "Fútbol",
         "title": "Marsella vs PSG",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "15:45",
+        "subtitle": "Ligue 1 McDonald's",
         "channel_name": "ESPN 2 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
         "target_channel_name": "ESPN 2 AR",
-        "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/c6bazh1779212287.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
