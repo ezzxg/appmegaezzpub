@@ -220,15 +220,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "Grêmio vs Palmeiras",
-        "subtitle": "Brasileirao Serie A",
         "time": "11:00",
-        "channel_name": "Anal",
-        "channel_logo_url": "https://i.ibb.co/Kz9JjLMT/pngtree-18-icon-png-png-image-6034772.png",
-        "target_channel_name": "Anal",
+        "subtitle": "Brasileirao Serie A",
+        "channel_name": "FlowSports",
+        "target_channel_name": "FlowSports",
+        "channel_logo_url": "https://bestleague.world/img/flowsports1.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
@@ -286,15 +286,15 @@
         "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
         "title": "OGC Niza vs Lille",
-        "subtitle": "Ligue 1 McDonald's",
         "time": "12:15",
+        "subtitle": "Ligue 1 McDonald's",
         "channel_name": "ESPN 4 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
         "target_channel_name": "ESPN 4 AR",
-        "home_logo": "",
-        "away_logo": ""
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png/small",
+        "category": "Fútbol"
     },
     {
         "title": "Marsella vs PSG",
