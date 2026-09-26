@@ -1,7 +1,8 @@
 /**
- * Nitro Driver para tvf90.com (v72.0)
+ * Nitro Driver para tvf90.com (v72.1)
  * Extracción directa de m3u8 desde variable const playbackURL.
  * Formato: 1.php?stream={canal} → iframe → 5.php?stream={canal}
+ * FIX v72.1: 5.php devuelve 403 sin Referer (anti-hotlink). Se envía Referer del wrapper.
  * El token del m3u8 viene incluido en la URL (atiende a IP).
  * Anti-embedding (block.html) NO afecta: nitro.fetchFull usa OkHttp, no WebView.
  */
@@ -17,9 +18,27 @@ async function extract(url) {
         nitro.log("🔗 [tvf90] Wrapper detectado, redirigiendo a: " + playerUrl);
     }
 
+    // Extraer host del dominio para Referer/Origin
+    let siteHost = "tvf90.com";
+    try {
+        const h = url.match(/https?:\/\/([^\/]+)/);
+        if (h) siteHost = h[1];
+    } catch(e) {}
+
+    // FIX v72.1: 5.php exige Referer del wrapper (anti-hotlink), si no devuelve 403.
+    // El Referer debe ser la URL ORIGINAL (1.php), no la del player.
+    let refererUrl = "https://" + siteHost + "/";
+    if (url.includes("/1.php")) {
+        refererUrl = url;
+    } else if (!refererUrl.endsWith("/")) {
+        refererUrl += "/";
+    }
+
     // Fetch del HTML del reproductor
     const pageJson = nitro.fetchFull(playerUrl, "GET", null, JSON.stringify({
         "User-Agent": UA,
+        "Referer": refererUrl,
+        "Origin": "https://" + siteHost,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
     }));
 
@@ -45,13 +64,6 @@ async function extract(url) {
         nitro.onResult(JSON.stringify(null));
         return null;
     }
-
-    // Extraer host del dominio para Referer/Origin
-    let siteHost = "tvf90.com";
-    try {
-        const h = url.match(/https?:\/\/([^\/]+)/);
-        if (h) siteHost = h[1];
-    } catch(e) {}
 
     const result = {
         url: m3u8Url,
