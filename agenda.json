@@ -1,57 +1,112 @@
 [
     {
-        "title": "Lituania vs Andorra",
-        "time": "13:00",
-        "subtitle": "Amistosos de Selecciones",
-        "channel_name": "Por Definir",
-        "target_channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3zoyfk1692679699.png/small",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l5qspn1552847356.png/small",
-        "category": "Fútbol"
-    },
-    {
         "category": "Fútbol",
-        "title": "Argentina vs Bolivia",
-        "subtitle": "Amistosos de Selecciones",
-        "time": "21:00",
+        "title": "Platense vs Estudiantes (LP)",
+        "subtitle": "Copa Argentina",
+        "time": "21:15",
         "channel_name": "TyC Sports HD",
-        "channel_logo_url": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
+        "channel_logo_url": "https://i.imgur.com/hHbmzOZ.png",
         "target_channel_name": "TyC Sports HD",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4q6qfm1736571383.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+    },
+    {
+        "title": "Azerbaiyán vs Liechtenstein",
+        "time": "13:00",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kr6lkz1552856315.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/4o0nlh1591970494.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Malta vs Gibraltar",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "Disney+ Premium",
+        "target_channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/w3knbf1790356155.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/l5eevk1655237355.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Israel vs Kosovo",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "Disney+ Premium",
+        "target_channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/me4lfd1515700405.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/i3wq751730304457.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Dinamarca vs Portugal",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "ESPN AR",
+        "target_channel_name": "ESPN AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/e13arj1717365623.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Grecia vs Países Bajos",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "ESPN 2 AR",
+        "target_channel_name": "ESPN 2 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xtxtts1455465601.png/medium",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Gales vs Noruega",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "Disney+ Premium",
+        "target_channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/pdayn21591983222.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Alemania vs Serbia",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "Disney+ Premium",
+        "target_channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ojy0ha1789271894.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/oxvynb1689195538.png/small",
+        "category": "Fútbol"
+    },
+    {
+        "title": "Irlanda vs Austria",
+        "time": "15:45",
+        "subtitle": "Liga de Naciones",
+        "channel_name": "Disney+ Premium",
+        "target_channel_name": "Disney+ Premium",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3vq2cl1679073105.png/small",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
-        "title": "Instituto vs Racing",
+        "title": "Vélez vs Argentinos",
         "subtitle": "Torneo Proyección",
-        "time": "15:00",
-        "channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "target_channel_name": "ESPN 3 AR",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png"
-    },
-    {
-        "title": "Central Córdoba vs Newell's",
-        "time": "19:00",
-        "subtitle": "Torneo Proyección",
-        "channel_name": "ESPN 3 AR",
-        "target_channel_name": "ESPN 3 AR",
-        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png/small",
-        "category": "Fútbol"
-    },
-    {
-        "title": "City Torque vs Peñarol",
-        "time": "20:00",
-        "subtitle": "Primera División Uruguay",
-        "channel_name": "Disney+1",
-        "target_channel_name": "Disney+1",
-        "channel_logo_url": "https://i.ibb.co/Fb6Th2dc/330px-Disney-2024-svg.png",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
-        "category": "Fútbol"
+        "time": "15:45",
+        "channel_name": "ESPN 4 AR",
+        "channel_logo_url": "https://imagenes.gatotv.com/logos/canales/claros/espn_4-mediano.png",
+        "target_channel_name": "ESPN 4 AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png"
     }
 ]
