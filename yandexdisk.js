@@ -1,6 +1,6 @@
 /**
  * Nitro Driver para Yandex.Disk (disk.yandex.com / disk.yandex.ru / yadi.sk) — VOD
- * PÁGINAS DE ARCHIVO PUBLICO (disk.yandex.*/i/..., yadi.sk/i/...) → HLS
+ * PAGINAS DE ARCHIVO PUBLICO (disk.yandex.com/i/..., yadi.sk/i/...) -> HLS
  *
  * La página de archivo público de Yandex.Disk trae embebido en el HTML estático
  * el master-playlist.m3u8 y las variantes 240p/360p/480p/720p/1080p
