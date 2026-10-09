@@ -1,5 +1,5 @@
 {
-  "nitro_version": "72.3.0",
+  "nitro_version": "72.4.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "streamtp99a.sbs",
@@ -34,7 +34,11 @@
     "ftlycdn10.b-cdn.net",
     "sensa.com.ar",
     "smt-usr-edge02.sensa.com.ar",
-    "googlevideo.com"
+    "googlevideo.com",
+    "streaming.disk.yandex.net",
+    "disk.yandex.com",
+    "disk.yandex.ru",
+    "yadi.sk"
   ],
   "extractors": [
     {
@@ -116,6 +120,11 @@
       "name": "youtube_live",
       "regex": "youtube\\.com/@.*live|youtube\\.com/watch\\?v=",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/youtube.js"
+    },
+    {
+      "name": "yandexdisk",
+      "regex": "(disk\\.yandex\\.(com|ru|eu)/|yadi\\.sk/)",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/yandexdisk.js"
     }
   ]
 }
