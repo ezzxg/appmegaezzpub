@@ -1,5 +1,5 @@
 {
-  "nitro_version": "72.4.0",
+  "nitro_version": "72.5.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "streamtp99a.sbs",
@@ -123,7 +123,7 @@
     },
     {
       "name": "yandexdisk",
-      "regex": "(disk\\.yandex\\.(com|ru|eu)/|yadi\\.sk/)",
+      "regex": "(disk\\.yandex\\.(com|ru|eu)|yadi\\.sk)",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/yandexdisk.js"
     }
   ]
