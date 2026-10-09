@@ -1,5 +1,5 @@
 {
-  "nitro_version": "72.5.0",
+  "nitro_version": "72.6.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "streamtp99a.sbs",
@@ -123,8 +123,13 @@
     },
     {
       "name": "yandexdisk",
-      "regex": "(disk\\.yandex\\.(com|ru|eu)|yadi\\.sk)",
+      "regex": "^https?://(disk\\.yandex\\.(com|ru|eu)|yadi\\.sk)/(i|d)/",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/yandexdisk.js"
+    },
+    {
+      "name": "yandexfile",
+      "regex": "(disk\\.yandex\\.(com|ru|eu)|yadi\\.sk)",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/yandexfile.js"
     }
   ]
 }
