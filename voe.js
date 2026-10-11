@@ -120,37 +120,56 @@ async function voeSolvePow(chal) {
     var prefixByte = parseInt(p.keyPrefix.substring(0, 2), 16);
 
     var start = Date.now();
-    var MAX_MS = 30000;
-    var MAX_COUNTER = 4096;
+    var MAX_MS = 34000;
+    var MAX_COUNTER = 8192;
+    // El widget ALTCHA resuelve con N workers en paralelo; aqui simulamos lo mismo:
+    // WebCrypto (Chromium) ejecuta los deriveKey concurrentes en su thread pool,
+    // ganando ~Nx velocidad de cores vs. el PoW secuencial (que superaba los 45s
+    // del motor en TVs lentas).
+    var WORKERS = 12;
 
-    for (var c = 0; c < MAX_COUNTER; c++) {
-        if (Date.now() - start > MAX_MS) {
-            nitro.log("❌ [voe] PoW timeout tras " + c + " counters");
-            return null;
-        }
-        var password = new Uint8Array(nonceBytes.length + 4);
-        password.set(nonceBytes, 0);
-        password[nonceBytes.length] = (c >>> 24) & 0xFF;
-        password[nonceBytes.length + 1] = (c >>> 16) & 0xFF;
-        password[nonceBytes.length + 2] = (c >>> 8) & 0xFF;
-        password[nonceBytes.length + 3] = c & 0xFF;
+    var nextCounter = { v: 0 };
+    var found = { v: null };
 
-        var keyMaterial = await crypto.subtle.importKey("raw", password, "PBKDF2", false, ["deriveKey"]);
-        var dk = await crypto.subtle.deriveKey(
-            { name: "PBKDF2", salt: saltBytes, iterations: cost, hash: "SHA-256" },
-            keyMaterial,
-            { name: "AES-GCM", length: keyLen * 8 },
-            true,
-            ["encrypt"]
-        );
-        var raw = new Uint8Array(await crypto.subtle.exportKey("raw", dk));
-        if (raw[0] === prefixByte) {
-            var ms = Date.now() - start;
-            nitro.log("✅ [voe] PoW resuelto: counter=" + c + " en " + ms + "ms");
-            return { counter: c, derivedKey: voeBytesToHex(raw), time: ms };
+    async function worker() {
+        while (found.v === null && nextCounter.v < MAX_COUNTER && (Date.now() - start) < MAX_MS) {
+            var c = nextCounter.v++;
+            if (found.v !== null) return;
+            try {
+                var password = new Uint8Array(nonceBytes.length + 4);
+                password.set(nonceBytes, 0);
+                password[nonceBytes.length] = (c >>> 24) & 0xFF;
+                password[nonceBytes.length + 1] = (c >>> 16) & 0xFF;
+                password[nonceBytes.length + 2] = (c >>> 8) & 0xFF;
+                password[nonceBytes.length + 3] = c & 0xFF;
+
+                var keyMaterial = await crypto.subtle.importKey("raw", password, "PBKDF2", false, ["deriveKey"]);
+                var dk = await crypto.subtle.deriveKey(
+                    { name: "PBKDF2", salt: saltBytes, iterations: cost, hash: "SHA-256" },
+                    keyMaterial,
+                    { name: "AES-GCM", length: keyLen * 8 },
+                    true,
+                    ["encrypt"]
+                );
+                var raw = new Uint8Array(await crypto.subtle.exportKey("raw", dk));
+                if (raw[0] === prefixByte && found.v === null) {
+                    found.v = { counter: c, derivedKey: voeBytesToHex(raw), time: Date.now() - start };
+                }
+            } catch (e) {
+                nitro.log("⚠️ [voe] worker error counter " + c + ": " + e.message);
+            }
         }
     }
-    nitro.log("❌ [voe] PoW sin solucion en " + MAX_COUNTER + " counters");
+
+    var pool = [];
+    for (var i = 0; i < WORKERS; i++) pool.push(worker());
+    await Promise.all(pool);
+
+    if (found.v) {
+        nitro.log("✅ [voe] PoW resuelto: counter=" + found.v.counter + " en " + found.v.time + "ms (paralelo)");
+        return found.v;
+    }
+    nitro.log("❌ [voe] PoW sin solucion (timeout " + MAX_MS + "ms o max counters)");
     return null;
 }
 
@@ -182,7 +201,10 @@ async function voeExtractOnce(url, attempt) {
     }
     var html = emb.body;
     var mirror = url;
-    var mm = html.match(/window\.location\.href\s*=\s*['"]([^'"]+)['"]/);
+    var mm = html.match(/window\.location\.href\s*=\s*['"]([^'"]+)['"]/)
+          || html.match(/window\.location\s*=\s*['"]([^'"]+)['"]/)
+          || html.match(/location\.href\s*=\s*['"]([^'"]+)['"]/)
+          || html.match(/location\.replace\(\s*['"]([^'"]+)['"]\s*\)/);
     if (mm && mm[1].indexOf("http") === 0) {
         mirror = mm[1];
         nitro.log("🔀 [voe] intento " + attempt + " mirror: " + mirror);
@@ -240,8 +262,10 @@ async function voeExtractOnce(url, attempt) {
         return null;
     }
     var nowSec = Math.floor(Date.now() / 1000);
-    if (chal.parameters.expiresAt && nowSec > chal.parameters.expiresAt - 5) {
-        nitro.log("⚠️ [voe] challenge expirado, refetch");
+    // Solo refetch si el dispositivo cree que el challenge esta muy vencido
+    // (hay TVs con relojes desfasados; el servidor valida con su propio reloj).
+    if (chal.parameters.expiresAt && nowSec > chal.parameters.expiresAt + 60) {
+        nitro.log("⚠️ [voe] challenge expirado por reloj local, refetch");
         chalResp = voeFetch(chalUrl, "GET", null, voeBuildHeaders(mirrorOrigin, gateCookie));
         try { chal = JSON.parse(chalResp.body); } catch (e) {}
         if (!chal || !chal.parameters) return null;
