@@ -1,5 +1,5 @@
 {
-  "nitro_version": "72.6.0",
+  "nitro_version": "72.7.0",
   "cache_expiry_seconds": 3600,
   "whitelist_domains": [
     "streamtp99a.sbs",
@@ -38,7 +38,9 @@
     "streaming.disk.yandex.net",
     "disk.yandex.com",
     "disk.yandex.ru",
-    "yadi.sk"
+    "yadi.sk",
+    "voe.sx",
+    "megankiddifference.com"
   ],
   "extractors": [
     {
@@ -130,6 +132,11 @@
       "name": "yandexfile",
       "regex": "(disk\\.yandex\\.(com|ru|eu)|yadi\\.sk)",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/yandexfile.js"
+    },
+    {
+      "name": "voe",
+      "regex": "(voe\\.sx|megankiddifference\\.com)/e/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/voe.js"
     }
   ]
 }
