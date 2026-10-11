@@ -1,24 +1,62 @@
 /**
  * Nitro Driver para Yandex.Disk (disk.yandex.com / disk.yandex.ru / yadi.sk) — VOD
- * PAGINAS DE ARCHIVO PUBLICO (disk.yandex.com/i/..., yadi.sk/i/...) -> HLS
+ * PAGINAS DE ARCHIVO PUBLICO (disk.yandex.com/i/..., yadi.sk/i/...) -> ARCHIVO DIRECTO
  *
- * La página de archivo público de Yandex.Disk trae embebido en el HTML estático
- * el master-playlist.m3u8 y las variantes 240p/360p/480p/720p/1080p
- * (streaming.disk.yandex.net/hls/...). No hace falta dar play ni ejecutar JS.
+ * v2 — STREAM DIRECTO (botón Download):
+ * La extracción de m3u8 (HLS) de la página dejó de funcionar. Con User-Agent móvil
+ * (Chrome Android) la página muestra un botón "Download" que, al hacer click, llama a
+ * la API pública de Yandex:
+ *   GET https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=<url>
+ * y responde JSON { "method": "GET", "href": "<URL directa>" } que apunta al archivo
+ * completo (downloader.disk.yandex.ru -> 302 -> storage.yandex.net/rdisk/...).
+ * Esa URL soporta Range/seek (206, video/x-matroska, Accept-Ranges: bytes) y ExoPlayer
+ * la reproduce directo (igual que yandexfile.js con archivos MKV).
  *
- * Se prefiere el master-playlist (trae todas las calidades, ExoPlayer elige la
- * mejor sola; arranca ~480p y sube a 1080p a los ~8s con la estrategia adaptativa).
- * Si no existe master, se elige la variante de mayor resolución disponible.
+ * Flujo: página con UA móvil (valida 404) -> cloud-api download -> href directo.
+ * Fallback: si la API no devuelve href, se intenta el m3u8 embebido en el HTML.
+ * Si no hay nada -> null -> fallback a extractores nativos.
  *
  * Los enlaces WRAPPER tipo workers.dev/?url=... NO los maneja este script:
  * van a yandexfile.js (extractor separado, ver nitro_config.json).
- *
- * Si la página no es video (imagen o carpeta) devuelve null -> fallback a extractores nativos.
  */
+
+function resolveDirectDownload(publicKey, html, ua) {
+    const candidates = [publicKey];
+    // short_url del dueño (https://yadi.sk/i/...) como clave alternativa si la URL larga falla.
+    const shortMatch = html.match(/"short_url"\s*:\s*"(https:\/\/yadi\.sk\/i\/[^"]+)"/);
+    if (shortMatch && candidates.indexOf(shortMatch[1]) === -1) {
+        candidates.push(shortMatch[1]);
+    }
+
+    for (let i = 0; i < candidates.length; i++) {
+        const api = "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=" + encodeURIComponent(candidates[i]);
+        const respJson = nitro.fetchFull(api, "GET", null, JSON.stringify({
+            "User-Agent": ua,
+            "Accept": "application/json"
+        }));
+
+        let resp = null;
+        try { resp = JSON.parse(respJson || "{}"); } catch (e) {}
+        if (!resp || resp.status !== 200 || !resp.body) {
+            nitro.log("⚠️ [yandexdisk] cloud-api status " + (resp ? resp.status : "?") + " (candidate " + i + ")");
+            continue;
+        }
+
+        let data = null;
+        try { data = JSON.parse(resp.body); } catch (e) {}
+        if (data && data.href && data.href.indexOf("http") === 0) {
+            return data.href;
+        }
+        nitro.log("⚠️ [yandexdisk] cloud-api sin href en la respuesta");
+    }
+    return null;
+}
+
 async function extract(url) {
     nitro.log("🔍 [yandexdisk] Iniciando extracción para: " + url);
 
-    const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
+    // UA móvil (Chrome Android): es el que muestra el botón Download en la página.
+    const UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36";
     const REFERER = "https://disk.yandex.com/";
 
     const pageJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
@@ -40,18 +78,32 @@ async function extract(url) {
         return null;
     }
 
-    // Limpieza: escapados \/ (JS/JSON embebido) y &amp; (HTML) — las URLs actuales no llevan query, por las dudas.
-    let html = page.body.replace(/\\\//g, "/").replace(/&amp;/g, "&");
+    // Limpieza: escapados \/ (JS/JSON embebido) y &amp; (HTML).
+    const html = page.body.replace(/\\\//g, "/").replace(/&amp;/g, "&");
 
-    // 1) Preferir el master-playlist (une todas las calidades).
+    // ===== 1) RUTA PRINCIPAL: link directo del botón Download (API pública de Yandex) =====
+    const directUrl = resolveDirectDownload(url, html, UA);
+    if (directUrl) {
+        const result = {
+            url: directUrl,
+            headers: {
+                "User-Agent": UA,
+                "Referer": REFERER
+            }
+        };
+        nitro.log("✅ [yandexdisk] Link directo obtenido: " + directUrl.substring(0, 140) + "...");
+        nitro.onResult(JSON.stringify(result));
+        return result;
+    }
+
+    // ===== 2) FALLBACK: m3u8 embebido en el HTML (por si la API no aplica y el HLS vuelve) =====
     let m3u8 = null;
     const masterMatch = html.match(/https:\/\/[^"'\s<>\\]+\/master-playlist\.m3u8/);
     if (masterMatch) {
         m3u8 = masterMatch[0];
-        nitro.log("🎯 [yandexdisk] master-playlist encontrado");
+        nitro.log("🎯 [yandexdisk] master-playlist encontrado (fallback)");
     }
 
-    // 2) Fallback: elegir la variante de mayor resolución (1080p > 720p > 480p > 360p > 240p > cualquier m3u8).
     if (!m3u8) {
         const all = html.match(/https:\/\/[^"'\s<>\\]+\/\d{3,4}p\/playlist\.m3u8/g) || [];
         const any = html.match(/https:\/\/[^"'\s<>\\]+\.m3u8/g) || [];
@@ -63,12 +115,12 @@ async function extract(url) {
                 const hit = candidates.find(function (c) { return c.indexOf("/" + prefs[i] + "/") !== -1; });
                 if (hit) { m3u8 = hit; break; }
             }
-            nitro.log("🎯 [yandexdisk] Variante elegida por resolución");
+            nitro.log("🎯 [yandexdisk] Variante elegida por resolución (fallback)");
         }
     }
 
     if (!m3u8 || m3u8.indexOf("http") !== 0) {
-        nitro.log("⚠️ [yandexdisk] No se encontró m3u8 en la página (¿imagen/carpeta?)");
+        nitro.log("⚠️ [yandexdisk] Sin link directo ni m3u8 (¿imagen/carpeta?)");
         nitro.onResult(JSON.stringify(null));
         return null;
     }
@@ -81,7 +133,7 @@ async function extract(url) {
         }
     };
 
-    nitro.log("✅ [yandexdisk] Extracción exitosa: " + m3u8);
+    nitro.log("✅ [yandexdisk] Extracción exitosa (m3u8 fallback): " + m3u8);
     nitro.onResult(JSON.stringify(result));
     return result;
 }
