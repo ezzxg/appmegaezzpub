@@ -22,7 +22,13 @@
  * sin source -> fallback MP4 -> direct_access_url -> null.
  */
 
-const VOE_UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36";
+// IMPORTANTE: el motor inyecta (async IIFE)() ANTES de este texto y las function
+// declarations se elevan (hoisting), pero const/let NO. Cualquier binding de nivel
+// superior usado durante la fase sincrónica de extract() debe ser una function,
+// nunca un const (ReferenceError temporal -> onError inmediato).
+function voeUa() {
+    return "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36";
+}
 
 function voeRot13(text) {
     var out = "";
@@ -175,7 +181,7 @@ async function voeSolvePow(chal) {
 
 function voeBuildHeaders(origin, cookie) {
     var h = {
-        "User-Agent": VOE_UA,
+        "User-Agent": voeUa(),
         "Referer": origin + "/",
         "Origin": origin,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
@@ -306,7 +312,7 @@ function voeResult(bundle) {
         origin = "https://" + bundle.mirror.split("/")[2];
     } catch (e) {}
     var headers = {
-        "User-Agent": VOE_UA,
+        "User-Agent": voeUa(),
         "Referer": origin + "/",
         "Origin": origin
     };
