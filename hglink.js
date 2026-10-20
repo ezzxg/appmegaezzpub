@@ -56,19 +56,23 @@ function hlLastRef(body) {
     return "";
 }
 
-function hlGet(url, headers) {
+function hlGet(url, headers, tag) {
     try {
         var raw = nitro.fetchFull(url, "GET", null, JSON.stringify(headers || {}));
-        if (!raw) return null;
+        if (!raw) { nitro.log("❓ [hglink] fetch null " + (tag || "") + " " + url.substring(0, 80)); return null; }
         var j = JSON.parse(raw);
-        if (String(j.status) !== "200") return null;
-        return j.body || "";
+        var st = String(j.status);
+        var body = j.body || "";
+        nitro.log("📡 [hglink] " + (tag || "GET") + " status=" + st + " len=" + body.length + " head=" + body.substring(0, 60).replace(/[\r\n]+/g, " "));
+        if (st !== "200") return null;
+        return body;
     } catch (e) {
+        nitro.log("❓ [hglink] fetch error " + (tag || "") + ": " + e);
         return null;
     }
 }
 
-function hlGetRange(url, headers, bytes) {
+function hlGetRange(url, headers, bytes, tag) {
     var h = {
         "Referer": "", "Origin": "", "User-Agent": ""
     };
@@ -79,12 +83,14 @@ function hlGetRange(url, headers, bytes) {
     h["Range"] = "bytes=0-" + bytes;
     try {
         var raw = nitro.fetchFull(url, "GET", null, JSON.stringify(h));
-        if (!raw) return null;
+        if (!raw) { nitro.log("❓ [hglink] range null " + (tag || "") + " " + url.substring(0, 80)); return null; }
         var j = JSON.parse(raw);
         var st = String(j.status);
+        nitro.log("📡 [hglink] " + (tag || "RANGE") + " status=" + st);
         if (st !== "200" && st !== "206") return null;
         return j.body || "";
     } catch (e) {
+        nitro.log("❓ [hglink] range error " + (tag || "") + ": " + e);
         return null;
     }
 }
@@ -97,31 +103,35 @@ function hlValidate(candidate) {
         var headers = candidate.headers;
         var segBase = url;
 
-        var master = hlGet(url, headers);
-        if (!master || master.indexOf("#EXTM3U") === -1) return false;
+        var master = hlGet(url, headers, "MASTER");
+        if (!master) { nitro.log("⛔ [hglink] MASTER fail"); return false; }
+        if (master.indexOf("#EXTM3U") === -1) { nitro.log("⛔ [hglink] master sin #EXTM3U"); return false; }
 
         if (master.indexOf("#EXT-X-STREAM-INF") !== -1) {
             var variantRef = hlLastRef(master);
-            if (!variantRef) return false;
+            if (!variantRef) { nitro.log("⛔ [hglink] master sin variantes"); return false; }
             var variantUrl = hlResolve(url, variantRef);
-            var variantBody = hlGet(variantUrl, headers);
-            if (!variantBody || variantBody.indexOf("#EXTM3U") === -1 || variantBody.indexOf("#EXTINF") === -1) return false;
+            var variantBody = hlGet(variantUrl, headers, "VARIANT");
+            if (!variantBody) { nitro.log("⛔ [hglink] variant fail"); return false; }
+            if (variantBody.indexOf("#EXTM3U") === -1 || variantBody.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] variant sin EXTINF"); return false; }
             segBase = variantUrl;
             master = variantBody;
         }
 
-        if (master.indexOf("#EXTINF") === -1) return false;
+        if (master.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] sin EXTINF"); return false; }
         var segRef = hlLastRef(master);
-        if (!segRef) return false;
-        if (/tiktokcdn|ad-site-|imagex|\.png$/i.test(segRef)) return false;
+        if (!segRef) { nitro.log("⛔ [hglink] playlist sin segmentos"); return false; }
+        nitro.log("🔎 [hglink] segRef=" + segRef.substring(0, 100));
+        if (/tiktokcdn|ad-site-|imagex|\.png$/i.test(segRef)) { nitro.log("⛔ [hglink] DECOY detectado (tiktok/png)"); return false; }
 
         var segUrl = hlResolve(segBase, segRef);
-        var probe = hlGetRange(segUrl, headers, 255);
-        if (probe === null || probe.length === 0) return false;
+        var probe = hlGetRange(segUrl, headers, 255, "SEG");
+        if (probe === null || probe.length === 0) { nitro.log("⛔ [hglink] segmento no sirvio"); return false; }
         // MPEG-TS: primer byte 0x47 ('G'). Otros contenedores (MKV/fMP4 pueden no serlo):
-        if (probe.charAt(0) === "G") return true;
+        if (probe.charAt(0) === "G") { nitro.log("✅ [hglink] segmento TS valido"); return true; }
         // fMP4: caja 'ftyp'; MKV: 0x1A45DFA3 (ojo con corrimiento UTF-8) -> aceptamos largo razonable
-        if (probe.indexOf("ftyp") !== -1) return true;
+        if (probe.indexOf("ftyp") !== -1) { nitro.log("✅ [hglink] segmento fMP4 valido"); return true; }
+        nitro.log("⛔ [hglink] primer byte no es TS ('" + probe.charAt(0) + "' 0x" + probe.charCodeAt(0).toString(16) + "), len=" + probe.length);
         return probe.length >= 100;
     } catch (e) {
         nitro.log("❌ [hglink] validate error: " + e);
