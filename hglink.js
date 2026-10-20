@@ -257,15 +257,15 @@ function findStream(html, currentUrl) {
     return null;
 }
 
-// Construye candidatos en prioridad hls4 -> hls3 -> hls2 desde el JS desempacado
+// Construye candidatos en prioridad hls4 -> hls3 -> hls2 desde el JS desempacado.
+// hls4 puede venir RELATIVO (/stream/...) -> se resuelve contra el dominio del embed.
 function buildCandidates(unpacked, pageUrl) {
     var cands = [];
-    var hls4 = unpacked.match(/"(\/stream\/[^"]*\/master\.m3u8[^"]*)"/i) ||
-               unpacked.match(/"(https?:\/\/[^"]*\/stream\/[^"]*\/master\.m3u8[^"]*)"/i);
+    var hls4 = unpacked.match(/"((?:\/|https?:\/\/[^"]*)stream\/[^"]*\/master\.m3u8[^"]*)"/i);
     var hls3 = unpacked.match(/"(https?:\/\/[^"]*\/hls3\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i) ||
                unpacked.match(/"(https?:\/\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i);
     var hls2 = unpacked.match(/"(https?:\/\/[^"]*\/hls2\/[^"]*\/master\.m3u8[^"]*)"/i);
-    if (hls4) cands.push(hlBuild(hls4[1], pageUrl));
+    if (hls4) cands.push(hlBuild(hlResolve(pageUrl, hls4[1]), pageUrl));
     if (hls3) cands.push(hlBuild(hls3[1], pageUrl));
     if (hls2) cands.push(hlBuild(hls2[1], pageUrl));
     return cands;
