@@ -95,47 +95,67 @@ function hlGetRange(url, headers, bytes, tag) {
     }
 }
 
-// Valida un candidato HLS: master -> ultima variante -> primer segmento.
+// Valida un candidato HLS: master -> variante elegida por ancho de banda -> primer segmento.
 // Rechaza los segmentos-farol (tiktokcdn/ad-site/PNG) y URLs muertas.
+// Devuelve {ok:true, url:<m3u8 a reproducir>} donde url es la VARIANTE elegida
+// (no siempre el master) para fijar una calidad que entre en el throttle del CDN.
+var VOD_BAND_CAP = 2400000; // bits/s ~300KB/s, margen sobre el throttle observado (~350KB/s)
 function hlValidate(candidate) {
     try {
         var url = candidate.url;
         var headers = candidate.headers;
         var segBase = url;
+        var chosenUrl = url;
 
         var master = hlGet(url, headers, "MASTER");
-        if (!master) { nitro.log("⛔ [hglink] MASTER fail"); return false; }
-        if (master.indexOf("#EXTM3U") === -1) { nitro.log("⛔ [hglink] master sin #EXTM3U"); return false; }
+        if (!master) { nitro.log("⛔ [hglink] MASTER fail"); return { ok: false }; }
+        if (master.indexOf("#EXTM3U") === -1) { nitro.log("⛔ [hglink] master sin #EXTM3U"); return { ok: false }; }
 
         if (master.indexOf("#EXT-X-STREAM-INF") !== -1) {
-            var variantRef = hlLastRef(master);
-            if (!variantRef) { nitro.log("⛔ [hglink] master sin variantes"); return false; }
-            var variantUrl = hlResolve(url, variantRef);
-            var variantBody = hlGet(variantUrl, headers, "VARIANT");
-            if (!variantBody) { nitro.log("⛔ [hglink] variant fail"); return false; }
-            if (variantBody.indexOf("#EXTM3U") === -1 || variantBody.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] variant sin EXTINF"); return false; }
-            segBase = variantUrl;
+            // listar variantes con su BANDWIDTH y elegir la mayor que respete el cap
+            var vBands = [];
+            var re = /#EXT-X-STREAM-INF:([^\r\n]+)\r?\n([^\s#\r\n]+)/g;
+            var vm;
+            while ((vm = re.exec(master)) !== null) {
+                var bm = vm[1].match(/BANDWIDTH=(\d+)/);
+                vBands.push({ band: (bm ? parseInt(bm[1], 10) : 0), ref: vm[2] });
+            }
+            nitro.log("🎚 [hglink] variantes: " + vBands.map(function (v) { return v.band; }).join(","));
+            var best = null;
+            for (var vi = vBands.length - 1; vi >= 0; vi--) {
+                if (vBands[vi].band > 0 && vBands[vi].band <= VOD_BAND_CAP) { best = vBands[vi]; break; }
+            }
+            if (!best && vBands.length) best = vBands[0]; // la mas chica como ultimo recurso
+            if (!best) { nitro.log("⛔ [hglink] master sin variantes validas"); return { ok: false }; }
+            chosenUrl = hlResolve(url, best.ref);
+            nitro.log("🎯 [hglink] variante elegida band=" + best.band + " -> " + chosenUrl.substring(0, 110));
+
+            var variantBody = hlGet(chosenUrl, headers, "VARIANT");
+            if (!variantBody) { nitro.log("⛔ [hglink] variant fail"); return { ok: false }; }
+            if (variantBody.indexOf("#EXTM3U") === -1 || variantBody.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] variant sin EXTINF"); return { ok: false }; }
+            segBase = chosenUrl;
             master = variantBody;
         }
 
-        if (master.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] sin EXTINF"); return false; }
+        if (master.indexOf("#EXTINF") === -1) { nitro.log("⛔ [hglink] sin EXTINF"); return { ok: false }; }
         var segRef = hlLastRef(master);
-        if (!segRef) { nitro.log("⛔ [hglink] playlist sin segmentos"); return false; }
+        if (!segRef) { nitro.log("⛔ [hglink] playlist sin segmentos"); return { ok: false }; }
         nitro.log("🔎 [hglink] segRef=" + segRef.substring(0, 100));
-        if (/tiktokcdn|ad-site-|imagex|\.png$/i.test(segRef)) { nitro.log("⛔ [hglink] DECOY detectado (tiktok/png)"); return false; }
+        if (/tiktokcdn|ad-site-|imagex|\.png$/i.test(segRef)) { nitro.log("⛔ [hglink] DECOY detectado (tiktok/png)"); return { ok: false }; }
 
         var segUrl = hlResolve(segBase, segRef);
         var probe = hlGetRange(segUrl, headers, 255, "SEG");
-        if (probe === null || probe.length === 0) { nitro.log("⛔ [hglink] segmento no sirvio"); return false; }
+        if (probe === null || probe.length === 0) { nitro.log("⛔ [hglink] segmento no sirvio"); return { ok: false }; }
         // MPEG-TS: primer byte 0x47 ('G'). Otros contenedores (MKV/fMP4 pueden no serlo):
-        if (probe.charAt(0) === "G") { nitro.log("✅ [hglink] segmento TS valido"); return true; }
+        if (probe.charAt(0) === "G") { nitro.log("✅ [hglink] segmento TS valido"); return { ok: true, url: chosenUrl }; }
         // fMP4: caja 'ftyp'; MKV: 0x1A45DFA3 (ojo con corrimiento UTF-8) -> aceptamos largo razonable
-        if (probe.indexOf("ftyp") !== -1) { nitro.log("✅ [hglink] segmento fMP4 valido"); return true; }
+        if (probe.indexOf("ftyp") !== -1) { nitro.log("✅ [hglink] segmento fMP4 valido"); return { ok: true, url: chosenUrl }; }
         nitro.log("⛔ [hglink] primer byte no es TS ('" + probe.charAt(0) + "' 0x" + probe.charCodeAt(0).toString(16) + "), len=" + probe.length);
-        return probe.length >= 100;
+        if (probe.length >= 100) return { ok: true, url: chosenUrl };
+        return { ok: false };
     } catch (e) {
         nitro.log("❌ [hglink] validate error: " + e);
-        return false;
+        return { ok: false };
     }
 }
 
@@ -279,9 +299,14 @@ async function pickBestStreamJ3(cands, unpacked, pageUrl) {
     }
     for (var i = 0; i < cands.length; i++) {
         nitro.log("🧪 [hglink] validando " + (i + 1) + "/" + cands.length + ": " + cands[i].url.substring(0, 90));
-        if (hlValidate(cands[i])) {
-            nitro.log("✅ [hglink] criterio OK -> " + cands[i].url.substring(0, 120));
-            return cands[i];
+        var verdict = await hlValidate(cands[i]);
+        if (verdict && verdict.ok) {
+            var out = cands[i];
+            if (verdict.url && verdict.url !== cands[i].url) {
+                out = { url: verdict.url, headers: cands[i].headers };
+            }
+            nitro.log("✅ [hglink] criterio OK -> " + out.url.substring(0, 120));
+            return out;
         }
         nitro.log("⛔ [hglink] invalido: " + cands[i].url.substring(0, 90));
     }
