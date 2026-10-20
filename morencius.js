@@ -13,6 +13,13 @@
  * sonda de segmento real (Range 0-255, primer byte 0x47 = 'G' de MPEG-TS, o payload largo
  * para MKV/fMP4). Devuelve el primero que pase; si ninguno pasa, devuelve hls4 como ultimo
  * recurso (mantiene el comportamiento de la v2).
+ *
+ * [polyglot] Los segmentos hls4 de vidhide NO son imagenes: son un PNG 1x1 valido de 70 bytes
+ * con el segmento MPEG-TS real pegado despues del IEND (content-type image/png a proposito,
+ * anti-bot). ExoPlayer (media3) salta la basura inicial: TsExtractor.sniff busca 0x47 cada 188
+ * bytes desde offsets 0..187 y hace skipFully(offset); ademas MODE_HLS tolera hasta 2*188 bytes
+ * sin sync. hls.js exige 0x47 en el byte 0 y por eso el navegador cae a hls3. El probe valida
+ * el poliglota pidiendo Range desde el byte 70 y comprobando que ahi empieza el TS.
  */
 function hlUa() {
     return "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
@@ -72,7 +79,7 @@ function hlGet(url, headers, tag) {
     }
 }
 
-function hlGetRange(url, headers, bytes, tag) {
+function hlGetRange(url, headers, bytes, tag, start) {
     var h = {
         "Referer": "", "Origin": "", "User-Agent": ""
     };
@@ -80,7 +87,7 @@ function hlGetRange(url, headers, bytes, tag) {
         var src = typeof headers === "string" ? JSON.parse(headers || "{}") : (headers || {});
         for (var k in src) { if (src.hasOwnProperty(k)) h[k] = src[k]; }
     } catch (e) {}
-    h["Range"] = "bytes=0-" + bytes;
+    h["Range"] = "bytes=" + (start || 0) + "-" + bytes;
     try {
         var raw = nitro.fetchFull(url, "GET", null, JSON.stringify(h));
         if (!raw) { nitro.log("❓ [morencius] range null " + (tag || "") + " " + url.substring(0, 80)); return null; }
@@ -96,16 +103,19 @@ function hlGetRange(url, headers, bytes, tag) {
 }
 
 // Valida un candidato HLS: master -> variante elegida por ancho de banda -> primer segmento.
-// Rechaza los segmentos-farol (tiktokcdn/ad-site/PNG) y URLs muertas.
+// Rechaza los segmentos-farol (PNG SIN TS pegado) y URLs muertas.
 // Devuelve {ok:true, url:<m3u8 a reproducir>} donde url es la VARIANTE elegida
 // (no siempre el master) para fijar una calidad que entre en el throttle del CDN.
-var VOD_BAND_CAP = 1000000; // bits/s ~125KB/s: fuerza 480p (733kbps) con margen sobre el throttle real (~200KB/s)
+var VOD_BAND_CAP = 1000000;    // hls3/hls2: throttle real ~200KB/s -> fuerza 480p (733kbps)
+var STREAM_BAND_CAP = 3000000; // hls4 /stream/: CDN rapido (~8MB/s) -> permite 720p/1080p
 function hlValidate(candidate) {
     try {
         var url = candidate.url;
         var headers = candidate.headers;
         var segBase = url;
         var chosenUrl = url;
+        var cap = (url.indexOf("/stream/") !== -1) ? STREAM_BAND_CAP : VOD_BAND_CAP;
+        nitro.log("? [morencius] cap=" + cap + " para " + url.substring(0, 70));
 
         var master = hlGet(url, headers, "MASTER");
         if (!master) { nitro.log("⛔ [morencius] MASTER fail"); return { ok: false }; }
@@ -123,12 +133,12 @@ function hlValidate(candidate) {
             nitro.log("🎚 [morencius] variantes: " + vBands.map(function (v) { return v.band; }).join(","));
             var best = null;
             for (var vi = vBands.length - 1; vi >= 0; vi--) {
-                if (vBands[vi].band > 0 && vBands[vi].band <= VOD_BAND_CAP) { best = vBands[vi]; break; }
+                if (vBands[vi].band > 0 && vBands[vi].band <= cap) { best = vBands[vi]; break; }
             }
             if (!best && vBands.length) best = vBands[0]; // la mas chica como ultimo recurso
             if (!best) { nitro.log("⛔ [morencius] master sin variantes validas"); return { ok: false }; }
             chosenUrl = hlResolve(url, best.ref);
-            nitro.log("🎯 [morencius] variante elegida band=" + best.band + " -> " + chosenUrl.substring(0, 110));
+            nitro.log("🎯 [morencius] variante elegida band=" + best.band + " cap=" + cap + " -> " + chosenUrl.substring(0, 110));
 
             var variantBody = hlGet(chosenUrl, headers, "VARIANT");
             if (!variantBody) { nitro.log("⛔ [morencius] variant fail"); return { ok: false }; }
@@ -141,7 +151,6 @@ function hlValidate(candidate) {
         var segRef = hlLastRef(master);
         if (!segRef) { nitro.log("⛔ [morencius] playlist sin segmentos"); return { ok: false }; }
         nitro.log("🔎 [morencius] segRef=" + segRef.substring(0, 100));
-        if (/tiktokcdn|ad-site-|imagex|\.png$/i.test(segRef)) { nitro.log("⛔ [morencius] DECOY detectado (tiktok/png)"); return { ok: false }; }
 
         var segUrl = hlResolve(segBase, segRef);
         var probe = hlGetRange(segUrl, headers, 255, "SEG");
@@ -150,7 +159,19 @@ function hlValidate(candidate) {
         if (probe.charAt(0) === "G") { nitro.log("✅ [morencius] segmento TS valido"); return { ok: true, url: chosenUrl }; }
         // fMP4: caja 'ftyp'; MKV: 0x1A45DFA3 (ojo con corrimiento UTF-8) -> aceptamos largo razonable
         if (probe.indexOf("ftyp") !== -1) { nitro.log("✅ [morencius] segmento fMP4 valido"); return { ok: true, url: chosenUrl }; }
-        nitro.log("⛔ [morencius] primer byte no es TS ('" + probe.charAt(0) + "' 0x" + probe.charCodeAt(0).toString(16) + "), len=" + probe.length);
+        // [polyglot] Segmentos hls4 de vidhide: PNG 1x1 de 70 bytes + MPEG-TS real despues del
+        // IEND (image/png a proposito, anti-bot). ExoPlayer lo reproduce (TsExtractor tolera
+        // basura inicial); hls.js no. Validamos pidiendo Range desde el byte 70.
+        var looksPng = probe.charCodeAt(0) === 0x89 || probe.charCodeAt(0) === 0xFFFD;
+        if (looksPng && probe.indexOf("PNG") === 1) {
+            var tail = hlGetRange(segUrl, headers, 1000, "SEGTS", 70);
+            if (tail && tail.charAt(0) === "G") {
+                nitro.log("[morencius] poliglota PNG+TS valido (TS desde byte 70) -> hls4 usable");
+                return { ok: true, url: chosenUrl };
+            }
+            nitro.log("? [morencius] PNG sin TS pegado (decoy real) -> descartado");
+            return { ok: false };
+        }        nitro.log("⛔ [morencius] primer byte no es TS ('" + probe.charAt(0) + "' 0x" + probe.charCodeAt(0).toString(16) + "), len=" + probe.length);
         if (probe.length >= 100) return { ok: true, url: chosenUrl };
         return { ok: false };
     } catch (e) {
@@ -180,7 +201,7 @@ async function hlBeacon(unpacked, pageUrl) {
 }
 
 async function extract(url) {
-    nitro.log("🔍 Nitro Driver Cloud: Morencius v1 (hls4 + band-cap) activado");
+    nitro.log("🔍 Nitro Driver Cloud: Morencius v1.1 (hls4 + poliglota PNG+TS + band-cap) activado");
 
     var result = await folllowRecursiveJ3(url, 0);
     if (result) return result;
@@ -285,14 +306,14 @@ function buildCandidates(unpacked, pageUrl) {
     var hls3 = unpacked.match(/"(https?:\/\/[^"]*\/hls3\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i) ||
                unpacked.match(/"(https?:\/\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i);
     var hls2 = unpacked.match(/"(https?:\/\/[^"]*\/hls2\/[^"]*\/master\.m3u8[^"]*)"/i);
-    if (hls3) cands.push(hlBuild(hls3[1], pageUrl));
     if (hls4) cands.push(hlBuild(hlResolve(pageUrl, hls4[1]), pageUrl));
+    if (hls3) cands.push(hlBuild(hls3[1], pageUrl));
     if (hls2) cands.push(hlBuild(hls2[1], pageUrl));
     return cands;
 }
 
 // Emite beacon (si existe), valida candidatos en orden y devuelve el primero valido.
-// Si nunguno valida, devuelve el primero (hls4) para no romper el flujo actual.
+// Si ninguno valida, devuelve el primero (hls4) para no romper el flujo actual.
 async function pickBestStreamJ3(cands, unpacked, pageUrl) {
     if (unpacked && unpacked.indexOf("op=view") !== -1) {
         await hlBeacon(unpacked, pageUrl);
