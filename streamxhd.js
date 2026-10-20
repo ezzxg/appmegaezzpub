@@ -32,7 +32,12 @@ async function extract(url) {
 
 function _decodeStreamxhd(html) {
     // 1. Localizar el bloque playbackURL con nombres dinámicos
-    const m = html.match(/var playbackURL="",\s*(\w+)=\[([\s\S]*?)\];\s*\1\.sort\(\(a,b\)=>a\[0\]-b\[0\]\);\s*var\s+k=(\w+)\(\)\+(\w+)\(\);/);
+    //    Formato viejo: var playbackURL="",VA=[...]; VA.sort(...); var k=F1()+F2();
+    //    Formato nuevo (2026): var playbackURL="",sz=[],_s="x"; sz=[...]; sz.sort(...); var k=F1()+F2();
+    const start = html.indexOf('var playbackURL=');
+    if (start < 0) return null;
+    const block = html.slice(start, start + 60000);
+    const m = block.match(/(\w+)=(\[[\s\S]*?\]);\s*\1\.sort\(\(a,b\)=>a\[0\]-b\[0\]\);\s*var\s+k=(\w+)\(\)\+(\w+)\(\);/);
     if (!m) return null;
 
     const arrStr = m[2];
@@ -78,10 +83,16 @@ async function _streamxhd_extract(url) {
     } catch (e) {}
 
     // 1. FETCH de la página
+    //    [CRITICO] El servidor responde 403 "Acceso restringido" si la peticion no
+    //    simula un iframe. El discriminador es Sec-Fetch-Dest: iframe (probado:
+    //    sin el -> 403 sin playbackURL; con el -> 200 con playbackURL).
     const pageJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
         "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8"
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Sec-Fetch-Dest": "iframe",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "cross-site"
     }));
 
     let pageHtml = "";
