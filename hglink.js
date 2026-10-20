@@ -285,8 +285,8 @@ function buildCandidates(unpacked, pageUrl) {
     var hls3 = unpacked.match(/"(https?:\/\/[^"]*\/hls3\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i) ||
                unpacked.match(/"(https?:\/\/[^"]*\/master\.(?:txt|m3u8)[^"]*)"/i);
     var hls2 = unpacked.match(/"(https?:\/\/[^"]*\/hls2\/[^"]*\/master\.m3u8[^"]*)"/i);
-    if (hls4) cands.push(hlBuild(hlResolve(pageUrl, hls4[1]), pageUrl));
     if (hls3) cands.push(hlBuild(hls3[1], pageUrl));
+    if (hls4) cands.push(hlBuild(hlResolve(pageUrl, hls4[1]), pageUrl));
     if (hls2) cands.push(hlBuild(hls2[1], pageUrl));
     return cands;
 }
