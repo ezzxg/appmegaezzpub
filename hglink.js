@@ -222,13 +222,23 @@ function findStream(html, currentUrl) {
     if (pMatch) {
         try {
             var unpacked = nitro.unpack(pMatch[1], parseInt(pMatch[2]), JSON.stringify(pMatch[4].split("|")));
+            // Normalizar barras escapadas (\u002f o \/) que el unpack puede dejar intactas
+            unpacked = ("" + unpacked).replace(/\\u002[fF]/g, "/").replace(/\\\//g, "/").replace(/\\u002d/g, "-");
             var cands = buildCandidates(unpacked, currentUrl);
+            nitro.log("🧩 [hglink] candidatos construidos: " + cands.length);
+            for (var ci = 0; ci < cands.length; ci++) {
+                nitro.log("🧩 [hglink] cand[" + ci + "]: " + cands[ci].url.substring(0, 110));
+            }
             if (cands.length > 0) {
                 return pickBestStreamJ3(cands, unpacked, currentUrl);
             }
-            // fallback viejo: primer m3u8 absoluto
+            // fallback viejo: primer m3u8 absoluto (con aviso)
             var m3u8Match = unpacked.match(/(https?:\/\/[^"']+\.(?:m3u8|txt|urlset)[^"']*)/);
-            if (m3u8Match) return hlBuild(m3u8Match[1], currentUrl);
+            if (m3u8Match) {
+                nitro.log("⚠️ [hglink] fallback primer-m3u8: " + m3u8Match[1].substring(0, 110));
+                return hlBuild(m3u8Match[1], currentUrl);
+            }
+            nitro.log("🚫 [hglink] ni candidatos ni fallback; head=" + ("" + unpacked).substring(0, 200));
         } catch (e) {
             nitro.log("❌ [hglink] unpack error: " + e);
         }
