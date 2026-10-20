@@ -99,7 +99,7 @@ function hlGetRange(url, headers, bytes, tag) {
 // Rechaza los segmentos-farol (tiktokcdn/ad-site/PNG) y URLs muertas.
 // Devuelve {ok:true, url:<m3u8 a reproducir>} donde url es la VARIANTE elegida
 // (no siempre el master) para fijar una calidad que entre en el throttle del CDN.
-var VOD_BAND_CAP = 2400000; // bits/s ~300KB/s, margen sobre el throttle observado (~350KB/s)
+var VOD_BAND_CAP = 1000000; // bits/s ~125KB/s: fuerza 480p con margen sobre el throttle real
 function hlValidate(candidate) {
     try {
         var url = candidate.url;
