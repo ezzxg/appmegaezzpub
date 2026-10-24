@@ -43,10 +43,15 @@
     "megankiddifference.com",
     "morencius.com",
     "acek-cdn.com",
-    "pixibay.cc"
+    "pixibay.cc",
+    "la18hd.su"
   ],
   "extractors": [
     {
+      "name": "la18hd",
+      "regex": ".*la18hd\\.su/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/la18hd.js"
+    },
       "name": "streamtp",
       "regex": ".*(streamtp|global1\\.php).*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamtp.js"
