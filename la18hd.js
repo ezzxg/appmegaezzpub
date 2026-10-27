@@ -7,10 +7,18 @@ async function extract(url) {
         domain = parsed.hostname;
     } catch(e) {}
 
+    // Cabeceras estilo navegacion top-level: la18hd.su devuelve 403 sin Sec-Fetch-*
     let headers = JSON.stringify({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Referer": "https://" + domain + "/",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+        "Origin": "https://" + domain,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1"
     });
 
     let respJson = nitro.fetchFull(url, "GET", null, headers);
@@ -35,10 +43,12 @@ async function extract(url) {
     let html = resp.body;
     nitro.log("[la18hd] HTML length: " + html.length);
 
-    let m3u8Match = html.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i) || 
-                    html.match(/source\s*[:=]\s*["']([^"']+\.m3u8[^"']*)["']/i) ||
-                    html.match(/file\s*[:=]\s*["']([^"']+\.m3u8[^"']*)["']/i) ||
-                    html.match(/src\s*[:=]\s*["']([^"']+\.m3u8[^"']*)["']/i);
+    // Extraer m3u8 del JSON inline (player clappr): "src":"https://...m3u8?token=..."
+    let m3u8Match = html.match(/"src"\s*:\s*"(https?:\/\/[^"]+\.m3u8[^"]*)"/i) ||
+                    html.match(/['"](https?:\/\/[^'"]+\.m3u8[^'"]*)['"]/i) ||
+                    html.match(/source\s*[:=]\s*['"]([^'"]+\.m3u8[^'"]*)['"]/i) ||
+                    html.match(/file\s*[:=]\s*['"]([^'"]+\.m3u8[^'"]*)['"]/i) ||
+                    html.match(/src\s*[:=]\s*['"]([^'"]+\.m3u8[^'"]*)['"]/i);
 
     if (m3u8Match && m3u8Match[1]) {
         let streamUrl = m3u8Match[1].replace(/\\/g, "");
@@ -53,6 +63,7 @@ async function extract(url) {
         };
     }
 
+    // Fallback: iframe
     let iframeMatch = html.match(/<iframe[^>]+src=["']([^"']+)["']/i);
     if (iframeMatch && iframeMatch[1]) {
         let iframeUrl = iframeMatch[1];
@@ -66,7 +77,11 @@ async function extract(url) {
         let iframeHeaders = JSON.stringify({
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
             "Referer": url,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1"
         });
 
         let iframeRespJson = nitro.fetchFull(iframeUrl, "GET", null, iframeHeaders);
@@ -74,9 +89,10 @@ async function extract(url) {
             try {
                 let iResp = JSON.parse(iframeRespJson);
                 let iHtml = iResp.body || "";
-                let iM3u8Match = iHtml.match(/["'](https?:\/\/[^"']+\.m3u8[^"']*)["']/i) ||
-                                 iHtml.match(/source\s*[:=]\s*["']([^"']+\.m3u8[^"']*)["']/i) ||
-                                 iHtml.match(/file\s*[:=]\s*["']([^"']+\.m3u8[^"']*)["']/i);
+                let iM3u8Match = iHtml.match(/"src"\s*:\s*"(https?:\/\/[^"]+\.m3u8[^"]*)"/i) ||
+                                 iHtml.match(/['"](https?:\/\/[^'"]+\.m3u8[^'"]*)['"]/i) ||
+                                 iHtml.match(/source\s*[:=]\s*['"]([^'"]+\.m3u8[^'"]*)['"]/i) ||
+                                 iHtml.match(/file\s*[:=]\s*['"]([^'"]+\.m3u8[^'"]*)['"]/i);
                 if (iM3u8Match && iM3u8Match[1]) {
                     let streamUrl = iM3u8Match[1].replace(/\\/g, "");
                     nitro.log("[la18hd] Found m3u8 in iframe: " + streamUrl);

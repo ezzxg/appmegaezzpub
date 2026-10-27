@@ -44,7 +44,8 @@
     "morencius.com",
     "acek-cdn.com",
     "pixibay.cc",
-    "la18hd.su"
+    "la18hd.su",
+    "fubo18.com"
   ],
   "extractors": [
     {
@@ -52,6 +53,7 @@
       "regex": ".*la18hd\\.su/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/la18hd.js"
     },
+    {
       "name": "streamtp",
       "regex": ".*(streamtp|global1\\.php).*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamtp.js"
@@ -126,7 +128,7 @@
       "regex": "tvf90\\.com/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/tvf90.js"
     },
-{
+    {
       "name": "sensa",
       "regex": "(sensa\\.com\\.ar/.*|megaezz\\.site/.*eldoce.*\\.php)",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/sensa.js"
