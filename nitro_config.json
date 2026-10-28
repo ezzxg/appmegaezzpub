@@ -45,7 +45,9 @@
     "acek-cdn.com",
     "pixibay.cc",
     "la18hd.su",
-    "fubo18.com"
+    "fubo18.com",
+    "wideiptv.top",
+    "bluetier.top"
   ],
   "extractors": [
     {
@@ -152,6 +154,11 @@
       "name": "voe",
       "regex": "(voe\\.sx|megankiddifference\\.com)/e/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/voe.js"
+    },
+    {
+      "name": "wideiptv",
+      "regex": ".*wideiptv\\.top/(daddy\\.php\\?stream=|player/).*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/wideiptv.js"
     }
   ]
 }
