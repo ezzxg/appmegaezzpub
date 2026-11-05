@@ -122,7 +122,7 @@
     },
     {
       "name": "streamxhd",
-      "regex": "streamxhd\\.com/.*",
+      "regex": "streamxhd\\.\\w+/.*,",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/streamxhd.js"
     },
     {
