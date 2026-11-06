@@ -1,109 +1,170 @@
 /**
- * Nitro Driver para dembed.st / daddy.php (v76)
- * CAPTURA OBLIGATORIA de parámetros t y _ en la URL m3u8 desde var playbackURL
- * El servidor los exige firmes para playback
+ * Nitro Driver para dembed.st (daddy.php) - v77
+ *
+ * El manifiesto base esta en el HTML:  const SRC = "...index.m3u8"
+ * pero el EDGE solo sirve la playlist si lleva la firma:
+ *
+ *   SRC + "?t=" + encodeURIComponent(token) + "&_=" + Date.now()
+ *
+ * El token NO esta en el HTML. El player de la pagina lo pide a:
+ *   GET {EDGE}/api/playlist-token?slug={CHANNEL}
+ * y el servidor solo responde 200 si el request lleva:
+ *   Origin: {origen de la pagina embed}
+ *
+ * Este driver replica exactamente esa secuencia (verificada 200 +#EXTM3U).
+ *
+ * OJO: al pedir la pagina NO hay que mandar Sec-Fetch-* ni Referer.
+ * Con esos headers el servidor devuelve 403 "This player only works when
+ * embedded."; un request plano con User-Agent devuelve 200 (702 KB).
+ *
+ * Regla del motor: solo `function` en nivel superior (nada de const/let),
+ * porque el script se inyecta DESPUES del IIFE que llama a extract().
  */
 
 async function extract(url) {
     return await _dembed_extract(url);
 }
 
-// Implementación real - Prioridad 1: var playbackURL = "URL_COMPLETA"
 async function _dembed_extract(url) {
-    nitro.log("🔍 [DEMBED] Iniciando extracción para: " + url);
+    nitro.log("🔍 [dembed] Iniciando: " + url);
 
-    // === FORZAR Referer/Origin fijos a dembed.st ===
-    const FIXED_REFERER = "https://dembed.st/";
-    const FIXED_ORIGIN = "https://dembed.st";
+    var UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
-    nitro.log("🔒 [DEMBED] Usando Referer fijo: " + FIXED_REFERER);
+    // Origen de la pagina (para el header Origin que exige el edge)
+    var pageOrigin = "https://dembed.st";
+    try {
+        var hostMatch = url.match(/^(https?:\/\/[^\/]+)/i);
+        if (hostMatch) pageOrigin = hostMatch[1];
+    } catch (e) {}
 
-    const responseJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": FIXED_REFERER,
-        "Origin": FIXED_ORIGIN,
+    // ---------------------------------------------------------------
+    // 1) HTML del embed. Sin Referer y sin Sec-Fetch-* (si no: 403).
+    // ---------------------------------------------------------------
+    var pageJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
+        "User-Agent": UA,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-        "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
-        "Sec-Fetch-Site": "same-site",
-        "Cache-Control": "no-cache"
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8"
     }));
 
-    let html = "";
+    var html = "";
     try {
-        const response = JSON.parse(responseJson || "{}");
-        html = response.body || "";
-        nitro.log("📦 [DEMBEND] HTTP Status: " + (response.status || "?") + " - Body length: " + html.length);
-    } catch(e) {
-        nitro.log("🔴 [DEMBED] Error parseando respuesta: " + e.message);
+        var pageRes = JSON.parse(pageJson || "{}");
+        html = pageRes.body || "";
+        nitro.log("📦 [dembed] HTML status=" + (pageRes.status || "?") + " len=" + html.length);
+    } catch (e) {
+        nitro.log("❌ [dembed] Error parseando HTML: " + e.message);
         html = "";
     }
 
     if (!html) {
-        nitro.log("🔴 [DEMBED] No se pudo obtener el HTML");
-        nitro.onResult(JSON.stringify(null));
+        nitro.log("❌ [dembed] No se obtuvo el HTML del embed");
         return null;
     }
 
-    // === PRIORIDAD 1: Buscar var playbackURL = "URL_COMPLETA con todos los params ===
-    // Este es el patrón más común en dembed.st/ daddy.php
-    // Captura TODO lo que esté dentro de las comillas después de playbackURL=
-    let m3u8Url = null;
+    // ---------------------------------------------------------------
+    // 2) Extraer SRC (manifiesto), CHANNEL y EDGE del propio HTML.
+    // ---------------------------------------------------------------
+    var src = "";
+    var channel = "";
+    var edge = "";
 
-    // Patrón: var playbackURL = "https://... .m3u8?t=...&_=..."
-    const playbackMatch = html.match(/var\s+playbackURL\s*=\s*["']([^"']+)["']/i);
-    if (playbackMatch && playbackMatch[1]) {
-        m3u8Url = playbackMatch[1].replace(/\\\//g, "/");
-        // Este es el caso clave: la URL COMPLETA con params t y _ viene dentro de las comillas
-        nitro.log("🎯 [DEMBED] playbackURL encontrado CON parámetros (t & _): " + m3u8Url);
-        // No hacemos ningún replace que los quite - los conservamos tal cual
+    var mSrc = html.match(/const\s+SRC\s*=\s*["']([^"']+)["']/);
+    if (mSrc) src = mSrc[1].replace(/\\\//g, "/");
+
+    var mCh = html.match(/const\s+CHANNEL\s*=\s*["']([^"']+)["']/);
+    if (mCh) channel = mCh[1];
+
+    var mEdge = html.match(/const\s+EDGE\s*=\s*["']([^"']+)["']/);
+    if (mEdge) edge = mEdge[1].replace(/\\\//g, "/");
+
+    // Fallback: cualquier .m3u8 del HTML (comportamiento anterior)
+    if (!src) {
+        var mAny = html.match(/https?:\/\/[^\s"'<>]+\.m3u8[^\s"'<>]*/i);
+        if (mAny) src = mAny[0].replace(/\\\//g, "/");
+    }
+
+    if (!src) {
+        nitro.log("❌ [dembed] No se encontro SRC/m3u8 en el HTML");
+        return null;
+    }
+
+    if (src.indexOf("//") === 0) src = "https:" + src;
+
+    // EDGE: si no estaba, usar el origen del SRC
+    if (!edge) {
+        var mOrigin = src.match(/^(https?:\/\/[^\/]+)/i);
+        edge = mOrigin ? mOrigin[1] : pageOrigin;
+    }
+
+    // CHANNEL: si no estaba, deducirlo del path del SRC (/premium537/index.m3u8)
+    if (!channel) {
+        var mSlug = src.match(/\/([^\/]+)\/[^\/]*\.m3u8/i);
+        if (mSlug) channel = mSlug[1];
+    }
+
+    nitro.log("🎯 [dembed] SRC=" + src + " | CHANNEL=" + channel + " | EDGE=" + edge);
+
+    // ---------------------------------------------------------------
+    // 3) Token de playlist. Requiere header Origin (el Referer solo no basta).
+    // ---------------------------------------------------------------
+    var token = "";
+    if (channel) {
+        var tokenUrl = edge + "/api/playlist-token?slug=" + encodeURIComponent(channel);
+
+        var tokenJson = nitro.fetchFull(tokenUrl, "GET", null, JSON.stringify({
+            "User-Agent": UA,
+            "Origin": pageOrigin,
+            "Referer": pageOrigin + "/",
+            "Accept": "application/json, text/plain, */*"
+        }));
+
+        try {
+            var tokRes = JSON.parse(tokenJson || "{}");
+            nitro.log("🎫 [dembed] token status=" + (tokRes.status || "?"));
+            var tokBody = JSON.parse(tokRes.body || "{}");
+            if (tokBody && tokBody.token) token = tokBody.token;
+        } catch (e) {
+            nitro.log("⚠️ [dembed] No se pudo parsear el token: " + e.message);
+        }
+
+        // Reintento sin Referer (por si el edge cambia la validacion)
+        if (!token) {
+            var tokenJson2 = nitro.fetchFull(tokenUrl, "GET", null, JSON.stringify({
+                "User-Agent": UA,
+                "Origin": pageOrigin,
+                "Accept": "application/json, text/plain, */*"
+            }));
+            try {
+                var tokRes2 = JSON.parse(tokenJson2 || "{}");
+                var tokBody2 = JSON.parse(tokRes2.body || "{}");
+                if (tokBody2 && tokBody2.token) token = tokBody2.token;
+            } catch (e2) {}
+        }
+    }
+
+    // ---------------------------------------------------------------
+    // 4) Armar la URL firmada igual que cleanPlaylistUrl() del player:
+    //    se quitan _ y t previos, y se agregan t=<token> y _=<ms>.
+    // ---------------------------------------------------------------
+    var base = src.split("?")[0];
+    var finalUrl = base;
+    if (token) {
+        finalUrl = base + "?t=" + encodeURIComponent(token) + "&_=" + Date.now();
+        nitro.log("✅ [dembed] URL firmada: " + finalUrl);
     } else {
-        nitro.log("⚠️ [DEMBED] No encontró var playbackURL, intentando patrón alternativo...");
-        
-        // PRIORIDAD 2: Buscar cualquier .m3u8 URL en el HTML preservando parámetros
-        // Patrón que captura desde https hasta el siguiente " o espacio, incluyendo ?t= & _=
-        const altPattern = /https?:\/\/[^\s"',]+\.m3u8[^\s"',]*/i;
-        const altMatch = html.match(altPattern);
-        
-        if (altMatch && altMatch[0]) {
-            m3u8Url = altMatch[0].replace(/\\\//g, "/");
-            nitro.log("🎯 [DEMBED] URL m3u8 capturada (patrón alt): " + m3u8Url);
-        } else {
-            nitro.log("⚠️ [DEMBED] No se encontró URL m3u8 con patrones alternativos");
+        nitro.log("⚠️ [dembed] Sin token; se devuelve el SRC base (el edge dara 403)");
+        finalUrl = src;
+    }
+
+    var result = {
+        url: finalUrl,
+        headers: {
+            "User-Agent": UA,
+            "Origin": pageOrigin,
+            "Referer": pageOrigin + "/"
         }
-    }
+    };
 
-    // Si encontramos URL, devolverla PRESERVIENDO TODOS los parámetros t, _
-    if (m3u8Url && m3u8Url.startsWith("http")) {
-        const result = {
-            url: m3u8Url,
-            headers: {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                "Referer": FIXED_REFERER,
-                "Origin": FIXED_ORIGIN
-            }
-        };
-        nitro.log("✅ [DEMBEND] Extracción exitosa CON URL completa y parámetros: " + m3u8Url);
-        nitro.onResult(JSON.stringify(result));
-        return result;
-    }
-
-    nitro.log("❌ [DEMBED] No se encontrÍ URL de stream válida con parámetros");
-    nitro.onResult(JSON.stringify(null));
-    return null;
+    nitro.onResult(JSON.stringify(result));
+    return result;
 }
-
-// AUTO-EJECUCIÓN
-(function() {
-    try {
-        if (typeof __nitro_target_url !== 'undefined' && __nitro_target_url) {
-            _dembed_extract(__nitro_target_url).catch(function(e) {
-                nitro.log("🔴 [DEMBED Auto] Error: " + e.message);
-                nitro.onResult(JSON.stringify(null));
-            });
-        }
-    } catch(e) {
-        // Silenciar errores del auto-execute
-    }
-})();
