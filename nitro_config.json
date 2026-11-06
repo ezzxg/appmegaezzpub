@@ -29,6 +29,7 @@
     "phantemlis.top",
     "streamxhd.com",
     "streamxhd.sbs",
+    "dembed.st",
     "futlivehd.com",
     "tvf90.com",
     "ftlycdn7.b-cdn.net",
@@ -160,6 +161,11 @@
       "name": "wideiptv",
       "regex": ".*wideiptv\\.top/(daddy\\.php\\?stream=|player/).*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/wideiptv.js"
+    },
+    {
+      "name": "dembed",
+      "regex": "dembed\\.st/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/dembed.js"
     }
   ]
 }
