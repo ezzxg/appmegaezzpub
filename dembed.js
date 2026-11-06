@@ -1,33 +1,29 @@
 /**
  * Nitro Driver para dembed.st / daddy.php (v76)
- * Manejo de player embebido - requiere Referer/Origin correctos
- * Mensaje: "This player only works when embedded." si no viene del iframe correcto
+ * Captura URL completa con parámetros firma (t, _) para evitar 403
+ * El servidor requiere los parámetros exactos del HTML original
  */
 
 async function extract(url) {
     return await _dembed_extract(url);
 }
 
-// Implementación real
+// Implementación real - CAPTURA COMPLETA DE URL CON PARAMETROS
 async function _dembed_extract(url) {
     nitro.log("🔍 [DEMBED] Iniciando extracción para: " + url);
 
-    // Extraer el host para construir Referer y Origin
-    let host = "dembed.st";
-    try {
-        const hostMatch = url.match(/https?:\/\/([^\/]+)/);
-        if (hostMatch) host = hostMatch[1];
-    } catch(e) {}
+    // === FORZAR Referer/Origin fijos a dembed.st ===
+    // El servidor dembed.st requiere que el Referer sea siempre dembed.st
+    const FIXED_REFERER = "https://dembed.st/";
+    const FIXED_ORIGIN = "https://dembed.st";
 
-    const referer = "https://" + host + "/";
-    const origin = "https://" + host;
+    nitro.log("🔒 [DEMBED] Usando Referer fijo: " + FIXED_REFERER);
 
-    // PeticiÓn HTTP directa con OkHttp (no WebView, sin anti-embedding)
-    // Incluimos headers que simulan venir de un iframe embed
+    // PeticiÓn HTTP directa con OkHeaders fijos
     const responseJson = nitro.fetchFull(url, "GET", null, JSON.stringify({
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": referer,
-        "Origin": origin,
+        "Referer": FIXED_REFERER,
+        "Origin": FIXED_ORIGIN,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
         "Sec-Fetch-Dest": "document",
@@ -40,9 +36,9 @@ async function _dembed_extract(url) {
     try {
         const response = JSON.parse(responseJson || "{}");
         html = response.body || "";
-        nitro.log("📦 [DEMBED] HTTP Status: " + (response.status || "?") + " - Body length: " + html.length);
+        nitro.log("📦 [DEMBEND] HTTP Status: " + (response.status || "?") + " - Body length: " + html.length);
         if (html.contains("This player only works when embedded")) {
-            nitro.log("🚫 [DEMBED] Mensaje de bloqueo de iframe detectado - intentando workaround...");
+            nitro.log("🚫 [DEMBED] Bloqueo iframe detectado - usando Referer fijo");
         }
     } catch(e) {
         nitro.log("🔴 [DEMBED] Error parseando respuesta: " + e.message);
@@ -55,17 +51,17 @@ async function _dembed_extract(url) {
         return null;
     }
 
-    // 1. Buscar URL m3u8 en el HTML - patrones comunes
+    // 1. Buscar URL m3u8 completa preservando todos los parámetros (t, _, firma, etc.)
     let m3u8Url = null;
 
-    // Patrón 1: var playbackURL = "url"
+    // Patrón 1: Buscar var playbackURL = "url completa con parámetros"
     const playbackMatch = html.match(/var\s+playbackURL\s*=\s*["']([^"']+)["']/i);
     if (playbackMatch && playbackMatch[1]) {
         m3u8Url = playbackMatch[1].replace(/\\\//g, "/");
         nitro.log("🎯 [DEMBED] playbackURL encontrado (var): " + m3u8Url);
     }
 
-    // Patrón 2: playbackURL = "url" (sin var)
+    // Patrón 2: Buscar playbackURL sin comillas
     if (!m3u8Url) {
         const directMatch = html.match(/playbackURL\s*=\s*["']([^"']+)["']/i);
         if (directMatch && directMatch[1]) {
@@ -74,42 +70,45 @@ async function _dembed_extract(url) {
         }
     }
 
-    // Patrón 3: URL .m3u8 directa en el HTML
+    // Patrón 3: Buscar URL .m3u8 completa preservando todo lo que venga después (incluyendo ?t= & _=)
+    // Esto es lo más importante - capturar la URL completa tal como está en el HTML
     if (!m3u8Url) {
-        const directM3u8 = html.match(/https?:\/\/[^\s"'<>]+\.m3u8[^\s"'<>]*/i);
+        // Este patrón captura https://.../index.m3u8?t=...&_=... o cualquier parámetro posterior
+        const directM3u8 = html.match(/https?:\/\/[^\s"'<>]*\.m3u8[^\s"'<>]*/i);
         if (directM3u8) {
             m3u8Url = directM3u8[0].replace(/\\\//g, "/");
-            nitro.log("🎯 [DEMBEND] m3u8 encontrado por búsq: " + m3u8Url);
+            // NO recortamos nada - preservamos TODOS los parámetros t, _, etc.
+            nitro.log("🎯 [DEMBED] m3u8 encontrado por búsq (COMPLETO): " + m3u8Url);
         }
     }
 
-    // Patrón 4: Buscar en iframes o sources dentro del HTML
+    // Patrón 4: Buscar en iframes src
     if (!m3u8Url) {
         const iframeMatch = html.match(/<iframe[^>]+src=["']([^"']+)["']/i);
         if (iframeMatch) {
-            nitro.log("🔄 [DEMBED] Encontrado iframe src, continuando búsqueda...");
+            nitro.log("🔄 [DEMBED] Encontrado iframe src...");
         }
     }
 
-    // Patrón 5: Buscar en source tags o video tags
+    // Patrón 5: Buscar source tags
     if (!m3u8Url) {
         const sourceMatch = html.match(/<source[^>]+src=["']([^"']+)["']/i);
         if (sourceMatch) {
-            nitro.log("🔄 [DEMBED] Encontrado source src: " + sourceMatch[1]);
+            nitro.log("🔄 [DEMBED] Encontrado source src...");
         }
     }
 
-    // Si encontramos URL, devolverla con headers
+    // Si encontramos URL, devolverla preservando TODOS los parámetros
     if (m3u8Url && m3u8Url.startsWith("http")) {
         const result = {
             url: m3u8Url,
             headers: {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-                "Referer": referer,
-                "Origin": origin
+                "Referer": FIXED_REFERER,
+                "Origin": FIXED_ORIGIN
             }
         };
-        nitro.log("✅ [DEMBED] Extracción exitosa: " + m3u8Url);
+        nitro.log("✅ [DEMBEND] Extracción exitosa: " + m3u8Url);
         nitro.onResult(JSON.stringify(result));
         return result;
     }
@@ -119,8 +118,7 @@ async function _dembed_extract(url) {
     return null;
 }
 
-// AUTO-EJECUCIÓN: el motor Nitro inyecta este script DESPUÉS de llamar extract()
-// El motor establece __nitro_target_url antes de inyectar, así que lo capturamos aquí
+// AUTO-EJECUCIÓN
 (function() {
     try {
         if (typeof __nitro_target_url !== 'undefined' && __nitro_target_url) {
