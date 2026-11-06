@@ -1,6 +1,6 @@
 /**
  * Nitro Driver para dembed.st / daddy.php (v76)
- * CAPTURA OBLIGATORIA de parámetros t y _ en la URL m3u8
+ * CAPTURA OBLIGATORIA de parámetros t y _ en la URL m3u8 desde var playbackURL
  * El servidor los exige firmes para playback
  */
 
@@ -8,7 +8,7 @@ async function extract(url) {
     return await _dembed_extract(url);
 }
 
-// Implementación real - Forzando captura completa de URL con params
+// Implementación real - Prioridad 1: var playbackURL = "URL_COMPLETA"
 async function _dembed_extract(url) {
     nitro.log("🔍 [DEMBED] Iniciando extracción para: " + url);
 
@@ -46,36 +46,31 @@ async function _dembed_extract(url) {
         return null;
     }
 
-    // 1. Buscar URL m3u8 - PATRÓN OBLIGATORIO que captura TODO incluyendo ?t= & _=
-    // Este patrón captura: https://domain.com/file.m3u8?t=123&_=456 CUALQUIERA QUE VENGA DESPUÉS
+    // === PRIORIDAD 1: Buscar var playbackURL = "URL_COMPLETA con todos los params ===
+    // Este es el patrón más común en dembed.st/ daddy.php
+    // Captura TODO lo que esté dentro de las comillas después de playbackURL=
     let m3u8Url = null;
 
-    // PATRÓN PRINCIPAL: https://cualquier_cosa.m3u8?param1=valor1&param2=valor2
-    // El [^\s"'<>]* captura TODOS los caracteres que no sean espacio, comilla o < >
-    const mainPattern = /https?:\/\/[^\s"'<>]*\.m3u8[^\s"'<>]*/i;
-    const mainMatch = html.match(mainPattern);
-
-    if (mainMatch && mainMatch[0]) {
-        m3u8Url = mainMatch[0].replace(/\\\//g, "/");
-        // NO recortamos nada - preservamos TODOS los caracteres incluyendo ?t= & _=
-        nitro.log("🎯 [DEMBED] URL m3u8 OBLIGATORIA capturada (COMPLETA): " + m3u8Url);
+    // Patrón: var playbackURL = "https://... .m3u8?t=...&_=..."
+    const playbackMatch = html.match(/var\s+playbackURL\s*=\s*["']([^"']+)["']/i);
+    if (playbackMatch && playbackMatch[1]) {
+        m3u8Url = playbackMatch[1].replace(/\\\//g, "/");
+        // Este es el caso clave: la URL COMPLETA con params t y _ viene dentro de las comillas
+        nitro.log("🎯 [DEMBED] playbackURL encontrado CON parámetros (t & _): " + m3u8Url);
+        // No hacemos ningún replace que los quite - los conservamos tal cual
     } else {
-        nitro.log("⚠️ [DEMBED] No coincidió patrón principal, intentando alternativos...");
+        nitro.log("⚠️ [DEMBED] No encontró var playbackURL, intentando patrón alternativo...");
         
-        // PATRÓN SECUNDARIO: var playbackURL = "url"
-        const playbackMatch = html.match(/var\s+playbackURL\s*=\s*["']([^"']+)["']/i);
-        if (playbackMatch && playbackMatch[1]) {
-            m3u8Url = playbackMatch[1].replace(/\\\//g, "/");
-            nitro.log("🎯 [DEMBED] playbackURL var: " + m3u8Url);
-        }
+        // PRIORIDAD 2: Buscar cualquier .m3u8 URL en el HTML preservando parámetros
+        // Patrón que captura desde https hasta el siguiente " o espacio, incluyendo ?t= & _=
+        const altPattern = /https?:\/\/[^\s"',]+\.m3u8[^\s"',]*/i;
+        const altMatch = html.match(altPattern);
         
-        // PATRÓN SECUNDARIO: playbackURL = (sin comillas)
-        if (!m3u8Url) {
-            const directMatch = html.match(/playbackURL\s*=\s*["']([^"']+)["']/i);
-            if (directMatch && directMatch[1]) {
-                m3u8Url = directMatch[1].replace(/\\\//g, "/");
-                nitro.log("🎯 [DEMBED] playbackURL directo: " + m3u8Url);
-            }
+        if (altMatch && altMatch[0]) {
+            m3u8Url = altMatch[0].replace(/\\\//g, "/");
+            nitro.log("🎯 [DEMBED] URL m3u8 capturada (patrón alt): " + m3u8Url);
+        } else {
+            nitro.log("⚠️ [DEMBED] No se encontró URL m3u8 con patrones alternativos");
         }
     }
 
@@ -89,12 +84,12 @@ async function _dembed_extract(url) {
                 "Origin": FIXED_ORIGIN
             }
         };
-        nitro.log("✅ [DEMBEND] Extracción exitosa con URL completa: " + m3u8Url);
+        nitro.log("✅ [DEMBEND] Extracción exitosa CON URL completa y parámetros: " + m3u8Url);
         nitro.onResult(JSON.stringify(result));
         return result;
     }
 
-    nitro.log("❌ [DEMBED] No se encontrÍ URL de stream válida");
+    nitro.log("❌ [DEMBED] No se encontrÍ URL de stream válida con parámetros");
     nitro.onResult(JSON.stringify(null));
     return null;
 }
