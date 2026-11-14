@@ -306,7 +306,7 @@ async function rdcResolveEmbed(embedUrl, pageUrl, tag) {
         return null;
     }
 
-    var headers = rdcHeaders(iframe + "/");
+    var headers = rdcHeaders(iframe);
     for (var i = 0; i < json.u.length; i++) {
         var u = String(json.u[i]).replace(/\\\//g, "/");
         nitro.log("🎬 [rdc] embed" + tag + " candidato[" + i + "]: " + u.substring(0, 120));

@@ -49,7 +49,16 @@
     "la18hd.su",
     "fubo18.com",
     "wideiptv.top",
-    "bluetier.top"
+    "bluetier.top",
+    "reidoscanais.im",
+    "esportesembed.cc",
+    "mastruzcomleite.site",
+    "atlas.mediastream.best",
+    "asgard.fastimg.live",
+    "mediastream.best",
+    "fastimg.live",
+    "p16.tiktokcdn.com",
+    "tiktokcdn.com"
   ],
   "extractors": [
     {
@@ -166,6 +175,11 @@
       "name": "dembed",
       "regex": "dembed\\.st/.*",
       "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/dembed.js"
+    },
+    {
+      "name": "reidoscanais",
+      "regex": "reidoscanais\\.im/assistir/.*",
+      "script": "https://raw.githubusercontent.com/ezzxg/appmegaezzpub/main/reidoscanais.js"
     }
   ]
 }
