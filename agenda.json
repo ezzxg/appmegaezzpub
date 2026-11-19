@@ -1,68 +1,101 @@
 [
     {
         "category": "Fútbol",
-        "title": "Coritiba vs Santos",
+        "title": "Nueva Caledonia sub-17 vs Ecuador sub-17",
+        "subtitle": "Mundial sub-17",
+        "time": "10:00",
+        "channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://i.imgur.com/q0EGIWg.png",
+        "target_channel_name": "Dsports 2 HD",
+        "home_logo": "",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Arabia Saudita sub-17 vs Uruguay sub-17",
+        "subtitle": "Mundial sub-17",
+        "time": "11:00",
+        "channel_name": "Dsports AR",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "target_channel_name": "Dsports AR",
+        "home_logo": "",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Argentina sub-17 vs Australia sub-17",
+        "subtitle": "Mundial sub-17",
+        "time": "13:00",
+        "channel_name": "Dsports AR",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
+        "target_channel_name": "Dsports AR",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Vasco vs Internacional",
         "subtitle": "Brasileirao Serie A",
         "time": "19:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png"
     },
     {
         "category": "Fútbol",
-        "title": "Remo vs Chapecoense",
+        "title": "Vitória vs Bragantino",
         "subtitle": "Brasileirao Serie A",
-        "time": "20:00",
+        "time": "19:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png"
     },
     {
         "category": "Fútbol",
-        "title": "Cruzeiro vs Palmeiras",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png"
-    },
-    {
-        "category": "Fútbol",
-        "title": "Flamengo vs Athletico PR",
-        "subtitle": "Brasileirao Serie A",
-        "time": "20:30",
-        "channel_name": "Por Definir",
-        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
-        "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-        "away_logo": ""
-    },
-    {
-        "category": "Fútbol",
-        "title": "Corinthians vs Botafogo",
+        "title": "São Paulo vs Fluminense",
         "subtitle": "Brasileirao Serie A",
         "time": "21:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png"
     },
     {
         "category": "Fútbol",
-        "title": "Grêmio vs Bahia",
-        "subtitle": "Brasileirao Serie A",
-        "time": "21:30",
+        "title": "Progreso vs City Torque",
+        "subtitle": "Primera División Uruguay",
+        "time": "16:30",
         "channel_name": "Por Definir",
         "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "target_channel_name": "Por Definir",
-        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png"
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Boston River vs Maldonado",
+        "subtitle": "Primera División Uruguay",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/0fmxza1580234592.png"
+    },
+    {
+        "category": "Fútbol",
+        "title": "Peñarol vs Cerro Largo",
+        "subtitle": "Primera División Uruguay",
+        "time": "16:30",
+        "channel_name": "Por Definir",
+        "channel_logo_url": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
+        "target_channel_name": "Por Definir",
+        "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png"
     }
 ]
