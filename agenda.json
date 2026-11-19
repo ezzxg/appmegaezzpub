@@ -1,36 +1,36 @@
 [
     {
-        "category": "Fútbol",
-        "title": "Nueva Caledonia sub-17 vs Ecuador sub-17",
-        "subtitle": "Mundial sub-17",
+        "title": "Nueva Caledonia vs Ecuador",
         "time": "10:00",
+        "subtitle": "Mundial sub-17",
         "channel_name": "Dsports 2 HD",
-        "channel_logo_url": "https://i.imgur.com/q0EGIWg.png",
         "target_channel_name": "Dsports 2 HD",
+        "channel_logo_url": "https://i.imgur.com/q0EGIWg.png",
         "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Arabia Saudita sub-17 vs Uruguay sub-17",
-        "subtitle": "Mundial sub-17",
+        "title": "Arabia Saudita vs Uruguay",
         "time": "11:00",
+        "subtitle": "Mundial sub-17",
         "channel_name": "Dsports AR",
-        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "target_channel_name": "Dsports AR",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "home_logo": "",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png",
+        "category": "Fútbol"
     },
     {
-        "category": "Fútbol",
-        "title": "Argentina sub-17 vs Australia sub-17",
-        "subtitle": "Mundial sub-17",
+        "title": "Argentina  vs Australia ",
         "time": "13:00",
+        "subtitle": "Mundial sub-17",
         "channel_name": "Dsports AR",
-        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "target_channel_name": "Dsports AR",
+        "channel_logo_url": "https://i.imgur.com/ENf4J1q.png",
         "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
-        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png"
+        "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png",
+        "category": "Fútbol"
     },
     {
         "category": "Fútbol",
